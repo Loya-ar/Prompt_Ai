@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-11T01:49:32.557693",
+  "significance_level": 0.05,
+  "agents": {
+    "statistical": {
+      "episodes_analyzed": 6,
+      "reward_analysis": {
+        "early_mean": 1.3333333333333333,
+        "late_mean": 2.4,
+        "improvement_percentage": 80.0,
+        "test_statistic": 31.999999999999932,
+        "p_value": 0.0009751343128597738,
+        "significant_improvement": 
