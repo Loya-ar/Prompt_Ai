@@ -1,0 +1,10 @@
+{
+  "revenue": "Total income generated from business operations",
+  "profit_margin": "Percentage of revenue that exceeds costs",
+  "conversion_rate": "Percentage of prospects that become customers", 
+  "churn_rate": "Percentage of customers who stop using the service",
+  "lifetime_value": "Predicted net profit from customer relationship",
+  "acquisition_cost": "Cost to acquire a new customer",
+  "retention_rate": "Percentage of customers retained over time",
+  "roi": "Return on investment - profit gained relative to investment cost"
+}

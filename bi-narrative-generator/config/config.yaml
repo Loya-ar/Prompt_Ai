@@ -1,0 +1,71 @@
+# Business Intelligence Narrative Generator Configuration
+# Author: Arjun Loya
+
+app:
+  name: "Business Intelligence Narrative Generator"
+  version: "1.0.0"
+  description: "Advanced AI-powered business intelligence reporting system"
+  author: "Arjun Loya"
+  course: "ST. Prompt Engineering & AI"
+  
+# API Configuration
+api:
+  openai:
+    model: "gpt-4-turbo-preview"
+    max_tokens: 2000
+    temperature: 0.3
+    top_p: 0.9
+  
+  backup_model: "gpt-3.5-turbo"
+
+# Data Processing Configuration
+data:
+  max_file_size_mb: 50
+  supported_formats: ["csv", "xlsx", "xls", "json"]
+  sample_size_large_datasets: 10000
+  chunk_size: 1000
+  quality_threshold: 70
+
+# Visualization Configuration
+visualization:
+  default_theme: "plotly_white"
+  color_palette: 
+    - "#1f77b4"  # Blue
+    - "#ff7f0e"  # Orange  
+    - "#2ca02c"  # Green
+    - "#d62728"  # Red
+    - "#9467bd"  # Purple
+  chart_height: 400
+  chart_width: 800
+  export_formats: ["png", "html", "pdf"]
+
+# Report Generation Configuration
+reports:
+  default_format: "html"
+  include_charts: true
+  include_raw_data: false
+  template_directory: "templates/report_templates"
+  max_insights: 10
+  executive_summary_length: 300
+
+# Business Intelligence Configuration
+business_intelligence:
+  trend_detection_threshold: 0.4
+  anomaly_detection_method: "iqr"
+  seasonality_detection: true
+  correlation_threshold: 0.7
+  
+# Prompt Engineering Configuration
+prompts:
+  dynamic_adaptation: true
+  context_window_size: 4000
+  business_domain_detection: true
+  multi_step_reasoning: true
+  
+# Logging Configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/app.log"
+  max_file_size: "10MB"
+  backup_count: 5

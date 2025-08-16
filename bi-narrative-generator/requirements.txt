@@ -1,0 +1,16 @@
+# Business Intelligence Narrative Generator
+# Updated with Google Gemini API
+
+streamlit==1.28.0
+pandas==2.1.0
+numpy==1.24.0
+plotly==5.17.0
+scipy==1.11.0
+pathlib
+python-dotenv==1.0.0
+
+# Google Gemini API (FREE)
+google-genai==0.4.0
+
+# Optional: OpenAI (if you want both)
+openai==1.3.0

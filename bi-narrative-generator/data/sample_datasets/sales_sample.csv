@@ -1,0 +1,21 @@
+Date,Product,Sales_Amount,Units_Sold,Region,Sales_Rep,Commission,Quarter,Month,Day_of_Week,Revenue_Per_Unit,Is_Large_Deal
+2023-01-01,Mobile App,5745.0,721,Europe,David Kim,459.6,Q1,January,Sunday,7.968099861303744,False
+2023-01-01,Analytics Suite,33548.0,3,Latin America,Mike Chen,2683.84,Q1,January,Sunday,11182.666666666666,True
+2023-01-01,Cloud Platform,17914.0,3,Latin America,David Kim,1433.12,Q1,January,Sunday,5971.333333333333,False
+2023-01-01,Mobile App,7284.0,135,Asia Pacific,Sarah Johnson,582.72,Q1,January,Sunday,53.955555555555556,False
+2023-01-01,Professional Services,23243.0,1,Asia Pacific,David Kim,1859.44,Q1,January,Sunday,23243.0,False
+2023-01-02,Professional Services,23243.0,3,Latin America,Sarah Johnson,1859.44,Q1,January,Monday,7747.666666666667,False
+2023-01-02,Mobile App,7368.0,841,Asia Pacific,Emily Rodriguez,589.44,Q1,January,Monday,8.760998810939357,False
+2023-01-02,Analytics Suite,43058.0,2,Latin America,Mike Chen,3444.64,Q1,January,Monday,21529.0,True
+2023-01-02,Enterprise Software,42957.0,2,North America,James Wilson,3436.56,Q1,January,Monday,21478.5,True
+2023-01-02,Cloud Platform,17441.0,10,North America,Lisa Thompson,1395.28,Q1,January,Monday,1744.1,False
+2023-01-02,Enterprise Software,43048.0,5,Asia Pacific,Lisa Thompson,3443.84,Q1,January,Monday,8609.6,True
+2023-01-03,Professional Services,21507.0,6,Latin America,Mike Chen,1720.56,Q1,January,Tuesday,3584.5,False
+2023-01-03,Enterprise Software,53629.0,5,Europe,David Kim,4290.32,Q1,January,Tuesday,10725.8,True
+2023-01-03,Mobile App,2130.0,368,Europe,Emily Rodriguez,170.4,Q1,January,Tuesday,5.788043478260869,False
+2023-01-03,Professional Services,12063.0,6,North America,James Wilson,965.04,Q1,January,Tuesday,2010.5,False
+2023-01-03,Mobile App,4156.0,408,North America,James Wilson,332.48,Q1,January,Tuesday,10.186274509803921,False
+2023-01-03,Cloud Platform,10442.0,9,North America,David Kim,835.36,Q1,January,Tuesday,1160.2222222222222,False
+2023-01-04,Analytics Suite,38299.0,5,Latin America,David Kim,3063.92,Q1,January,Wednesday,7659.8,True
+2023-01-04,Mobile App,3637.0,435,Latin America,Sarah Johnson,290.96,Q1,January,Wednesday,8.360919540229885,False
+2023-01-04,Cloud Platform,8644.0,4,Latin America,Sarah Johnson,691.52,Q1,January,Wednesday,2161.0,False

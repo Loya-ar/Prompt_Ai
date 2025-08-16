@@ -1,0 +1,1817 @@
+Date,Product,Sales_Amount,Units_Sold,Region,Sales_Rep,Commission,Quarter,Month,Day_of_Week,Revenue_Per_Unit,Is_Large_Deal
+2023-01-01,Mobile App,5745.0,721,Europe,David Kim,459.6,Q1,January,Sunday,7.968099861303744,False
+2023-01-01,Analytics Suite,33548.0,3,Latin America,Mike Chen,2683.84,Q1,January,Sunday,11182.666666666666,True
+2023-01-01,Cloud Platform,17914.0,3,Latin America,David Kim,1433.12,Q1,January,Sunday,5971.333333333333,False
+2023-01-01,Mobile App,7284.0,135,Asia Pacific,Sarah Johnson,582.72,Q1,January,Sunday,53.955555555555556,False
+2023-01-01,Professional Services,23243.0,1,Asia Pacific,David Kim,1859.44,Q1,January,Sunday,23243.0,False
+2023-01-02,Professional Services,23243.0,3,Latin America,Sarah Johnson,1859.44,Q1,January,Monday,7747.666666666667,False
+2023-01-02,Mobile App,7368.0,841,Asia Pacific,Emily Rodriguez,589.44,Q1,January,Monday,8.760998810939357,False
+2023-01-02,Analytics Suite,43058.0,2,Latin America,Mike Chen,3444.64,Q1,January,Monday,21529.0,True
+2023-01-02,Enterprise Software,42957.0,2,North America,James Wilson,3436.56,Q1,January,Monday,21478.5,True
+2023-01-02,Cloud Platform,17441.0,10,North America,Lisa Thompson,1395.28,Q1,January,Monday,1744.1,False
+2023-01-02,Enterprise Software,43048.0,5,Asia Pacific,Lisa Thompson,3443.84,Q1,January,Monday,8609.6,True
+2023-01-03,Professional Services,21507.0,6,Latin America,Mike Chen,1720.56,Q1,January,Tuesday,3584.5,False
+2023-01-03,Enterprise Software,53629.0,5,Europe,David Kim,4290.32,Q1,January,Tuesday,10725.8,True
+2023-01-03,Mobile App,2130.0,368,Europe,Emily Rodriguez,170.4,Q1,January,Tuesday,5.788043478260869,False
+2023-01-03,Professional Services,12063.0,6,North America,James Wilson,965.04,Q1,January,Tuesday,2010.5,False
+2023-01-03,Mobile App,4156.0,408,North America,James Wilson,332.48,Q1,January,Tuesday,10.186274509803921,False
+2023-01-03,Cloud Platform,10442.0,9,North America,David Kim,835.36,Q1,January,Tuesday,1160.2222222222222,False
+2023-01-04,Analytics Suite,38299.0,5,Latin America,David Kim,3063.92,Q1,January,Wednesday,7659.8,True
+2023-01-04,Mobile App,3637.0,435,Latin America,Sarah Johnson,290.96,Q1,January,Wednesday,8.360919540229885,False
+2023-01-04,Cloud Platform,8644.0,4,Latin America,Sarah Johnson,691.52,Q1,January,Wednesday,2161.0,False
+2023-01-04,Mobile App,7198.0,890,Latin America,Mike Chen,575.84,Q1,January,Wednesday,8.087640449438203,False
+2023-01-04,Analytics Suite,32629.0,5,Latin America,Lisa Thompson,2610.32,Q1,January,Wednesday,6525.8,True
+2023-01-05,Cloud Platform,15303.0,8,Latin America,Mike Chen,1224.24,Q1,January,Thursday,1912.875,False
+2023-01-05,Enterprise Software,28628.0,1,Europe,David Kim,2290.24,Q1,January,Thursday,28628.0,False
+2023-01-05,Mobile App,4183.0,854,Asia Pacific,David Kim,334.64,Q1,January,Thursday,4.898126463700234,False
+2023-01-05,Analytics Suite,36164.0,5,North America,Emily Rodriguez,2893.12,Q1,January,Thursday,7232.8,True
+2023-01-05,Analytics Suite,22914.0,2,Latin America,Emily Rodriguez,1833.12,Q1,January,Thursday,11457.0,False
+2023-01-06,Enterprise Software,55635.0,4,Asia Pacific,Mike Chen,4450.8,Q1,January,Friday,13908.75,True
+2023-01-06,Enterprise Software,40990.0,1,North America,Lisa Thompson,3279.2,Q1,January,Friday,40990.0,True
+2023-01-06,Enterprise Software,45624.0,4,Europe,James Wilson,3649.92,Q1,January,Friday,11406.0,True
+2023-01-06,Analytics Suite,28682.0,5,Europe,David Kim,2294.56,Q1,January,Friday,5736.4,False
+2023-01-06,Cloud Platform,23335.0,2,Europe,David Kim,1866.8,Q1,January,Friday,11667.5,False
+2023-01-07,Enterprise Software,49797.0,3,Asia Pacific,David Kim,3983.76,Q1,January,Saturday,16599.0,True
+2023-01-07,Enterprise Software,34134.0,3,Latin America,Mike Chen,2730.72,Q1,January,Saturday,11378.0,True
+2023-01-07,Analytics Suite,43636.0,4,North America,James Wilson,3490.88,Q1,January,Saturday,10909.0,True
+2023-01-07,Analytics Suite,22181.0,3,North America,Emily Rodriguez,1774.48,Q1,January,Saturday,7393.666666666667,False
+2023-01-07,Professional Services,26566.0,4,Asia Pacific,David Kim,2125.28,Q1,January,Saturday,6641.5,False
+2023-01-08,Professional Services,10302.0,1,Latin America,Sarah Johnson,824.16,Q1,January,Sunday,10302.0,False
+2023-01-08,Mobile App,3007.0,993,Latin America,Sarah Johnson,240.56,Q1,January,Sunday,3.028197381671702,False
+2023-01-08,Enterprise Software,52952.0,5,Europe,James Wilson,4236.16,Q1,January,Sunday,10590.4,True
+2023-01-08,Mobile App,6107.0,722,Europe,Emily Rodriguez,488.56,Q1,January,Sunday,8.458448753462603,False
+2023-01-08,Mobile App,5257.0,224,Asia Pacific,Sarah Johnson,420.56,Q1,January,Sunday,23.46875,False
+2023-01-08,Enterprise Software,48265.0,3,Latin America,Emily Rodriguez,3861.2,Q1,January,Sunday,16088.333333333334,True
+2023-01-09,Mobile App,4548.0,176,Latin America,Emily Rodriguez,363.84,Q1,January,Monday,25.84090909090909,False
+2023-01-09,Analytics Suite,19475.0,5,North America,David Kim,1558.0,Q1,January,Monday,3895.0,False
+2023-01-09,Analytics Suite,27441.0,5,Europe,David Kim,2195.28,Q1,January,Monday,5488.2,False
+2023-01-09,Professional Services,21545.0,6,Latin America,Lisa Thompson,1723.6,Q1,January,Monday,3590.8333333333335,False
+2023-01-09,Cloud Platform,19757.0,6,Latin America,Lisa Thompson,1580.56,Q1,January,Monday,3292.8333333333335,False
+2023-01-09,Mobile App,5515.0,281,Europe,Lisa Thompson,441.2,Q1,January,Monday,19.626334519572953,False
+2023-01-09,Professional Services,11777.0,7,Europe,James Wilson,942.16,Q1,January,Monday,1682.4285714285713,False
+2023-01-10,Mobile App,5486.0,288,Europe,James Wilson,438.88,Q1,January,Tuesday,19.04861111111111,False
+2023-01-10,Cloud Platform,13267.0,9,North America,Mike Chen,1061.36,Q1,January,Tuesday,1474.111111111111,False
+2023-01-11,Mobile App,3984.0,500,North America,Sarah Johnson,318.72,Q1,January,Wednesday,7.968,False
+2023-01-11,Analytics Suite,41422.0,2,Europe,James Wilson,3313.76,Q1,January,Wednesday,20711.0,True
+2023-01-11,Analytics Suite,45825.0,2,North America,Sarah Johnson,3666.0,Q1,January,Wednesday,22912.5,True
+2023-01-11,Enterprise Software,63969.0,4,Latin America,Mike Chen,5117.52,Q1,January,Wednesday,15992.25,True
+2023-01-11,Analytics Suite,26188.0,3,North America,James Wilson,2095.04,Q1,January,Wednesday,8729.333333333334,False
+2023-01-11,Analytics Suite,31753.0,2,Asia Pacific,James Wilson,2540.24,Q1,January,Wednesday,15876.5,True
+2023-01-11,Professional Services,27484.0,7,Europe,Emily Rodriguez,2198.72,Q1,January,Wednesday,3926.285714285714,False
+2023-01-11,Mobile App,6463.0,292,North America,Emily Rodriguez,517.04,Q1,January,Wednesday,22.133561643835616,False
+2023-01-12,Mobile App,4281.0,890,Asia Pacific,Mike Chen,342.48,Q1,January,Thursday,4.810112359550562,False
+2023-01-12,Cloud Platform,14164.0,6,Latin America,Sarah Johnson,1133.12,Q1,January,Thursday,2360.6666666666665,False
+2023-01-12,Cloud Platform,10021.0,1,Asia Pacific,James Wilson,801.68,Q1,January,Thursday,10021.0,False
+2023-01-12,Professional Services,16028.0,7,Europe,Mike Chen,1282.24,Q1,January,Thursday,2289.714285714286,False
+2023-01-12,Analytics Suite,43531.0,2,Asia Pacific,James Wilson,3482.48,Q1,January,Thursday,21765.5,True
+2023-01-12,Analytics Suite,49240.0,3,Europe,David Kim,3939.2,Q1,January,Thursday,16413.333333333332,True
+2023-01-13,Mobile App,4891.0,207,Asia Pacific,James Wilson,391.28,Q1,January,Friday,23.6280193236715,False
+2023-01-13,Mobile App,6505.0,583,Europe,Sarah Johnson,520.4,Q1,January,Friday,11.157804459691253,False
+2023-01-13,Mobile App,5542.0,954,Europe,Sarah Johnson,443.36,Q1,January,Friday,5.809224318658281,False
+2023-01-14,Enterprise Software,40323.0,1,Asia Pacific,Mike Chen,3225.84,Q1,January,Saturday,40323.0,True
+2023-01-14,Cloud Platform,16626.0,3,Latin America,Lisa Thompson,1330.08,Q1,January,Saturday,5542.0,False
+2023-01-14,Analytics Suite,51149.0,5,North America,Lisa Thompson,4091.92,Q1,January,Saturday,10229.8,True
+2023-01-14,Professional Services,24731.0,10,Latin America,James Wilson,1978.48,Q1,January,Saturday,2473.1,False
+2023-01-14,Cloud Platform,22040.0,8,Asia Pacific,Emily Rodriguez,1763.2,Q1,January,Saturday,2755.0,False
+2023-01-14,Enterprise Software,15000.0,2,North America,Lisa Thompson,1200.0,Q1,January,Saturday,7500.0,False
+2023-01-14,Cloud Platform,18698.0,7,Latin America,Sarah Johnson,1495.84,Q1,January,Saturday,2671.1428571428573,False
+2023-01-15,Mobile App,5130.0,586,Europe,Lisa Thompson,410.4,Q1,January,Sunday,8.754266211604095,False
+2023-01-15,Professional Services,22757.0,1,North America,Emily Rodriguez,1820.56,Q1,January,Sunday,22757.0,False
+2023-01-15,Professional Services,25688.0,10,Asia Pacific,Lisa Thompson,2055.04,Q1,January,Sunday,2568.8,False
+2023-01-15,Cloud Platform,6055.0,2,Asia Pacific,James Wilson,484.4,Q1,January,Sunday,3027.5,False
+2023-01-15,Analytics Suite,32693.0,3,North America,Emily Rodriguez,2615.44,Q1,January,Sunday,10897.666666666666,True
+2023-01-15,Professional Services,27678.0,7,Latin America,Sarah Johnson,2214.24,Q1,January,Sunday,3954.0,False
+2023-01-16,Cloud Platform,21650.0,9,Asia Pacific,Mike Chen,1732.0,Q1,January,Monday,2405.5555555555557,False
+2023-01-16,Enterprise Software,42225.0,1,Latin America,David Kim,3378.0,Q1,January,Monday,42225.0,True
+2023-01-16,Enterprise Software,37872.0,2,North America,Sarah Johnson,3029.76,Q1,January,Monday,18936.0,True
+2023-01-16,Professional Services,21236.0,3,North America,David Kim,1698.88,Q1,January,Monday,7078.666666666667,False
+2023-01-16,Cloud Platform,19119.0,7,Latin America,Lisa Thompson,1529.52,Q1,January,Monday,2731.285714285714,False
+2023-01-17,Mobile App,5493.0,997,Asia Pacific,Lisa Thompson,439.44,Q1,January,Tuesday,5.509528585757272,False
+2023-01-17,Mobile App,4205.0,623,North America,Lisa Thompson,336.4,Q1,January,Tuesday,6.74959871589085,False
+2023-01-17,Cloud Platform,17309.0,2,Asia Pacific,Sarah Johnson,1384.72,Q1,January,Tuesday,8654.5,False
+2023-01-18,Professional Services,25728.0,9,Latin America,James Wilson,2058.24,Q1,January,Wednesday,2858.6666666666665,False
+2023-01-18,Cloud Platform,19358.0,2,North America,James Wilson,1548.64,Q1,January,Wednesday,9679.0,False
+2023-01-18,Analytics Suite,27628.0,4,North America,Emily Rodriguez,2210.24,Q1,January,Wednesday,6907.0,False
+2023-01-18,Cloud Platform,13525.0,3,Latin America,Sarah Johnson,1082.0,Q1,January,Wednesday,4508.333333333333,False
+2023-01-18,Cloud Platform,13235.0,7,Asia Pacific,David Kim,1058.8,Q1,January,Wednesday,1890.7142857142858,False
+2023-01-19,Enterprise Software,28047.0,5,Latin America,Mike Chen,2243.76,Q1,January,Thursday,5609.4,False
+2023-01-19,Enterprise Software,54441.0,3,Asia Pacific,Emily Rodriguez,4355.28,Q1,January,Thursday,18147.0,True
+2023-01-19,Professional Services,26957.0,9,North America,Sarah Johnson,2156.56,Q1,January,Thursday,2995.222222222222,False
+2023-01-19,Professional Services,25038.0,3,Latin America,Mike Chen,2003.04,Q1,January,Thursday,8346.0,False
+2023-01-19,Enterprise Software,46481.0,5,Asia Pacific,Lisa Thompson,3718.48,Q1,January,Thursday,9296.2,True
+2023-01-20,Enterprise Software,28769.0,4,North America,Emily Rodriguez,2301.52,Q1,January,Friday,7192.25,False
+2023-01-20,Cloud Platform,13107.0,7,Latin America,Lisa Thompson,1048.56,Q1,January,Friday,1872.4285714285713,False
+2023-01-20,Analytics Suite,31401.0,2,Europe,David Kim,2512.08,Q1,January,Friday,15700.5,True
+2023-01-20,Enterprise Software,37965.0,4,Latin America,Mike Chen,3037.2,Q1,January,Friday,9491.25,True
+2023-01-20,Analytics Suite,33306.0,2,Asia Pacific,David Kim,2664.48,Q1,January,Friday,16653.0,True
+2023-01-20,Enterprise Software,56060.0,5,Asia Pacific,Sarah Johnson,4484.8,Q1,January,Friday,11212.0,True
+2023-01-21,Cloud Platform,23487.0,2,Latin America,Mike Chen,1878.96,Q1,January,Saturday,11743.5,False
+2023-01-21,Mobile App,5261.0,177,Europe,James Wilson,420.88,Q1,January,Saturday,29.72316384180791,False
+2023-01-21,Analytics Suite,37704.0,4,Asia Pacific,Emily Rodriguez,3016.32,Q1,January,Saturday,9426.0,True
+2023-01-21,Mobile App,4888.0,993,Latin America,Sarah Johnson,391.04,Q1,January,Saturday,4.922457200402819,False
+2023-01-21,Professional Services,10609.0,4,Latin America,Mike Chen,848.72,Q1,January,Saturday,2652.25,False
+2023-01-21,Analytics Suite,34721.0,1,Asia Pacific,Sarah Johnson,2777.68,Q1,January,Saturday,34721.0,True
+2023-01-21,Cloud Platform,15271.0,5,Latin America,James Wilson,1221.68,Q1,January,Saturday,3054.2,False
+2023-01-21,Analytics Suite,60864.0,3,Europe,David Kim,4869.12,Q1,January,Saturday,20288.0,True
+2023-01-22,Analytics Suite,32980.0,1,North America,Sarah Johnson,2638.4,Q1,January,Sunday,32980.0,True
+2023-01-22,Cloud Platform,16356.0,10,Latin America,Emily Rodriguez,1308.48,Q1,January,Sunday,1635.6,False
+2023-01-22,Analytics Suite,34635.0,2,Europe,James Wilson,2770.8,Q1,January,Sunday,17317.5,True
+2023-01-22,Cloud Platform,9740.0,4,Asia Pacific,Mike Chen,779.2,Q1,January,Sunday,2435.0,False
+2023-01-23,Analytics Suite,46999.0,4,North America,David Kim,3759.92,Q1,January,Monday,11749.75,True
+2023-01-23,Professional Services,30639.0,3,Latin America,Lisa Thompson,2451.12,Q1,January,Monday,10213.0,True
+2023-01-23,Professional Services,30932.0,7,North America,Lisa Thompson,2474.56,Q1,January,Monday,4418.857142857143,True
+2023-01-24,Enterprise Software,36359.0,4,Europe,James Wilson,2908.72,Q1,January,Tuesday,9089.75,True
+2023-01-24,Professional Services,35520.0,10,Asia Pacific,David Kim,2841.6,Q1,January,Tuesday,3552.0,True
+2023-01-24,Cloud Platform,8691.0,6,Asia Pacific,Emily Rodriguez,695.28,Q1,January,Tuesday,1448.5,False
+2023-01-24,Mobile App,5880.0,415,Asia Pacific,Mike Chen,470.4,Q1,January,Tuesday,14.168674698795181,False
+2023-01-24,Cloud Platform,24857.0,6,Latin America,James Wilson,1988.56,Q1,January,Tuesday,4142.833333333333,False
+2023-01-24,Analytics Suite,24599.0,4,North America,Sarah Johnson,1967.92,Q1,January,Tuesday,6149.75,False
+2023-01-25,Professional Services,20752.0,2,Europe,James Wilson,1660.16,Q1,January,Wednesday,10376.0,False
+2023-01-25,Analytics Suite,36046.0,3,North America,Sarah Johnson,2883.68,Q1,January,Wednesday,12015.333333333334,True
+2023-01-25,Analytics Suite,29713.0,5,North America,Sarah Johnson,2377.04,Q1,January,Wednesday,5942.6,False
+2023-01-25,Mobile App,2674.0,233,North America,Emily Rodriguez,213.92,Q1,January,Wednesday,11.476394849785407,False
+2023-01-25,Mobile App,5102.0,342,Latin America,Emily Rodriguez,408.16,Q1,January,Wednesday,14.91812865497076,False
+2023-01-25,Enterprise Software,34065.0,4,North America,Sarah Johnson,2725.2,Q1,January,Wednesday,8516.25,True
+2023-01-26,Cloud Platform,17131.0,5,North America,Lisa Thompson,1370.48,Q1,January,Thursday,3426.2,False
+2023-01-26,Enterprise Software,36208.0,3,North America,Sarah Johnson,2896.64,Q1,January,Thursday,12069.333333333334,True
+2023-01-26,Mobile App,7324.0,992,Latin America,Emily Rodriguez,585.92,Q1,January,Thursday,7.383064516129032,False
+2023-01-26,Cloud Platform,11475.0,9,North America,Mike Chen,918.0,Q1,January,Thursday,1275.0,False
+2023-01-26,Mobile App,4516.0,212,Europe,Mike Chen,361.28,Q1,January,Thursday,21.30188679245283,False
+2023-01-27,Enterprise Software,62202.0,5,Europe,Emily Rodriguez,4976.16,Q1,January,Friday,12440.4,True
+2023-01-27,Cloud Platform,9461.0,7,Asia Pacific,Sarah Johnson,756.88,Q1,January,Friday,1351.5714285714287,False
+2023-01-27,Mobile App,5341.0,830,Latin America,David Kim,427.28,Q1,January,Friday,6.434939759036145,False
+2023-01-27,Mobile App,6960.0,440,Latin America,Emily Rodriguez,556.8,Q1,January,Friday,15.818181818181818,False
+2023-01-27,Mobile App,2588.0,475,Asia Pacific,David Kim,207.04,Q1,January,Friday,5.448421052631579,False
+2023-01-27,Enterprise Software,52769.0,4,Latin America,Lisa Thompson,4221.52,Q1,January,Friday,13192.25,True
+2023-01-27,Mobile App,5389.0,351,Europe,Lisa Thompson,431.12,Q1,January,Friday,15.353276353276353,False
+2023-01-28,Professional Services,30863.0,1,North America,Mike Chen,2469.04,Q1,January,Saturday,30863.0,True
+2023-01-28,Enterprise Software,31445.0,3,Asia Pacific,Sarah Johnson,2515.6,Q1,January,Saturday,10481.666666666666,True
+2023-01-29,Enterprise Software,30193.0,5,Asia Pacific,Emily Rodriguez,2415.44,Q1,January,Sunday,6038.6,True
+2023-01-29,Cloud Platform,17348.0,7,Asia Pacific,James Wilson,1387.84,Q1,January,Sunday,2478.285714285714,False
+2023-01-29,Professional Services,27227.0,6,Europe,David Kim,2178.16,Q1,January,Sunday,4537.833333333333,False
+2023-01-29,Analytics Suite,37630.0,4,Asia Pacific,David Kim,3010.4,Q1,January,Sunday,9407.5,True
+2023-01-29,Mobile App,5519.0,849,Latin America,Mike Chen,441.52,Q1,January,Sunday,6.500588928150766,False
+2023-01-29,Mobile App,3979.0,679,Latin America,James Wilson,318.32,Q1,January,Sunday,5.860088365243004,False
+2023-01-29,Professional Services,26741.0,5,Asia Pacific,Emily Rodriguez,2139.28,Q1,January,Sunday,5348.2,False
+2023-01-29,Analytics Suite,38077.0,5,North America,Lisa Thompson,3046.16,Q1,January,Sunday,7615.4,True
+2023-01-30,Professional Services,19642.0,1,North America,David Kim,1571.36,Q1,January,Monday,19642.0,False
+2023-01-30,Mobile App,7798.0,897,North America,Emily Rodriguez,623.84,Q1,January,Monday,8.693422519509475,False
+2023-01-30,Analytics Suite,39975.0,1,Europe,Mike Chen,3198.0,Q1,January,Monday,39975.0,True
+2023-01-30,Cloud Platform,9639.0,9,North America,Mike Chen,771.12,Q1,January,Monday,1071.0,False
+2023-01-30,Cloud Platform,17954.0,1,Asia Pacific,Sarah Johnson,1436.32,Q1,January,Monday,17954.0,False
+2023-01-30,Analytics Suite,24765.0,5,North America,Sarah Johnson,1981.2,Q1,January,Monday,4953.0,False
+2023-01-30,Enterprise Software,61806.0,4,North America,James Wilson,4944.48,Q1,January,Monday,15451.5,True
+2023-01-31,Enterprise Software,67378.0,4,North America,David Kim,5390.24,Q1,January,Tuesday,16844.5,True
+2023-01-31,Enterprise Software,37689.0,5,Asia Pacific,James Wilson,3015.12,Q1,January,Tuesday,7537.8,True
+2023-01-31,Enterprise Software,64450.0,2,Latin America,Sarah Johnson,5156.0,Q1,January,Tuesday,32225.0,True
+2023-02-01,Professional Services,28095.0,6,Asia Pacific,Lisa Thompson,2247.6,Q1,February,Wednesday,4682.5,False
+2023-02-01,Enterprise Software,62330.0,5,Latin America,Lisa Thompson,4986.4,Q1,February,Wednesday,12466.0,True
+2023-02-02,Professional Services,39225.0,6,Europe,Lisa Thompson,3138.0,Q1,February,Thursday,6537.5,True
+2023-02-02,Analytics Suite,32423.0,5,Europe,Lisa Thompson,2593.84,Q1,February,Thursday,6484.6,True
+2023-02-02,Cloud Platform,11608.0,8,Asia Pacific,Lisa Thompson,928.64,Q1,February,Thursday,1451.0,False
+2023-02-02,Mobile App,3665.0,608,Asia Pacific,James Wilson,293.2,Q1,February,Thursday,6.027960526315789,False
+2023-02-02,Enterprise Software,37762.0,5,Europe,James Wilson,3020.96,Q1,February,Thursday,7552.4,True
+2023-02-02,Analytics Suite,34190.0,4,Latin America,Lisa Thompson,2735.2,Q1,February,Thursday,8547.5,True
+2023-02-02,Cloud Platform,16535.0,3,Latin America,Mike Chen,1322.8,Q1,February,Thursday,5511.666666666667,False
+2023-02-03,Mobile App,5415.0,860,North America,Mike Chen,433.2,Q1,February,Friday,6.296511627906977,False
+2023-02-03,Enterprise Software,62407.0,1,Asia Pacific,Sarah Johnson,4992.56,Q1,February,Friday,62407.0,True
+2023-02-03,Enterprise Software,50195.0,5,Asia Pacific,James Wilson,4015.6,Q1,February,Friday,10039.0,True
+2023-02-03,Cloud Platform,21540.0,6,Asia Pacific,James Wilson,1723.2,Q1,February,Friday,3590.0,False
+2023-02-04,Cloud Platform,13809.0,2,Europe,Mike Chen,1104.72,Q1,February,Saturday,6904.5,False
+2023-02-04,Mobile App,9080.0,283,Latin America,Mike Chen,726.4,Q1,February,Saturday,32.08480565371025,False
+2023-02-05,Professional Services,29692.0,2,Europe,Sarah Johnson,2375.36,Q1,February,Sunday,14846.0,False
+2023-02-05,Mobile App,3714.0,787,Latin America,Lisa Thompson,297.12,Q1,February,Sunday,4.719186785260483,False
+2023-02-05,Analytics Suite,23755.0,2,Latin America,David Kim,1900.4,Q1,February,Sunday,11877.5,False
+2023-02-06,Enterprise Software,57237.0,2,North America,Sarah Johnson,4578.96,Q1,February,Monday,28618.5,True
+2023-02-06,Enterprise Software,46648.0,3,North America,Mike Chen,3731.84,Q1,February,Monday,15549.333333333334,True
+2023-02-06,Cloud Platform,18213.0,3,Latin America,Sarah Johnson,1457.04,Q1,February,Monday,6071.0,False
+2023-02-07,Professional Services,28549.0,8,Latin America,Sarah Johnson,2283.92,Q1,February,Tuesday,3568.625,False
+2023-02-07,Analytics Suite,34235.0,4,Asia Pacific,Emily Rodriguez,2738.8,Q1,February,Tuesday,8558.75,True
+2023-02-07,Enterprise Software,37298.0,1,Europe,Emily Rodriguez,2983.84,Q1,February,Tuesday,37298.0,True
+2023-02-07,Analytics Suite,19094.0,3,Europe,Emily Rodriguez,1527.52,Q1,February,Tuesday,6364.666666666667,False
+2023-02-07,Analytics Suite,30311.0,5,Latin America,Emily Rodriguez,2424.88,Q1,February,Tuesday,6062.2,True
+2023-02-07,Mobile App,6284.0,855,Asia Pacific,James Wilson,502.72,Q1,February,Tuesday,7.349707602339182,False
+2023-02-07,Professional Services,26605.0,3,Asia Pacific,James Wilson,2128.4,Q1,February,Tuesday,8868.333333333334,False
+2023-02-07,Cloud Platform,9394.0,2,Asia Pacific,David Kim,751.52,Q1,February,Tuesday,4697.0,False
+2023-02-08,Professional Services,26298.0,3,North America,Emily Rodriguez,2103.84,Q1,February,Wednesday,8766.0,False
+2023-02-08,Mobile App,5577.0,692,North America,James Wilson,446.16,Q1,February,Wednesday,8.059248554913294,False
+2023-02-08,Professional Services,18371.0,7,Asia Pacific,Sarah Johnson,1469.68,Q1,February,Wednesday,2624.4285714285716,False
+2023-02-09,Enterprise Software,52305.0,1,Latin America,Lisa Thompson,4184.4,Q1,February,Thursday,52305.0,True
+2023-02-09,Analytics Suite,35611.0,4,Europe,Mike Chen,2848.88,Q1,February,Thursday,8902.75,True
+2023-02-09,Enterprise Software,32855.0,3,Latin America,James Wilson,2628.4,Q1,February,Thursday,10951.666666666666,True
+2023-02-09,Professional Services,27683.0,4,Europe,James Wilson,2214.64,Q1,February,Thursday,6920.75,False
+2023-02-09,Analytics Suite,40888.0,4,Latin America,Sarah Johnson,3271.04,Q1,February,Thursday,10222.0,True
+2023-02-09,Professional Services,33122.0,8,Asia Pacific,Mike Chen,2649.76,Q1,February,Thursday,4140.25,True
+2023-02-09,Cloud Platform,19742.0,10,North America,Sarah Johnson,1579.36,Q1,February,Thursday,1974.2,False
+2023-02-09,Enterprise Software,29334.0,2,North America,Lisa Thompson,2346.72,Q1,February,Thursday,14667.0,False
+2023-02-10,Professional Services,17966.0,4,Asia Pacific,Mike Chen,1437.28,Q1,February,Friday,4491.5,False
+2023-02-10,Analytics Suite,40407.0,3,Latin America,James Wilson,3232.56,Q1,February,Friday,13469.0,True
+2023-02-10,Enterprise Software,57706.0,4,North America,Sarah Johnson,4616.48,Q1,February,Friday,14426.5,True
+2023-02-10,Mobile App,5772.0,986,Latin America,Sarah Johnson,461.76,Q1,February,Friday,5.85395537525355,False
+2023-02-10,Analytics Suite,75453.0,3,Latin America,Sarah Johnson,6036.24,Q1,February,Friday,25151.0,True
+2023-02-10,Professional Services,29281.0,2,Latin America,Sarah Johnson,2342.48,Q1,February,Friday,14640.5,False
+2023-02-10,Enterprise Software,67033.0,4,Latin America,Emily Rodriguez,5362.64,Q1,February,Friday,16758.25,True
+2023-02-11,Enterprise Software,64310.0,3,Europe,David Kim,5144.8,Q1,February,Saturday,21436.666666666668,True
+2023-02-11,Enterprise Software,59770.0,2,Asia Pacific,Emily Rodriguez,4781.6,Q1,February,Saturday,29885.0,True
+2023-02-11,Mobile App,4527.0,572,Europe,David Kim,362.16,Q1,February,Saturday,7.914335664335664,False
+2023-02-11,Professional Services,30692.0,9,North America,Mike Chen,2455.36,Q1,February,Saturday,3410.222222222222,True
+2023-02-11,Cloud Platform,11522.0,5,Asia Pacific,Lisa Thompson,921.76,Q1,February,Saturday,2304.4,False
+2023-02-12,Mobile App,4644.0,602,Latin America,Mike Chen,371.52,Q1,February,Sunday,7.714285714285714,False
+2023-02-12,Mobile App,4271.0,978,Asia Pacific,Lisa Thompson,341.68,Q1,February,Sunday,4.367075664621677,False
+2023-02-12,Professional Services,25614.0,5,Latin America,David Kim,2049.12,Q1,February,Sunday,5122.8,False
+2023-02-12,Professional Services,42359.0,2,Asia Pacific,Mike Chen,3388.72,Q1,February,Sunday,21179.5,True
+2023-02-12,Enterprise Software,21991.0,2,Europe,Lisa Thompson,1759.28,Q1,February,Sunday,10995.5,False
+2023-02-12,Enterprise Software,60293.0,2,Asia Pacific,David Kim,4823.44,Q1,February,Sunday,30146.5,True
+2023-02-12,Mobile App,2580.0,127,Asia Pacific,Mike Chen,206.4,Q1,February,Sunday,20.31496062992126,False
+2023-02-13,Cloud Platform,12876.0,10,Latin America,David Kim,1030.08,Q1,February,Monday,1287.6,False
+2023-02-13,Analytics Suite,46433.0,4,Latin America,Emily Rodriguez,3714.64,Q1,February,Monday,11608.25,True
+2023-02-13,Enterprise Software,50964.0,2,Asia Pacific,James Wilson,4077.12,Q1,February,Monday,25482.0,True
+2023-02-13,Analytics Suite,23683.0,1,Latin America,Emily Rodriguez,1894.64,Q1,February,Monday,23683.0,False
+2023-02-13,Cloud Platform,11781.0,2,Europe,Emily Rodriguez,942.48,Q1,February,Monday,5890.5,False
+2023-02-13,Professional Services,30096.0,4,Asia Pacific,David Kim,2407.68,Q1,February,Monday,7524.0,True
+2023-02-13,Professional Services,19522.0,1,Latin America,David Kim,1561.76,Q1,February,Monday,19522.0,False
+2023-02-14,Analytics Suite,37272.0,3,Europe,Lisa Thompson,2981.76,Q1,February,Tuesday,12424.0,True
+2023-02-14,Enterprise Software,50683.0,4,Latin America,James Wilson,4054.64,Q1,February,Tuesday,12670.75,True
+2023-02-14,Mobile App,4022.0,750,Latin America,James Wilson,321.76,Q1,February,Tuesday,5.362666666666667,False
+2023-02-14,Mobile App,8215.0,834,Europe,James Wilson,657.2,Q1,February,Tuesday,9.850119904076738,False
+2023-02-14,Professional Services,29754.0,4,Latin America,Sarah Johnson,2380.32,Q1,February,Tuesday,7438.5,False
+2023-02-14,Cloud Platform,5886.0,8,Asia Pacific,Lisa Thompson,470.88,Q1,February,Tuesday,735.75,False
+2023-02-14,Analytics Suite,36957.0,5,Europe,Mike Chen,2956.56,Q1,February,Tuesday,7391.4,True
+2023-02-14,Enterprise Software,40073.0,5,Latin America,Lisa Thompson,3205.84,Q1,February,Tuesday,8014.6,True
+2023-02-15,Professional Services,31393.0,3,Asia Pacific,Emily Rodriguez,2511.44,Q1,February,Wednesday,10464.333333333334,True
+2023-02-15,Enterprise Software,38112.0,5,North America,Lisa Thompson,3048.96,Q1,February,Wednesday,7622.4,True
+2023-02-15,Mobile App,4827.0,726,Latin America,Emily Rodriguez,386.16,Q1,February,Wednesday,6.648760330578512,False
+2023-02-15,Cloud Platform,17272.0,9,North America,Emily Rodriguez,1381.76,Q1,February,Wednesday,1919.111111111111,False
+2023-02-15,Enterprise Software,62986.0,3,Latin America,Sarah Johnson,5038.88,Q1,February,Wednesday,20995.333333333332,True
+2023-02-15,Enterprise Software,31995.0,5,North America,Lisa Thompson,2559.6,Q1,February,Wednesday,6399.0,True
+2023-02-16,Mobile App,4498.0,296,Asia Pacific,Mike Chen,359.84,Q1,February,Thursday,15.195945945945946,False
+2023-02-16,Cloud Platform,12862.0,6,Europe,Sarah Johnson,1028.96,Q1,February,Thursday,2143.6666666666665,False
+2023-02-16,Cloud Platform,12060.0,1,Latin America,Lisa Thompson,964.8,Q1,February,Thursday,12060.0,False
+2023-02-16,Professional Services,38240.0,7,Asia Pacific,David Kim,3059.2,Q1,February,Thursday,5462.857142857143,True
+2023-02-17,Professional Services,28037.0,4,Asia Pacific,Sarah Johnson,2242.96,Q1,February,Friday,7009.25,False
+2023-02-17,Mobile App,3108.0,502,North America,Lisa Thompson,248.64,Q1,February,Friday,6.191235059760956,False
+2023-02-17,Cloud Platform,19130.0,9,Europe,Mike Chen,1530.4,Q1,February,Friday,2125.5555555555557,False
+2023-02-17,Analytics Suite,57282.0,5,Asia Pacific,Mike Chen,4582.56,Q1,February,Friday,11456.4,True
+2023-02-17,Cloud Platform,19646.0,5,Latin America,Mike Chen,1571.68,Q1,February,Friday,3929.2,False
+2023-02-17,Cloud Platform,8162.0,3,North America,Emily Rodriguez,652.96,Q1,February,Friday,2720.6666666666665,False
+2023-02-18,Enterprise Software,42736.0,4,Asia Pacific,David Kim,3418.88,Q1,February,Saturday,10684.0,True
+2023-02-18,Cloud Platform,20701.0,8,Latin America,Mike Chen,1656.08,Q1,February,Saturday,2587.625,False
+2023-02-19,Mobile App,3938.0,443,North America,Emily Rodriguez,315.04,Q1,February,Sunday,8.889390519187359,False
+2023-02-19,Mobile App,5665.0,510,Europe,Lisa Thompson,453.2,Q1,February,Sunday,11.107843137254902,False
+2023-02-19,Analytics Suite,43133.0,4,Latin America,David Kim,3450.64,Q1,February,Sunday,10783.25,True
+2023-02-19,Professional Services,18048.0,10,Asia Pacific,Emily Rodriguez,1443.84,Q1,February,Sunday,1804.8,False
+2023-02-19,Analytics Suite,34374.0,5,Latin America,Sarah Johnson,2749.92,Q1,February,Sunday,6874.8,True
+2023-02-20,Professional Services,7500.0,8,Asia Pacific,James Wilson,600.0,Q1,February,Monday,937.5,False
+2023-02-20,Enterprise Software,34634.0,2,Latin America,David Kim,2770.72,Q1,February,Monday,17317.0,True
+2023-02-20,Mobile App,4621.0,191,Europe,Sarah Johnson,369.68,Q1,February,Monday,24.19371727748691,False
+2023-02-20,Mobile App,3128.0,892,North America,Mike Chen,250.24,Q1,February,Monday,3.506726457399103,False
+2023-02-20,Analytics Suite,52140.0,2,North America,David Kim,4171.2,Q1,February,Monday,26070.0,True
+2023-02-20,Cloud Platform,8564.0,2,North America,Sarah Johnson,685.12,Q1,February,Monday,4282.0,False
+2023-02-20,Professional Services,21699.0,9,Europe,Mike Chen,1735.92,Q1,February,Monday,2411.0,False
+2023-02-20,Enterprise Software,51961.0,2,Europe,Emily Rodriguez,4156.88,Q1,February,Monday,25980.5,True
+2023-02-21,Cloud Platform,21485.0,4,North America,Mike Chen,1718.8,Q1,February,Tuesday,5371.25,False
+2023-02-21,Analytics Suite,19923.0,1,Europe,Emily Rodriguez,1593.84,Q1,February,Tuesday,19923.0,False
+2023-02-21,Enterprise Software,67447.0,4,Europe,Lisa Thompson,5395.76,Q1,February,Tuesday,16861.75,True
+2023-02-21,Cloud Platform,15046.0,3,Latin America,Emily Rodriguez,1203.68,Q1,February,Tuesday,5015.333333333333,False
+2023-02-21,Mobile App,3527.0,683,Asia Pacific,David Kim,282.16,Q1,February,Tuesday,5.1639824304538795,False
+2023-02-21,Enterprise Software,56931.0,5,Latin America,James Wilson,4554.48,Q1,February,Tuesday,11386.2,True
+2023-02-22,Analytics Suite,37090.0,2,North America,David Kim,2967.2,Q1,February,Wednesday,18545.0,True
+2023-02-22,Enterprise Software,40996.0,2,North America,David Kim,3279.68,Q1,February,Wednesday,20498.0,True
+2023-02-22,Mobile App,5104.0,489,North America,Emily Rodriguez,408.32,Q1,February,Wednesday,10.43762781186094,False
+2023-02-22,Professional Services,22110.0,6,Europe,James Wilson,1768.8,Q1,February,Wednesday,3685.0,False
+2023-02-22,Mobile App,5170.0,873,Europe,Emily Rodriguez,413.6,Q1,February,Wednesday,5.9221076746849945,False
+2023-02-22,Professional Services,29965.0,6,Latin America,James Wilson,2397.2,Q1,February,Wednesday,4994.166666666667,False
+2023-02-23,Mobile App,7379.0,720,North America,Mike Chen,590.32,Q1,February,Thursday,10.248611111111112,False
+2023-02-23,Mobile App,3143.0,292,Asia Pacific,Sarah Johnson,251.44,Q1,February,Thursday,10.763698630136986,False
+2023-02-23,Mobile App,8199.0,601,Europe,James Wilson,655.92,Q1,February,Thursday,13.642262895174708,False
+2023-02-23,Enterprise Software,20718.0,3,North America,Emily Rodriguez,1657.44,Q1,February,Thursday,6906.0,False
+2023-02-23,Enterprise Software,47723.0,4,Europe,Lisa Thompson,3817.84,Q1,February,Thursday,11930.75,True
+2023-02-23,Professional Services,29412.0,7,North America,Mike Chen,2352.96,Q1,February,Thursday,4201.714285714285,False
+2023-02-24,Enterprise Software,54214.0,3,Europe,Sarah Johnson,4337.12,Q1,February,Friday,18071.333333333332,True
+2023-02-24,Enterprise Software,40659.0,2,North America,Mike Chen,3252.72,Q1,February,Friday,20329.5,True
+2023-02-24,Analytics Suite,32814.0,2,Europe,Mike Chen,2625.12,Q1,February,Friday,16407.0,True
+2023-02-24,Professional Services,21302.0,6,Asia Pacific,Sarah Johnson,1704.16,Q1,February,Friday,3550.3333333333335,False
+2023-02-24,Enterprise Software,41159.0,4,Asia Pacific,Emily Rodriguez,3292.72,Q1,February,Friday,10289.75,True
+2023-02-24,Professional Services,31372.0,2,Europe,Emily Rodriguez,2509.76,Q1,February,Friday,15686.0,True
+2023-02-24,Enterprise Software,55355.0,4,Europe,Lisa Thompson,4428.4,Q1,February,Friday,13838.75,True
+2023-02-24,Enterprise Software,39606.0,1,North America,Lisa Thompson,3168.48,Q1,February,Friday,39606.0,True
+2023-02-25,Mobile App,6349.0,544,North America,Lisa Thompson,507.92,Q1,February,Saturday,11.670955882352942,False
+2023-02-25,Enterprise Software,54609.0,4,North America,Mike Chen,4368.72,Q1,February,Saturday,13652.25,True
+2023-02-25,Enterprise Software,62192.0,4,Latin America,Lisa Thompson,4975.36,Q1,February,Saturday,15548.0,True
+2023-02-26,Enterprise Software,59444.0,4,North America,Mike Chen,4755.52,Q1,February,Sunday,14861.0,True
+2023-02-26,Cloud Platform,11269.0,9,North America,James Wilson,901.52,Q1,February,Sunday,1252.111111111111,False
+2023-02-26,Professional Services,20798.0,4,Europe,James Wilson,1663.84,Q1,February,Sunday,5199.5,False
+2023-02-26,Analytics Suite,42846.0,2,Asia Pacific,James Wilson,3427.68,Q1,February,Sunday,21423.0,True
+2023-02-26,Analytics Suite,41408.0,1,Europe,Emily Rodriguez,3312.64,Q1,February,Sunday,41408.0,True
+2023-02-26,Analytics Suite,34780.0,3,North America,David Kim,2782.4,Q1,February,Sunday,11593.333333333334,True
+2023-02-26,Enterprise Software,51759.0,1,North America,David Kim,4140.72,Q1,February,Sunday,51759.0,True
+2023-02-26,Analytics Suite,48415.0,4,Europe,Sarah Johnson,3873.2,Q1,February,Sunday,12103.75,True
+2023-02-27,Mobile App,4112.0,319,North America,Mike Chen,328.96,Q1,February,Monday,12.890282131661442,False
+2023-02-27,Analytics Suite,40744.0,5,Asia Pacific,James Wilson,3259.52,Q1,February,Monday,8148.8,True
+2023-02-28,Enterprise Software,46967.0,1,North America,Emily Rodriguez,3757.36,Q1,February,Tuesday,46967.0,True
+2023-02-28,Cloud Platform,14020.0,2,Europe,Sarah Johnson,1121.6,Q1,February,Tuesday,7010.0,False
+2023-02-28,Enterprise Software,66481.0,5,Latin America,David Kim,5318.48,Q1,February,Tuesday,13296.2,True
+2023-02-28,Enterprise Software,62381.0,4,Asia Pacific,Sarah Johnson,4990.48,Q1,February,Tuesday,15595.25,True
+2023-02-28,Enterprise Software,62202.0,2,North America,David Kim,4976.16,Q1,February,Tuesday,31101.0,True
+2023-02-28,Analytics Suite,48707.0,3,Europe,Sarah Johnson,3896.56,Q1,February,Tuesday,16235.666666666666,True
+2023-03-01,Analytics Suite,35220.0,4,North America,Lisa Thompson,2817.6,Q1,March,Wednesday,8805.0,True
+2023-03-01,Enterprise Software,60229.0,5,Latin America,Emily Rodriguez,4818.32,Q1,March,Wednesday,12045.8,True
+2023-03-01,Mobile App,4534.0,219,Latin America,Mike Chen,362.72,Q1,March,Wednesday,20.703196347031962,False
+2023-03-01,Analytics Suite,38403.0,5,Latin America,Mike Chen,3072.24,Q1,March,Wednesday,7680.6,True
+2023-03-02,Enterprise Software,48047.0,3,North America,David Kim,3843.76,Q1,March,Thursday,16015.666666666666,True
+2023-03-02,Cloud Platform,15436.0,8,Latin America,Emily Rodriguez,1234.88,Q1,March,Thursday,1929.5,False
+2023-03-02,Professional Services,29463.0,9,Asia Pacific,Mike Chen,2357.04,Q1,March,Thursday,3273.6666666666665,False
+2023-03-02,Mobile App,3772.0,726,Asia Pacific,Sarah Johnson,301.76,Q1,March,Thursday,5.195592286501378,False
+2023-03-02,Cloud Platform,24415.0,1,Asia Pacific,Lisa Thompson,1953.2,Q1,March,Thursday,24415.0,False
+2023-03-02,Analytics Suite,24436.0,5,Asia Pacific,Emily Rodriguez,1954.88,Q1,March,Thursday,4887.2,False
+2023-03-03,Analytics Suite,22251.0,4,North America,Mike Chen,1780.08,Q1,March,Friday,5562.75,False
+2023-03-03,Enterprise Software,67371.0,5,North America,Lisa Thompson,5389.68,Q1,March,Friday,13474.2,True
+2023-03-04,Enterprise Software,61874.0,4,Latin America,Emily Rodriguez,4949.92,Q1,March,Saturday,15468.5,True
+2023-03-04,Professional Services,29680.0,10,Asia Pacific,Emily Rodriguez,2374.4,Q1,March,Saturday,2968.0,False
+2023-03-04,Professional Services,29712.0,1,Europe,Emily Rodriguez,2376.96,Q1,March,Saturday,29712.0,False
+2023-03-04,Mobile App,4981.0,652,North America,Mike Chen,398.48,Q1,March,Saturday,7.639570552147239,False
+2023-03-04,Analytics Suite,25578.0,1,North America,James Wilson,2046.24,Q1,March,Saturday,25578.0,False
+2023-03-04,Analytics Suite,35795.0,5,Europe,Lisa Thompson,2863.6,Q1,March,Saturday,7159.0,True
+2023-03-04,Professional Services,19921.0,2,Latin America,Sarah Johnson,1593.68,Q1,March,Saturday,9960.5,False
+2023-03-04,Professional Services,32313.0,5,Asia Pacific,David Kim,2585.04,Q1,March,Saturday,6462.6,True
+2023-03-05,Analytics Suite,33455.0,5,Latin America,Sarah Johnson,2676.4,Q1,March,Sunday,6691.0,True
+2023-03-05,Mobile App,3761.0,136,Europe,Mike Chen,300.88,Q1,March,Sunday,27.654411764705884,False
+2023-03-05,Analytics Suite,31625.0,1,North America,James Wilson,2530.0,Q1,March,Sunday,31625.0,True
+2023-03-05,Enterprise Software,56193.0,1,North America,Mike Chen,4495.44,Q1,March,Sunday,56193.0,True
+2023-03-06,Mobile App,4154.0,830,Europe,Lisa Thompson,332.32,Q1,March,Monday,5.004819277108433,False
+2023-03-06,Enterprise Software,37666.0,3,Asia Pacific,James Wilson,3013.28,Q1,March,Monday,12555.333333333334,True
+2023-03-07,Cloud Platform,16096.0,2,Asia Pacific,James Wilson,1287.68,Q1,March,Tuesday,8048.0,False
+2023-03-07,Cloud Platform,16102.0,6,Asia Pacific,James Wilson,1288.16,Q1,March,Tuesday,2683.6666666666665,False
+2023-03-07,Analytics Suite,29677.0,3,Asia Pacific,Lisa Thompson,2374.16,Q1,March,Tuesday,9892.333333333334,False
+2023-03-07,Mobile App,4293.0,712,North America,James Wilson,343.44,Q1,March,Tuesday,6.029494382022472,False
+2023-03-07,Mobile App,5348.0,352,Asia Pacific,James Wilson,427.84,Q1,March,Tuesday,15.193181818181818,False
+2023-03-08,Mobile App,2827.0,992,Asia Pacific,Mike Chen,226.16,Q1,March,Wednesday,2.849798387096774,False
+2023-03-08,Professional Services,14444.0,2,Europe,David Kim,1155.52,Q1,March,Wednesday,7222.0,False
+2023-03-08,Professional Services,19611.0,5,Latin America,David Kim,1568.88,Q1,March,Wednesday,3922.2,False
+2023-03-08,Cloud Platform,14039.0,7,Asia Pacific,Emily Rodriguez,1123.12,Q1,March,Wednesday,2005.5714285714287,False
+2023-03-08,Mobile App,5466.0,151,North America,Mike Chen,437.28,Q1,March,Wednesday,36.19867549668874,False
+2023-03-08,Professional Services,36065.0,3,Asia Pacific,Mike Chen,2885.2,Q1,March,Wednesday,12021.666666666666,True
+2023-03-08,Professional Services,31432.0,1,Europe,Sarah Johnson,2514.56,Q1,March,Wednesday,31432.0,True
+2023-03-08,Enterprise Software,47600.0,3,Europe,David Kim,3808.0,Q1,March,Wednesday,15866.666666666666,True
+2023-03-09,Enterprise Software,49714.0,1,Europe,David Kim,3977.12,Q1,March,Thursday,49714.0,True
+2023-03-09,Professional Services,17481.0,8,Asia Pacific,Sarah Johnson,1398.48,Q1,March,Thursday,2185.125,False
+2023-03-09,Analytics Suite,34805.0,2,Latin America,Emily Rodriguez,2784.4,Q1,March,Thursday,17402.5,True
+2023-03-09,Professional Services,22835.0,2,Latin America,Sarah Johnson,1826.8,Q1,March,Thursday,11417.5,False
+2023-03-09,Enterprise Software,54840.0,3,Asia Pacific,Lisa Thompson,4387.2,Q1,March,Thursday,18280.0,True
+2023-03-10,Cloud Platform,11277.0,9,Europe,James Wilson,902.16,Q1,March,Friday,1253.0,False
+2023-03-10,Professional Services,28895.0,5,Latin America,James Wilson,2311.6,Q1,March,Friday,5779.0,False
+2023-03-10,Professional Services,36495.0,1,Latin America,Lisa Thompson,2919.6,Q1,March,Friday,36495.0,True
+2023-03-10,Mobile App,4836.0,633,North America,David Kim,386.88,Q1,March,Friday,7.639810426540285,False
+2023-03-11,Mobile App,5602.0,261,Asia Pacific,Emily Rodriguez,448.16,Q1,March,Saturday,21.46360153256705,False
+2023-03-11,Analytics Suite,42246.0,3,Europe,Emily Rodriguez,3379.68,Q1,March,Saturday,14082.0,True
+2023-03-12,Cloud Platform,13194.0,8,Asia Pacific,Lisa Thompson,1055.52,Q1,March,Sunday,1649.25,False
+2023-03-12,Enterprise Software,53361.0,1,North America,David Kim,4268.88,Q1,March,Sunday,53361.0,True
+2023-03-12,Analytics Suite,35132.0,2,North America,Lisa Thompson,2810.56,Q1,March,Sunday,17566.0,True
+2023-03-12,Analytics Suite,36025.0,4,North America,Lisa Thompson,2882.0,Q1,March,Sunday,9006.25,True
+2023-03-12,Analytics Suite,26883.0,2,Europe,James Wilson,2150.64,Q1,March,Sunday,13441.5,False
+2023-03-12,Enterprise Software,50367.0,3,North America,Emily Rodriguez,4029.36,Q1,March,Sunday,16789.0,True
+2023-03-12,Analytics Suite,40228.0,1,Europe,Mike Chen,3218.24,Q1,March,Sunday,40228.0,True
+2023-03-13,Enterprise Software,71767.0,1,Europe,James Wilson,5741.36,Q1,March,Monday,71767.0,True
+2023-03-13,Cloud Platform,19316.0,7,Asia Pacific,Mike Chen,1545.28,Q1,March,Monday,2759.4285714285716,False
+2023-03-13,Mobile App,8229.0,905,Asia Pacific,Lisa Thompson,658.32,Q1,March,Monday,9.092817679558012,False
+2023-03-13,Analytics Suite,26942.0,5,North America,Emily Rodriguez,2155.36,Q1,March,Monday,5388.4,False
+2023-03-13,Mobile App,6308.0,177,North America,David Kim,504.64,Q1,March,Monday,35.63841807909605,False
+2023-03-14,Mobile App,5275.0,123,Latin America,Mike Chen,422.0,Q1,March,Tuesday,42.886178861788615,False
+2023-03-14,Mobile App,8284.0,467,North America,Sarah Johnson,662.72,Q1,March,Tuesday,17.738758029978587,False
+2023-03-14,Cloud Platform,11362.0,3,Latin America,Lisa Thompson,908.96,Q1,March,Tuesday,3787.3333333333335,False
+2023-03-14,Analytics Suite,26182.0,5,North America,Lisa Thompson,2094.56,Q1,March,Tuesday,5236.4,False
+2023-03-14,Analytics Suite,28706.0,2,Europe,Emily Rodriguez,2296.48,Q1,March,Tuesday,14353.0,False
+2023-03-15,Mobile App,1814.0,154,North America,James Wilson,145.12,Q1,March,Wednesday,11.779220779220779,False
+2023-03-15,Professional Services,21056.0,8,Latin America,James Wilson,1684.48,Q1,March,Wednesday,2632.0,False
+2023-03-16,Professional Services,19306.0,7,North America,David Kim,1544.48,Q1,March,Thursday,2758.0,False
+2023-03-16,Analytics Suite,36579.0,3,Asia Pacific,Sarah Johnson,2926.32,Q1,March,Thursday,12193.0,True
+2023-03-16,Professional Services,27563.0,7,North America,James Wilson,2205.04,Q1,March,Thursday,3937.5714285714284,False
+2023-03-16,Mobile App,7814.0,829,Asia Pacific,Lisa Thompson,625.12,Q1,March,Thursday,9.425814234016888,False
+2023-03-16,Cloud Platform,19276.0,2,North America,Mike Chen,1542.08,Q1,March,Thursday,9638.0,False
+2023-03-16,Cloud Platform,12403.0,6,Europe,Lisa Thompson,992.24,Q1,March,Thursday,2067.1666666666665,False
+2023-03-16,Professional Services,18261.0,5,Europe,Emily Rodriguez,1460.88,Q1,March,Thursday,3652.2,False
+2023-03-17,Professional Services,28689.0,4,Latin America,David Kim,2295.12,Q1,March,Friday,7172.25,False
+2023-03-17,Analytics Suite,21137.0,3,Europe,Mike Chen,1690.96,Q1,March,Friday,7045.666666666667,False
+2023-03-17,Analytics Suite,54230.0,3,Asia Pacific,Mike Chen,4338.4,Q1,March,Friday,18076.666666666668,True
+2023-03-17,Professional Services,33845.0,5,Asia Pacific,Sarah Johnson,2707.6,Q1,March,Friday,6769.0,True
+2023-03-18,Mobile App,4296.0,756,Latin America,Sarah Johnson,343.68,Q1,March,Saturday,5.682539682539683,False
+2023-03-18,Professional Services,12151.0,1,Europe,Sarah Johnson,972.08,Q1,March,Saturday,12151.0,False
+2023-03-18,Cloud Platform,21092.0,7,Latin America,James Wilson,1687.36,Q1,March,Saturday,3013.1428571428573,False
+2023-03-18,Cloud Platform,14484.0,10,Europe,James Wilson,1158.72,Q1,March,Saturday,1448.4,False
+2023-03-18,Cloud Platform,20570.0,8,Latin America,Lisa Thompson,1645.6,Q1,March,Saturday,2571.25,False
+2023-03-19,Cloud Platform,7825.0,1,North America,James Wilson,626.0,Q1,March,Sunday,7825.0,False
+2023-03-19,Enterprise Software,41009.0,2,Latin America,Lisa Thompson,3280.72,Q1,March,Sunday,20504.5,True
+2023-03-19,Mobile App,5007.0,270,Asia Pacific,Sarah Johnson,400.56,Q1,March,Sunday,18.544444444444444,False
+2023-03-19,Analytics Suite,35493.0,3,North America,Mike Chen,2839.44,Q1,March,Sunday,11831.0,True
+2023-03-19,Cloud Platform,12974.0,9,Asia Pacific,Lisa Thompson,1037.92,Q1,March,Sunday,1441.5555555555557,False
+2023-03-19,Mobile App,5934.0,502,North America,Sarah Johnson,474.72,Q1,March,Sunday,11.820717131474103,False
+2023-03-19,Analytics Suite,23789.0,3,Europe,Mike Chen,1903.12,Q1,March,Sunday,7929.666666666667,False
+2023-03-20,Enterprise Software,47864.0,3,Europe,Lisa Thompson,3829.12,Q1,March,Monday,15954.666666666666,True
+2023-03-20,Professional Services,25902.0,2,Latin America,James Wilson,2072.16,Q1,March,Monday,12951.0,False
+2023-03-20,Professional Services,28858.0,5,Europe,David Kim,2308.64,Q1,March,Monday,5771.6,False
+2023-03-21,Enterprise Software,60674.0,5,North America,Lisa Thompson,4853.92,Q1,March,Tuesday,12134.8,True
+2023-03-21,Mobile App,3313.0,430,Asia Pacific,Sarah Johnson,265.04,Q1,March,Tuesday,7.7046511627906975,False
+2023-03-21,Cloud Platform,8096.0,3,Asia Pacific,Mike Chen,647.68,Q1,March,Tuesday,2698.6666666666665,False
+2023-03-21,Enterprise Software,69165.0,3,Latin America,Mike Chen,5533.2,Q1,March,Tuesday,23055.0,True
+2023-03-21,Analytics Suite,38489.0,3,Asia Pacific,Mike Chen,3079.12,Q1,March,Tuesday,12829.666666666666,True
+2023-03-21,Mobile App,3877.0,741,Asia Pacific,David Kim,310.16,Q1,March,Tuesday,5.232118758434548,False
+2023-03-21,Analytics Suite,51287.0,2,North America,James Wilson,4102.96,Q1,March,Tuesday,25643.5,True
+2023-03-22,Professional Services,25867.0,1,North America,Mike Chen,2069.36,Q1,March,Wednesday,25867.0,False
+2023-03-22,Cloud Platform,20306.0,8,Europe,Emily Rodriguez,1624.48,Q1,March,Wednesday,2538.25,False
+2023-03-22,Analytics Suite,35708.0,1,Asia Pacific,David Kim,2856.64,Q1,March,Wednesday,35708.0,True
+2023-03-22,Analytics Suite,56637.0,1,Asia Pacific,Mike Chen,4530.96,Q1,March,Wednesday,56637.0,True
+2023-03-22,Enterprise Software,76330.0,3,Latin America,Lisa Thompson,6106.4,Q1,March,Wednesday,25443.333333333332,True
+2023-03-22,Analytics Suite,32385.0,5,Asia Pacific,David Kim,2590.8,Q1,March,Wednesday,6477.0,True
+2023-03-22,Analytics Suite,45201.0,1,Latin America,Sarah Johnson,3616.08,Q1,March,Wednesday,45201.0,True
+2023-03-23,Enterprise Software,59680.0,4,Latin America,Emily Rodriguez,4774.4,Q1,March,Thursday,14920.0,True
+2023-03-23,Enterprise Software,70529.0,5,North America,Lisa Thompson,5642.32,Q1,March,Thursday,14105.8,True
+2023-03-23,Analytics Suite,24868.0,5,Europe,Lisa Thompson,1989.44,Q1,March,Thursday,4973.6,False
+2023-03-23,Cloud Platform,18087.0,6,Asia Pacific,Emily Rodriguez,1446.96,Q1,March,Thursday,3014.5,False
+2023-03-24,Analytics Suite,46113.0,4,Latin America,Emily Rodriguez,3689.04,Q1,March,Friday,11528.25,True
+2023-03-24,Professional Services,11809.0,1,Asia Pacific,Mike Chen,944.72,Q1,March,Friday,11809.0,False
+2023-03-24,Cloud Platform,9675.0,8,Asia Pacific,Lisa Thompson,774.0,Q1,March,Friday,1209.375,False
+2023-03-24,Professional Services,9705.0,6,Latin America,Sarah Johnson,776.4,Q1,March,Friday,1617.5,False
+2023-03-24,Analytics Suite,32171.0,4,Asia Pacific,Sarah Johnson,2573.68,Q1,March,Friday,8042.75,True
+2023-03-24,Professional Services,30381.0,1,Latin America,Lisa Thompson,2430.48,Q1,March,Friday,30381.0,True
+2023-03-24,Analytics Suite,50774.0,3,North America,James Wilson,4061.92,Q1,March,Friday,16924.666666666668,True
+2023-03-24,Analytics Suite,35777.0,4,Latin America,Emily Rodriguez,2862.16,Q1,March,Friday,8944.25,True
+2023-03-25,Analytics Suite,52100.0,3,North America,Sarah Johnson,4168.0,Q1,March,Saturday,17366.666666666668,True
+2023-03-25,Enterprise Software,29298.0,4,Asia Pacific,Lisa Thompson,2343.84,Q1,March,Saturday,7324.5,False
+2023-03-25,Analytics Suite,17114.0,4,Latin America,James Wilson,1369.12,Q1,March,Saturday,4278.5,False
+2023-03-25,Professional Services,24583.0,2,Latin America,Sarah Johnson,1966.64,Q1,March,Saturday,12291.5,False
+2023-03-25,Enterprise Software,55760.0,4,Europe,Lisa Thompson,4460.8,Q1,March,Saturday,13940.0,True
+2023-03-25,Enterprise Software,49509.0,1,Europe,James Wilson,3960.72,Q1,March,Saturday,49509.0,True
+2023-03-25,Mobile App,1898.0,175,North America,Emily Rodriguez,151.84,Q1,March,Saturday,10.845714285714285,False
+2023-03-26,Analytics Suite,34064.0,1,Asia Pacific,Mike Chen,2725.12,Q1,March,Sunday,34064.0,True
+2023-03-26,Enterprise Software,30432.0,4,Latin America,James Wilson,2434.56,Q1,March,Sunday,7608.0,True
+2023-03-26,Cloud Platform,18013.0,10,Latin America,James Wilson,1441.04,Q1,March,Sunday,1801.3,False
+2023-03-27,Professional Services,27749.0,1,North America,Lisa Thompson,2219.92,Q1,March,Monday,27749.0,False
+2023-03-27,Analytics Suite,25131.0,2,Latin America,Emily Rodriguez,2010.48,Q1,March,Monday,12565.5,False
+2023-03-27,Analytics Suite,29604.0,3,Latin America,James Wilson,2368.32,Q1,March,Monday,9868.0,False
+2023-03-27,Professional Services,17055.0,7,Europe,David Kim,1364.4,Q1,March,Monday,2436.4285714285716,False
+2023-03-27,Professional Services,24529.0,10,North America,David Kim,1962.32,Q1,March,Monday,2452.9,False
+2023-03-27,Analytics Suite,45028.0,4,Europe,Mike Chen,3602.24,Q1,March,Monday,11257.0,True
+2023-03-28,Mobile App,3521.0,279,Asia Pacific,Emily Rodriguez,281.68,Q1,March,Tuesday,12.620071684587813,False
+2023-03-28,Cloud Platform,17268.0,2,Latin America,Sarah Johnson,1381.44,Q1,March,Tuesday,8634.0,False
+2023-03-28,Analytics Suite,29432.0,3,Asia Pacific,James Wilson,2354.56,Q1,March,Tuesday,9810.666666666666,False
+2023-03-28,Analytics Suite,26674.0,2,Asia Pacific,David Kim,2133.92,Q1,March,Tuesday,13337.0,False
+2023-03-29,Cloud Platform,14518.0,9,Europe,Sarah Johnson,1161.44,Q1,March,Wednesday,1613.111111111111,False
+2023-03-29,Professional Services,17235.0,7,Europe,Mike Chen,1378.8,Q1,March,Wednesday,2462.1428571428573,False
+2023-03-29,Professional Services,20847.0,7,Europe,Lisa Thompson,1667.76,Q1,March,Wednesday,2978.1428571428573,False
+2023-03-29,Mobile App,3203.0,515,North America,James Wilson,256.24,Q1,March,Wednesday,6.2194174757281555,False
+2023-03-29,Professional Services,39735.0,7,North America,Sarah Johnson,3178.8,Q1,March,Wednesday,5676.428571428572,True
+2023-03-30,Cloud Platform,15158.0,8,Asia Pacific,David Kim,1212.64,Q1,March,Thursday,1894.75,False
+2023-03-30,Cloud Platform,11851.0,5,Asia Pacific,Lisa Thompson,948.08,Q1,March,Thursday,2370.2,False
+2023-03-30,Analytics Suite,37246.0,4,Europe,David Kim,2979.68,Q1,March,Thursday,9311.5,True
+2023-03-30,Enterprise Software,48315.0,4,Latin America,Mike Chen,3865.2,Q1,March,Thursday,12078.75,True
+2023-03-30,Enterprise Software,46685.0,1,North America,David Kim,3734.8,Q1,March,Thursday,46685.0,True
+2023-03-30,Professional Services,29606.0,10,Asia Pacific,Emily Rodriguez,2368.48,Q1,March,Thursday,2960.6,False
+2023-03-31,Professional Services,30681.0,10,Europe,Lisa Thompson,2454.48,Q1,March,Friday,3068.1,True
+2023-03-31,Enterprise Software,42042.0,1,North America,James Wilson,3363.36,Q1,March,Friday,42042.0,True
+2023-03-31,Analytics Suite,28953.0,5,North America,Lisa Thompson,2316.24,Q1,March,Friday,5790.6,False
+2023-03-31,Cloud Platform,13762.0,9,Latin America,Mike Chen,1100.96,Q1,March,Friday,1529.111111111111,False
+2023-03-31,Mobile App,1547.0,107,North America,Emily Rodriguez,123.76,Q1,March,Friday,14.457943925233645,False
+2023-03-31,Cloud Platform,8181.0,1,Asia Pacific,Mike Chen,654.48,Q1,March,Friday,8181.0,False
+2023-03-31,Mobile App,7050.0,919,Latin America,David Kim,564.0,Q1,March,Friday,7.671381936887921,False
+2023-04-01,Analytics Suite,52272.0,5,North America,Lisa Thompson,4181.76,Q2,April,Saturday,10454.4,True
+2023-04-01,Analytics Suite,32385.0,3,Latin America,Mike Chen,2590.8,Q2,April,Saturday,10795.0,True
+2023-04-01,Analytics Suite,41053.0,1,Latin America,Emily Rodriguez,3284.24,Q2,April,Saturday,41053.0,True
+2023-04-01,Cloud Platform,16400.0,8,Europe,Emily Rodriguez,1312.0,Q2,April,Saturday,2050.0,False
+2023-04-01,Professional Services,48091.0,10,Latin America,Sarah Johnson,3847.28,Q2,April,Saturday,4809.1,True
+2023-04-01,Analytics Suite,46755.0,4,Europe,Lisa Thompson,3740.4,Q2,April,Saturday,11688.75,True
+2023-04-01,Analytics Suite,33656.0,2,Europe,David Kim,2692.48,Q2,April,Saturday,16828.0,True
+2023-04-01,Analytics Suite,24966.0,1,Europe,Lisa Thompson,1997.28,Q2,April,Saturday,24966.0,False
+2023-04-02,Cloud Platform,7770.0,7,Europe,Sarah Johnson,621.6,Q2,April,Sunday,1110.0,False
+2023-04-02,Enterprise Software,53051.0,2,North America,Lisa Thompson,4244.08,Q2,April,Sunday,26525.5,True
+2023-04-02,Enterprise Software,38654.0,5,Europe,James Wilson,3092.32,Q2,April,Sunday,7730.8,True
+2023-04-02,Analytics Suite,20066.0,1,Europe,Emily Rodriguez,1605.28,Q2,April,Sunday,20066.0,False
+2023-04-02,Cloud Platform,12090.0,3,Asia Pacific,David Kim,967.2,Q2,April,Sunday,4030.0,False
+2023-04-02,Cloud Platform,10133.0,1,Latin America,Mike Chen,810.64,Q2,April,Sunday,10133.0,False
+2023-04-02,Professional Services,37653.0,3,Asia Pacific,Sarah Johnson,3012.24,Q2,April,Sunday,12551.0,True
+2023-04-03,Cloud Platform,18967.0,9,Latin America,James Wilson,1517.36,Q2,April,Monday,2107.4444444444443,False
+2023-04-03,Enterprise Software,49880.0,5,Europe,Mike Chen,3990.4,Q2,April,Monday,9976.0,True
+2023-04-03,Enterprise Software,72199.0,5,Latin America,Emily Rodriguez,5775.92,Q2,April,Monday,14439.8,True
+2023-04-03,Mobile App,5116.0,237,Europe,Lisa Thompson,409.28,Q2,April,Monday,21.58649789029536,False
+2023-04-03,Mobile App,3708.0,244,North America,Sarah Johnson,296.64,Q2,April,Monday,15.19672131147541,False
+2023-04-03,Enterprise Software,72846.0,1,North America,Mike Chen,5827.68,Q2,April,Monday,72846.0,True
+2023-04-04,Analytics Suite,40658.0,1,Latin America,Emily Rodriguez,3252.64,Q2,April,Tuesday,40658.0,True
+2023-04-04,Enterprise Software,34441.0,1,North America,Emily Rodriguez,2755.28,Q2,April,Tuesday,34441.0,True
+2023-04-04,Mobile App,4714.0,671,Asia Pacific,Lisa Thompson,377.12,Q2,April,Tuesday,7.0253353204172875,False
+2023-04-04,Mobile App,3686.0,164,Asia Pacific,David Kim,294.88,Q2,April,Tuesday,22.475609756097562,False
+2023-04-04,Cloud Platform,8777.0,3,Asia Pacific,James Wilson,702.16,Q2,April,Tuesday,2925.6666666666665,False
+2023-04-05,Analytics Suite,44724.0,1,North America,Sarah Johnson,3577.92,Q2,April,Wednesday,44724.0,True
+2023-04-05,Professional Services,39320.0,2,Latin America,Emily Rodriguez,3145.6,Q2,April,Wednesday,19660.0,True
+2023-04-06,Mobile App,2902.0,973,Europe,James Wilson,232.16,Q2,April,Thursday,2.9825282631038026,False
+2023-04-06,Enterprise Software,58444.0,5,Latin America,Emily Rodriguez,4675.52,Q2,April,Thursday,11688.8,True
+2023-04-06,Cloud Platform,12072.0,8,Europe,Sarah Johnson,965.76,Q2,April,Thursday,1509.0,False
+2023-04-06,Enterprise Software,42693.0,4,Europe,Mike Chen,3415.44,Q2,April,Thursday,10673.25,True
+2023-04-07,Cloud Platform,12334.0,3,Europe,David Kim,986.72,Q2,April,Friday,4111.333333333333,False
+2023-04-07,Mobile App,3704.0,383,Latin America,Lisa Thompson,296.32,Q2,April,Friday,9.671018276762402,False
+2023-04-07,Professional Services,25363.0,1,Europe,David Kim,2029.04,Q2,April,Friday,25363.0,False
+2023-04-08,Mobile App,3753.0,460,Asia Pacific,Sarah Johnson,300.24,Q2,April,Saturday,8.158695652173913,False
+2023-04-08,Cloud Platform,16217.0,1,Asia Pacific,James Wilson,1297.36,Q2,April,Saturday,16217.0,False
+2023-04-08,Analytics Suite,34472.0,5,Latin America,Mike Chen,2757.76,Q2,April,Saturday,6894.4,True
+2023-04-08,Enterprise Software,46415.0,4,Europe,David Kim,3713.2,Q2,April,Saturday,11603.75,True
+2023-04-08,Analytics Suite,25470.0,3,Europe,James Wilson,2037.6,Q2,April,Saturday,8490.0,False
+2023-04-08,Cloud Platform,12404.0,1,Latin America,James Wilson,992.32,Q2,April,Saturday,12404.0,False
+2023-04-08,Enterprise Software,61330.0,1,Asia Pacific,Sarah Johnson,4906.4,Q2,April,Saturday,61330.0,True
+2023-04-08,Professional Services,28756.0,8,Latin America,David Kim,2300.48,Q2,April,Saturday,3594.5,False
+2023-04-09,Cloud Platform,10601.0,7,Asia Pacific,David Kim,848.08,Q2,April,Sunday,1514.4285714285713,False
+2023-04-09,Cloud Platform,15446.0,1,Asia Pacific,Emily Rodriguez,1235.68,Q2,April,Sunday,15446.0,False
+2023-04-09,Enterprise Software,61270.0,5,Asia Pacific,Lisa Thompson,4901.6,Q2,April,Sunday,12254.0,True
+2023-04-10,Mobile App,2495.0,248,Europe,James Wilson,199.6,Q2,April,Monday,10.060483870967742,False
+2023-04-10,Cloud Platform,17445.0,2,Europe,David Kim,1395.6,Q2,April,Monday,8722.5,False
+2023-04-10,Cloud Platform,12018.0,2,Asia Pacific,Mike Chen,961.44,Q2,April,Monday,6009.0,False
+2023-04-10,Cloud Platform,17567.0,9,North America,Mike Chen,1405.36,Q2,April,Monday,1951.888888888889,False
+2023-04-11,Professional Services,19275.0,5,Europe,Lisa Thompson,1542.0,Q2,April,Tuesday,3855.0,False
+2023-04-11,Professional Services,11463.0,6,North America,David Kim,917.04,Q2,April,Tuesday,1910.5,False
+2023-04-11,Analytics Suite,17910.0,4,North America,Sarah Johnson,1432.8,Q2,April,Tuesday,4477.5,False
+2023-04-11,Cloud Platform,15216.0,4,Asia Pacific,Sarah Johnson,1217.28,Q2,April,Tuesday,3804.0,False
+2023-04-11,Mobile App,5389.0,905,North America,Lisa Thompson,431.12,Q2,April,Tuesday,5.954696132596685,False
+2023-04-12,Professional Services,18217.0,2,Europe,James Wilson,1457.36,Q2,April,Wednesday,9108.5,False
+2023-04-12,Cloud Platform,17873.0,7,Asia Pacific,Lisa Thompson,1429.84,Q2,April,Wednesday,2553.285714285714,False
+2023-04-12,Analytics Suite,17554.0,5,Europe,James Wilson,1404.32,Q2,April,Wednesday,3510.8,False
+2023-04-12,Cloud Platform,14702.0,10,Asia Pacific,David Kim,1176.16,Q2,April,Wednesday,1470.2,False
+2023-04-12,Professional Services,15917.0,8,Asia Pacific,James Wilson,1273.36,Q2,April,Wednesday,1989.625,False
+2023-04-12,Mobile App,4022.0,405,North America,Mike Chen,321.76,Q2,April,Wednesday,9.930864197530864,False
+2023-04-13,Analytics Suite,35497.0,5,Asia Pacific,Emily Rodriguez,2839.76,Q2,April,Thursday,7099.4,True
+2023-04-13,Professional Services,18546.0,1,Europe,Emily Rodriguez,1483.68,Q2,April,Thursday,18546.0,False
+2023-04-13,Analytics Suite,30962.0,5,Latin America,James Wilson,2476.96,Q2,April,Thursday,6192.4,True
+2023-04-14,Cloud Platform,19528.0,1,Asia Pacific,David Kim,1562.24,Q2,April,Friday,19528.0,False
+2023-04-14,Enterprise Software,41346.0,2,Asia Pacific,Mike Chen,3307.68,Q2,April,Friday,20673.0,True
+2023-04-14,Professional Services,31267.0,1,Europe,Mike Chen,2501.36,Q2,April,Friday,31267.0,True
+2023-04-14,Professional Services,16527.0,10,Europe,Sarah Johnson,1322.16,Q2,April,Friday,1652.7,False
+2023-04-15,Enterprise Software,57947.0,2,Europe,David Kim,4635.76,Q2,April,Saturday,28973.5,True
+2023-04-15,Professional Services,35811.0,6,Asia Pacific,Mike Chen,2864.88,Q2,April,Saturday,5968.5,True
+2023-04-15,Mobile App,1500.0,780,Latin America,David Kim,120.0,Q2,April,Saturday,1.9230769230769231,False
+2023-04-15,Mobile App,3804.0,361,Asia Pacific,Mike Chen,304.32,Q2,April,Saturday,10.537396121883656,False
+2023-04-15,Enterprise Software,58656.0,5,Latin America,Sarah Johnson,4692.48,Q2,April,Saturday,11731.2,True
+2023-04-16,Mobile App,4695.0,148,Asia Pacific,David Kim,375.6,Q2,April,Sunday,31.722972972972972,False
+2023-04-16,Cloud Platform,16670.0,7,North America,Mike Chen,1333.6,Q2,April,Sunday,2381.4285714285716,False
+2023-04-16,Professional Services,20470.0,9,Asia Pacific,Mike Chen,1637.6,Q2,April,Sunday,2274.4444444444443,False
+2023-04-16,Analytics Suite,35909.0,2,North America,Sarah Johnson,2872.72,Q2,April,Sunday,17954.5,True
+2023-04-16,Enterprise Software,47664.0,2,Asia Pacific,Mike Chen,3813.12,Q2,April,Sunday,23832.0,True
+2023-04-16,Analytics Suite,47261.0,4,Latin America,Mike Chen,3780.88,Q2,April,Sunday,11815.25,True
+2023-04-16,Cloud Platform,16144.0,9,Europe,Lisa Thompson,1291.52,Q2,April,Sunday,1793.7777777777778,False
+2023-04-16,Enterprise Software,55064.0,2,Latin America,Sarah Johnson,4405.12,Q2,April,Sunday,27532.0,True
+2023-04-17,Cloud Platform,13146.0,10,Asia Pacific,Mike Chen,1051.68,Q2,April,Monday,1314.6,False
+2023-04-17,Professional Services,21342.0,10,Asia Pacific,Lisa Thompson,1707.36,Q2,April,Monday,2134.2,False
+2023-04-17,Mobile App,4351.0,432,Latin America,James Wilson,348.08,Q2,April,Monday,10.07175925925926,False
+2023-04-17,Mobile App,5591.0,975,Asia Pacific,David Kim,447.28,Q2,April,Monday,5.734358974358974,False
+2023-04-17,Cloud Platform,13105.0,3,Latin America,James Wilson,1048.4,Q2,April,Monday,4368.333333333333,False
+2023-04-17,Analytics Suite,38042.0,5,Latin America,David Kim,3043.36,Q2,April,Monday,7608.4,True
+2023-04-17,Enterprise Software,81131.0,1,Europe,James Wilson,6490.48,Q2,April,Monday,81131.0,True
+2023-04-18,Analytics Suite,44146.0,2,North America,David Kim,3531.68,Q2,April,Tuesday,22073.0,True
+2023-04-18,Analytics Suite,31576.0,3,North America,Emily Rodriguez,2526.08,Q2,April,Tuesday,10525.333333333334,True
+2023-04-18,Analytics Suite,47612.0,1,Asia Pacific,James Wilson,3808.96,Q2,April,Tuesday,47612.0,True
+2023-04-18,Analytics Suite,30715.0,2,Asia Pacific,Sarah Johnson,2457.2,Q2,April,Tuesday,15357.5,True
+2023-04-18,Cloud Platform,5828.0,7,North America,James Wilson,466.24,Q2,April,Tuesday,832.5714285714286,False
+2023-04-19,Analytics Suite,24415.0,1,Latin America,Mike Chen,1953.2,Q2,April,Wednesday,24415.0,False
+2023-04-19,Mobile App,2193.0,189,Europe,Mike Chen,175.44,Q2,April,Wednesday,11.603174603174603,False
+2023-04-19,Cloud Platform,13418.0,10,Europe,James Wilson,1073.44,Q2,April,Wednesday,1341.8,False
+2023-04-19,Professional Services,25138.0,9,Europe,Lisa Thompson,2011.04,Q2,April,Wednesday,2793.1111111111113,False
+2023-04-19,Mobile App,7514.0,770,North America,James Wilson,601.12,Q2,April,Wednesday,9.75844155844156,False
+2023-04-20,Enterprise Software,54903.0,4,North America,Mike Chen,4392.24,Q2,April,Thursday,13725.75,True
+2023-04-20,Professional Services,23356.0,9,Europe,Sarah Johnson,1868.48,Q2,April,Thursday,2595.1111111111113,False
+2023-04-20,Analytics Suite,43708.0,5,Asia Pacific,James Wilson,3496.64,Q2,April,Thursday,8741.6,True
+2023-04-20,Professional Services,8416.0,5,Asia Pacific,Lisa Thompson,673.28,Q2,April,Thursday,1683.2,False
+2023-04-20,Enterprise Software,53534.0,2,North America,James Wilson,4282.72,Q2,April,Thursday,26767.0,True
+2023-04-20,Professional Services,30781.0,9,Europe,James Wilson,2462.48,Q2,April,Thursday,3420.1111111111113,True
+2023-04-20,Analytics Suite,19474.0,3,Latin America,James Wilson,1557.92,Q2,April,Thursday,6491.333333333333,False
+2023-04-21,Cloud Platform,20146.0,3,North America,Emily Rodriguez,1611.68,Q2,April,Friday,6715.333333333333,False
+2023-04-21,Professional Services,27538.0,9,Asia Pacific,James Wilson,2203.04,Q2,April,Friday,3059.777777777778,False
+2023-04-21,Analytics Suite,30639.0,4,Europe,James Wilson,2451.12,Q2,April,Friday,7659.75,True
+2023-04-21,Mobile App,5949.0,595,Europe,James Wilson,475.92,Q2,April,Friday,9.998319327731092,False
+2023-04-22,Cloud Platform,25218.0,9,North America,David Kim,2017.44,Q2,April,Saturday,2802.0,False
+2023-04-22,Mobile App,5272.0,346,Latin America,Lisa Thompson,421.76,Q2,April,Saturday,15.236994219653178,False
+2023-04-22,Cloud Platform,16116.0,3,Asia Pacific,Sarah Johnson,1289.28,Q2,April,Saturday,5372.0,False
+2023-04-22,Mobile App,4310.0,448,Latin America,Sarah Johnson,344.8,Q2,April,Saturday,9.620535714285714,False
+2023-04-22,Professional Services,18626.0,10,Latin America,Sarah Johnson,1490.08,Q2,April,Saturday,1862.6,False
+2023-04-22,Enterprise Software,62455.0,4,Latin America,Emily Rodriguez,4996.4,Q2,April,Saturday,15613.75,True
+2023-04-22,Cloud Platform,11147.0,1,Asia Pacific,Emily Rodriguez,891.76,Q2,April,Saturday,11147.0,False
+2023-04-23,Analytics Suite,35751.0,4,Europe,James Wilson,2860.08,Q2,April,Sunday,8937.75,True
+2023-04-23,Professional Services,21417.0,9,Asia Pacific,David Kim,1713.36,Q2,April,Sunday,2379.6666666666665,False
+2023-04-23,Analytics Suite,40029.0,5,Latin America,Lisa Thompson,3202.32,Q2,April,Sunday,8005.8,True
+2023-04-23,Cloud Platform,16501.0,4,Latin America,Emily Rodriguez,1320.08,Q2,April,Sunday,4125.25,False
+2023-04-23,Analytics Suite,45894.0,3,Europe,Sarah Johnson,3671.52,Q2,April,Sunday,15298.0,True
+2023-04-23,Professional Services,21174.0,5,Asia Pacific,Mike Chen,1693.92,Q2,April,Sunday,4234.8,False
+2023-04-23,Mobile App,4595.0,389,Latin America,Sarah Johnson,367.6,Q2,April,Sunday,11.812339331619537,False
+2023-04-23,Enterprise Software,35318.0,4,Asia Pacific,David Kim,2825.44,Q2,April,Sunday,8829.5,True
+2023-04-24,Analytics Suite,30334.0,3,Asia Pacific,Sarah Johnson,2426.72,Q2,April,Monday,10111.333333333334,True
+2023-04-24,Enterprise Software,55659.0,5,Europe,Mike Chen,4452.72,Q2,April,Monday,11131.8,True
+2023-04-24,Analytics Suite,42948.0,5,Latin America,Lisa Thompson,3435.84,Q2,April,Monday,8589.6,True
+2023-04-24,Cloud Platform,10850.0,7,Asia Pacific,David Kim,868.0,Q2,April,Monday,1550.0,False
+2023-04-24,Mobile App,6304.0,630,North America,Mike Chen,504.32,Q2,April,Monday,10.006349206349206,False
+2023-04-24,Analytics Suite,49234.0,4,Europe,David Kim,3938.72,Q2,April,Monday,12308.5,True
+2023-04-25,Enterprise Software,56201.0,2,Latin America,Mike Chen,4496.08,Q2,April,Tuesday,28100.5,True
+2023-04-25,Analytics Suite,54706.0,5,North America,David Kim,4376.48,Q2,April,Tuesday,10941.2,True
+2023-04-25,Analytics Suite,26875.0,2,Latin America,David Kim,2150.0,Q2,April,Tuesday,13437.5,False
+2023-04-25,Analytics Suite,21931.0,1,Asia Pacific,Emily Rodriguez,1754.48,Q2,April,Tuesday,21931.0,False
+2023-04-25,Cloud Platform,6995.0,10,Europe,David Kim,559.6,Q2,April,Tuesday,699.5,False
+2023-04-25,Mobile App,7244.0,713,Asia Pacific,Sarah Johnson,579.52,Q2,April,Tuesday,10.159887798036465,False
+2023-04-25,Cloud Platform,17944.0,9,Europe,David Kim,1435.52,Q2,April,Tuesday,1993.7777777777778,False
+2023-04-25,Cloud Platform,14749.0,4,North America,Lisa Thompson,1179.92,Q2,April,Tuesday,3687.25,False
+2023-04-26,Analytics Suite,37939.0,3,Asia Pacific,Lisa Thompson,3035.12,Q2,April,Wednesday,12646.333333333334,True
+2023-04-26,Mobile App,3311.0,868,Europe,Sarah Johnson,264.88,Q2,April,Wednesday,3.814516129032258,False
+2023-04-27,Professional Services,43343.0,9,Latin America,James Wilson,3467.44,Q2,April,Thursday,4815.888888888889,True
+2023-04-27,Enterprise Software,51938.0,5,Asia Pacific,Emily Rodriguez,4155.04,Q2,April,Thursday,10387.6,True
+2023-04-28,Mobile App,5164.0,258,North America,Emily Rodriguez,413.12,Q2,April,Friday,20.015503875968992,False
+2023-04-28,Cloud Platform,18265.0,9,Europe,David Kim,1461.2,Q2,April,Friday,2029.4444444444443,False
+2023-04-28,Professional Services,28607.0,9,Europe,David Kim,2288.56,Q2,April,Friday,3178.5555555555557,False
+2023-04-28,Enterprise Software,53358.0,4,North America,Lisa Thompson,4268.64,Q2,April,Friday,13339.5,True
+2023-04-28,Analytics Suite,26700.0,2,Europe,David Kim,2136.0,Q2,April,Friday,13350.0,False
+2023-04-29,Analytics Suite,39950.0,4,Latin America,Lisa Thompson,3196.0,Q2,April,Saturday,9987.5,True
+2023-04-29,Mobile App,7823.0,414,North America,Emily Rodriguez,625.84,Q2,April,Saturday,18.896135265700483,False
+2023-04-29,Mobile App,7018.0,305,Asia Pacific,Sarah Johnson,561.44,Q2,April,Saturday,23.009836065573772,False
+2023-04-30,Mobile App,7389.0,527,North America,David Kim,591.12,Q2,April,Sunday,14.020872865275143,False
+2023-04-30,Cloud Platform,12699.0,4,Latin America,Emily Rodriguez,1015.92,Q2,April,Sunday,3174.75,False
+2023-04-30,Cloud Platform,10546.0,5,Latin America,James Wilson,843.68,Q2,April,Sunday,2109.2,False
+2023-05-01,Cloud Platform,14433.0,4,Asia Pacific,Emily Rodriguez,1154.64,Q2,May,Monday,3608.25,False
+2023-05-01,Professional Services,25417.0,10,Asia Pacific,James Wilson,2033.36,Q2,May,Monday,2541.7,False
+2023-05-01,Professional Services,33206.0,2,North America,Emily Rodriguez,2656.48,Q2,May,Monday,16603.0,True
+2023-05-01,Cloud Platform,7383.0,5,Latin America,James Wilson,590.64,Q2,May,Monday,1476.6,False
+2023-05-01,Professional Services,36471.0,9,Europe,David Kim,2917.68,Q2,May,Monday,4052.3333333333335,True
+2023-05-01,Enterprise Software,47629.0,4,Latin America,Lisa Thompson,3810.32,Q2,May,Monday,11907.25,True
+2023-05-01,Analytics Suite,30517.0,5,Europe,Sarah Johnson,2441.36,Q2,May,Monday,6103.4,True
+2023-05-02,Enterprise Software,34818.0,2,North America,Lisa Thompson,2785.44,Q2,May,Tuesday,17409.0,True
+2023-05-02,Mobile App,2517.0,375,Latin America,Sarah Johnson,201.36,Q2,May,Tuesday,6.712,False
+2023-05-02,Enterprise Software,62347.0,1,North America,James Wilson,4987.76,Q2,May,Tuesday,62347.0,True
+2023-05-03,Cloud Platform,15329.0,7,Asia Pacific,Lisa Thompson,1226.32,Q2,May,Wednesday,2189.8571428571427,False
+2023-05-03,Professional Services,15325.0,2,Europe,David Kim,1226.0,Q2,May,Wednesday,7662.5,False
+2023-05-04,Mobile App,3057.0,700,Asia Pacific,David Kim,244.56,Q2,May,Thursday,4.367142857142857,False
+2023-05-04,Analytics Suite,31474.0,1,Asia Pacific,Lisa Thompson,2517.92,Q2,May,Thursday,31474.0,True
+2023-05-04,Analytics Suite,52524.0,3,Latin America,James Wilson,4201.92,Q2,May,Thursday,17508.0,True
+2023-05-04,Mobile App,4610.0,827,North America,Mike Chen,368.8,Q2,May,Thursday,5.574365175332527,False
+2023-05-04,Analytics Suite,19216.0,1,North America,Mike Chen,1537.28,Q2,May,Thursday,19216.0,False
+2023-05-04,Professional Services,23156.0,9,Asia Pacific,David Kim,1852.48,Q2,May,Thursday,2572.8888888888887,False
+2023-05-04,Analytics Suite,32136.0,1,Asia Pacific,James Wilson,2570.88,Q2,May,Thursday,32136.0,True
+2023-05-05,Cloud Platform,4500.0,6,North America,Lisa Thompson,360.0,Q2,May,Friday,750.0,False
+2023-05-05,Enterprise Software,49185.0,5,North America,David Kim,3934.8,Q2,May,Friday,9837.0,True
+2023-05-05,Analytics Suite,32575.0,4,Asia Pacific,Lisa Thompson,2606.0,Q2,May,Friday,8143.75,True
+2023-05-05,Enterprise Software,60443.0,5,Asia Pacific,Lisa Thompson,4835.44,Q2,May,Friday,12088.6,True
+2023-05-05,Analytics Suite,54414.0,1,Asia Pacific,Sarah Johnson,4353.12,Q2,May,Friday,54414.0,True
+2023-05-05,Cloud Platform,20069.0,8,Latin America,Mike Chen,1605.52,Q2,May,Friday,2508.625,False
+2023-05-06,Enterprise Software,45966.0,3,Asia Pacific,Mike Chen,3677.28,Q2,May,Saturday,15322.0,True
+2023-05-06,Mobile App,3340.0,223,North America,Sarah Johnson,267.2,Q2,May,Saturday,14.977578475336323,False
+2023-05-06,Enterprise Software,88600.0,2,North America,Lisa Thompson,7088.0,Q2,May,Saturday,44300.0,True
+2023-05-06,Mobile App,5088.0,846,Latin America,Emily Rodriguez,407.04,Q2,May,Saturday,6.01418439716312,False
+2023-05-06,Cloud Platform,15062.0,5,Asia Pacific,Mike Chen,1204.96,Q2,May,Saturday,3012.4,False
+2023-05-06,Enterprise Software,49638.0,2,Europe,Sarah Johnson,3971.04,Q2,May,Saturday,24819.0,True
+2023-05-06,Cloud Platform,15891.0,6,North America,Sarah Johnson,1271.28,Q2,May,Saturday,2648.5,False
+2023-05-07,Analytics Suite,33484.0,1,Latin America,James Wilson,2678.72,Q2,May,Sunday,33484.0,True
+2023-05-07,Mobile App,4139.0,995,Asia Pacific,Emily Rodriguez,331.12,Q2,May,Sunday,4.159798994974874,False
+2023-05-08,Enterprise Software,41797.0,2,Asia Pacific,Lisa Thompson,3343.76,Q2,May,Monday,20898.5,True
+2023-05-08,Professional Services,24754.0,10,North America,Mike Chen,1980.32,Q2,May,Monday,2475.4,False
+2023-05-08,Analytics Suite,29294.0,4,North America,Mike Chen,2343.52,Q2,May,Monday,7323.5,False
+2023-05-08,Analytics Suite,27515.0,3,North America,James Wilson,2201.2,Q2,May,Monday,9171.666666666666,False
+2023-05-08,Enterprise Software,51596.0,4,Latin America,Sarah Johnson,4127.68,Q2,May,Monday,12899.0,True
+2023-05-08,Cloud Platform,13852.0,4,Europe,Lisa Thompson,1108.16,Q2,May,Monday,3463.0,False
+2023-05-09,Mobile App,7255.0,266,Asia Pacific,James Wilson,580.4,Q2,May,Tuesday,27.274436090225564,False
+2023-05-09,Professional Services,7500.0,6,Latin America,James Wilson,600.0,Q2,May,Tuesday,1250.0,False
+2023-05-09,Cloud Platform,19911.0,8,Latin America,David Kim,1592.88,Q2,May,Tuesday,2488.875,False
+2023-05-09,Enterprise Software,68691.0,3,North America,Lisa Thompson,5495.28,Q2,May,Tuesday,22897.0,True
+2023-05-10,Mobile App,1889.0,515,Europe,Emily Rodriguez,151.12,Q2,May,Wednesday,3.6679611650485437,False
+2023-05-10,Cloud Platform,13457.0,3,North America,Emily Rodriguez,1076.56,Q2,May,Wednesday,4485.666666666667,False
+2023-05-10,Cloud Platform,13328.0,7,Asia Pacific,Lisa Thompson,1066.24,Q2,May,Wednesday,1904.0,False
+2023-05-10,Cloud Platform,8666.0,5,Europe,Sarah Johnson,693.28,Q2,May,Wednesday,1733.2,False
+2023-05-10,Professional Services,19166.0,6,North America,James Wilson,1533.28,Q2,May,Wednesday,3194.3333333333335,False
+2023-05-11,Enterprise Software,33341.0,4,Latin America,Lisa Thompson,2667.28,Q2,May,Thursday,8335.25,True
+2023-05-11,Enterprise Software,76284.0,4,Latin America,Emily Rodriguez,6102.72,Q2,May,Thursday,19071.0,True
+2023-05-11,Analytics Suite,44824.0,4,Europe,David Kim,3585.92,Q2,May,Thursday,11206.0,True
+2023-05-12,Enterprise Software,69073.0,4,North America,Mike Chen,5525.84,Q2,May,Friday,17268.25,True
+2023-05-12,Cloud Platform,18247.0,1,North America,Sarah Johnson,1459.76,Q2,May,Friday,18247.0,False
+2023-05-12,Cloud Platform,9919.0,10,Latin America,David Kim,793.52,Q2,May,Friday,991.9,False
+2023-05-12,Enterprise Software,42132.0,5,Latin America,Emily Rodriguez,3370.56,Q2,May,Friday,8426.4,True
+2023-05-12,Mobile App,5734.0,824,Europe,James Wilson,458.72,Q2,May,Friday,6.95873786407767,False
+2023-05-12,Professional Services,15834.0,8,Latin America,Emily Rodriguez,1266.72,Q2,May,Friday,1979.25,False
+2023-05-12,Professional Services,30347.0,3,Asia Pacific,Emily Rodriguez,2427.76,Q2,May,Friday,10115.666666666666,True
+2023-05-13,Professional Services,23197.0,7,Asia Pacific,Mike Chen,1855.76,Q2,May,Saturday,3313.8571428571427,False
+2023-05-13,Cloud Platform,13313.0,1,Latin America,David Kim,1065.04,Q2,May,Saturday,13313.0,False
+2023-05-13,Enterprise Software,60664.0,2,Europe,Lisa Thompson,4853.12,Q2,May,Saturday,30332.0,True
+2023-05-14,Professional Services,28331.0,7,Latin America,Lisa Thompson,2266.48,Q2,May,Sunday,4047.285714285714,False
+2023-05-14,Analytics Suite,31209.0,4,Asia Pacific,Lisa Thompson,2496.72,Q2,May,Sunday,7802.25,True
+2023-05-14,Professional Services,33694.0,5,North America,Mike Chen,2695.52,Q2,May,Sunday,6738.8,True
+2023-05-14,Analytics Suite,23648.0,3,Europe,Emily Rodriguez,1891.84,Q2,May,Sunday,7882.666666666667,False
+2023-05-14,Enterprise Software,59239.0,2,Latin America,Emily Rodriguez,4739.12,Q2,May,Sunday,29619.5,True
+2023-05-15,Enterprise Software,58896.0,3,Asia Pacific,Sarah Johnson,4711.68,Q2,May,Monday,19632.0,True
+2023-05-15,Mobile App,4535.0,705,North America,Emily Rodriguez,362.8,Q2,May,Monday,6.432624113475177,False
+2023-05-15,Mobile App,5489.0,336,North America,Lisa Thompson,439.12,Q2,May,Monday,16.336309523809526,False
+2023-05-15,Analytics Suite,21863.0,1,Latin America,Lisa Thompson,1749.04,Q2,May,Monday,21863.0,False
+2023-05-15,Mobile App,6386.0,248,Europe,Sarah Johnson,510.88,Q2,May,Monday,25.75,False
+2023-05-15,Cloud Platform,14167.0,9,Latin America,James Wilson,1133.36,Q2,May,Monday,1574.111111111111,False
+2023-05-16,Analytics Suite,29511.0,3,Europe,David Kim,2360.88,Q2,May,Tuesday,9837.0,False
+2023-05-16,Enterprise Software,65735.0,1,Latin America,Sarah Johnson,5258.8,Q2,May,Tuesday,65735.0,True
+2023-05-16,Mobile App,3943.0,152,North America,Emily Rodriguez,315.44,Q2,May,Tuesday,25.94078947368421,False
+2023-05-17,Cloud Platform,8661.0,9,Europe,Sarah Johnson,692.88,Q2,May,Wednesday,962.3333333333334,False
+2023-05-17,Mobile App,2665.0,971,Asia Pacific,Sarah Johnson,213.2,Q2,May,Wednesday,2.744593202883625,False
+2023-05-17,Cloud Platform,17727.0,5,Europe,David Kim,1418.16,Q2,May,Wednesday,3545.4,False
+2023-05-17,Mobile App,3079.0,334,North America,Emily Rodriguez,246.32,Q2,May,Wednesday,9.218562874251496,False
+2023-05-18,Professional Services,38160.0,8,Europe,David Kim,3052.8,Q2,May,Thursday,4770.0,True
+2023-05-18,Cloud Platform,5631.0,4,Europe,James Wilson,450.48,Q2,May,Thursday,1407.75,False
+2023-05-19,Cloud Platform,22634.0,8,North America,Sarah Johnson,1810.72,Q2,May,Friday,2829.25,False
+2023-05-19,Mobile App,5316.0,678,Europe,David Kim,425.28,Q2,May,Friday,7.84070796460177,False
+2023-05-19,Mobile App,4854.0,138,Europe,Lisa Thompson,388.32,Q2,May,Friday,35.17391304347826,False
+2023-05-19,Cloud Platform,12547.0,8,Latin America,Lisa Thompson,1003.76,Q2,May,Friday,1568.375,False
+2023-05-19,Analytics Suite,39190.0,1,Europe,Emily Rodriguez,3135.2,Q2,May,Friday,39190.0,True
+2023-05-19,Cloud Platform,14830.0,1,Latin America,Sarah Johnson,1186.4,Q2,May,Friday,14830.0,False
+2023-05-19,Mobile App,6654.0,266,Asia Pacific,Emily Rodriguez,532.32,Q2,May,Friday,25.015037593984964,False
+2023-05-19,Analytics Suite,36199.0,2,North America,Emily Rodriguez,2895.92,Q2,May,Friday,18099.5,True
+2023-05-20,Cloud Platform,15676.0,6,North America,Mike Chen,1254.08,Q2,May,Saturday,2612.6666666666665,False
+2023-05-20,Enterprise Software,44545.0,3,Asia Pacific,Mike Chen,3563.6,Q2,May,Saturday,14848.333333333334,True
+2023-05-20,Professional Services,24572.0,10,Europe,Mike Chen,1965.76,Q2,May,Saturday,2457.2,False
+2023-05-21,Mobile App,5461.0,554,North America,Mike Chen,436.88,Q2,May,Sunday,9.85740072202166,False
+2023-05-21,Professional Services,12173.0,8,Latin America,James Wilson,973.84,Q2,May,Sunday,1521.625,False
+2023-05-21,Enterprise Software,29777.0,5,Latin America,David Kim,2382.16,Q2,May,Sunday,5955.4,False
+2023-05-21,Enterprise Software,61148.0,4,Latin America,Sarah Johnson,4891.84,Q2,May,Sunday,15287.0,True
+2023-05-21,Enterprise Software,52562.0,2,Asia Pacific,David Kim,4204.96,Q2,May,Sunday,26281.0,True
+2023-05-21,Cloud Platform,14172.0,9,Latin America,James Wilson,1133.76,Q2,May,Sunday,1574.6666666666667,False
+2023-05-22,Enterprise Software,50276.0,5,Asia Pacific,David Kim,4022.08,Q2,May,Monday,10055.2,True
+2023-05-22,Professional Services,27606.0,6,Europe,David Kim,2208.48,Q2,May,Monday,4601.0,False
+2023-05-22,Professional Services,20951.0,5,North America,Sarah Johnson,1676.08,Q2,May,Monday,4190.2,False
+2023-05-22,Analytics Suite,26827.0,4,North America,Mike Chen,2146.16,Q2,May,Monday,6706.75,False
+2023-05-22,Cloud Platform,15881.0,8,North America,James Wilson,1270.48,Q2,May,Monday,1985.125,False
+2023-05-22,Analytics Suite,24727.0,2,Latin America,Emily Rodriguez,1978.16,Q2,May,Monday,12363.5,False
+2023-05-22,Cloud Platform,16837.0,1,North America,Emily Rodriguez,1346.96,Q2,May,Monday,16837.0,False
+2023-05-23,Professional Services,12230.0,6,Europe,Lisa Thompson,978.4,Q2,May,Tuesday,2038.3333333333333,False
+2023-05-23,Enterprise Software,65437.0,4,Asia Pacific,Sarah Johnson,5234.96,Q2,May,Tuesday,16359.25,True
+2023-05-23,Enterprise Software,57088.0,1,North America,Emily Rodriguez,4567.04,Q2,May,Tuesday,57088.0,True
+2023-05-24,Professional Services,26920.0,2,Latin America,David Kim,2153.6,Q2,May,Wednesday,13460.0,False
+2023-05-24,Mobile App,6474.0,516,Latin America,Lisa Thompson,517.92,Q2,May,Wednesday,12.546511627906977,False
+2023-05-24,Professional Services,37491.0,10,North America,Mike Chen,2999.28,Q2,May,Wednesday,3749.1,True
+2023-05-24,Cloud Platform,19564.0,2,North America,Lisa Thompson,1565.12,Q2,May,Wednesday,9782.0,False
+2023-05-24,Professional Services,11193.0,8,Europe,Emily Rodriguez,895.44,Q2,May,Wednesday,1399.125,False
+2023-05-24,Professional Services,15403.0,1,Asia Pacific,James Wilson,1232.24,Q2,May,Wednesday,15403.0,False
+2023-05-24,Cloud Platform,12188.0,3,North America,Sarah Johnson,975.04,Q2,May,Wednesday,4062.6666666666665,False
+2023-05-25,Analytics Suite,35273.0,3,Asia Pacific,Lisa Thompson,2821.84,Q2,May,Thursday,11757.666666666666,True
+2023-05-25,Mobile App,5776.0,833,Asia Pacific,Mike Chen,462.08,Q2,May,Thursday,6.933973589435774,False
+2023-05-25,Enterprise Software,39113.0,2,Latin America,Emily Rodriguez,3129.04,Q2,May,Thursday,19556.5,True
+2023-05-25,Analytics Suite,36961.0,1,Europe,David Kim,2956.88,Q2,May,Thursday,36961.0,True
+2023-05-26,Enterprise Software,38669.0,1,Asia Pacific,Mike Chen,3093.52,Q2,May,Friday,38669.0,True
+2023-05-26,Cloud Platform,12248.0,7,North America,David Kim,979.84,Q2,May,Friday,1749.7142857142858,False
+2023-05-27,Professional Services,14450.0,5,Latin America,James Wilson,1156.0,Q2,May,Saturday,2890.0,False
+2023-05-27,Enterprise Software,36151.0,2,Asia Pacific,Mike Chen,2892.08,Q2,May,Saturday,18075.5,True
+2023-05-27,Enterprise Software,29724.0,4,Latin America,David Kim,2377.92,Q2,May,Saturday,7431.0,False
+2023-05-27,Analytics Suite,24753.0,3,Asia Pacific,Mike Chen,1980.24,Q2,May,Saturday,8251.0,False
+2023-05-27,Professional Services,32902.0,5,North America,Emily Rodriguez,2632.16,Q2,May,Saturday,6580.4,True
+2023-05-27,Mobile App,3575.0,420,Europe,Lisa Thompson,286.0,Q2,May,Saturday,8.511904761904763,False
+2023-05-27,Professional Services,44742.0,8,Asia Pacific,David Kim,3579.36,Q2,May,Saturday,5592.75,True
+2023-05-27,Mobile App,5739.0,211,Asia Pacific,David Kim,459.12,Q2,May,Saturday,27.19905213270142,False
+2023-05-28,Enterprise Software,52772.0,1,Asia Pacific,Mike Chen,4221.76,Q2,May,Sunday,52772.0,True
+2023-05-28,Analytics Suite,25987.0,2,Europe,Lisa Thompson,2078.96,Q2,May,Sunday,12993.5,False
+2023-05-28,Analytics Suite,42353.0,3,Latin America,James Wilson,3388.24,Q2,May,Sunday,14117.666666666666,True
+2023-05-28,Enterprise Software,41365.0,4,Europe,James Wilson,3309.2,Q2,May,Sunday,10341.25,True
+2023-05-28,Professional Services,25915.0,4,Latin America,James Wilson,2073.2,Q2,May,Sunday,6478.75,False
+2023-05-28,Analytics Suite,61880.0,3,Asia Pacific,Lisa Thompson,4950.4,Q2,May,Sunday,20626.666666666668,True
+2023-05-28,Cloud Platform,14567.0,1,Asia Pacific,Sarah Johnson,1165.36,Q2,May,Sunday,14567.0,False
+2023-05-29,Analytics Suite,47067.0,1,North America,Lisa Thompson,3765.36,Q2,May,Monday,47067.0,True
+2023-05-29,Mobile App,3945.0,712,Latin America,David Kim,315.6,Q2,May,Monday,5.540730337078652,False
+2023-05-29,Analytics Suite,34632.0,3,Asia Pacific,Lisa Thompson,2770.56,Q2,May,Monday,11544.0,True
+2023-05-29,Enterprise Software,76562.0,4,Latin America,James Wilson,6124.96,Q2,May,Monday,19140.5,True
+2023-05-29,Professional Services,20297.0,1,North America,David Kim,1623.76,Q2,May,Monday,20297.0,False
+2023-05-29,Professional Services,38593.0,10,North America,Lisa Thompson,3087.44,Q2,May,Monday,3859.3,True
+2023-05-30,Cloud Platform,18184.0,6,Latin America,Emily Rodriguez,1454.72,Q2,May,Tuesday,3030.6666666666665,False
+2023-05-30,Professional Services,20781.0,4,Europe,Mike Chen,1662.48,Q2,May,Tuesday,5195.25,False
+2023-05-30,Cloud Platform,17845.0,1,North America,Mike Chen,1427.6,Q2,May,Tuesday,17845.0,False
+2023-05-30,Mobile App,6458.0,803,Europe,Emily Rodriguez,516.64,Q2,May,Tuesday,8.042341220423411,False
+2023-05-30,Enterprise Software,59327.0,4,Europe,James Wilson,4746.16,Q2,May,Tuesday,14831.75,True
+2023-05-30,Professional Services,13223.0,4,North America,Mike Chen,1057.84,Q2,May,Tuesday,3305.75,False
+2023-05-30,Professional Services,19546.0,4,North America,David Kim,1563.68,Q2,May,Tuesday,4886.5,False
+2023-05-31,Enterprise Software,46287.0,5,Latin America,Lisa Thompson,3702.96,Q2,May,Wednesday,9257.4,True
+2023-05-31,Professional Services,24441.0,1,Latin America,Lisa Thompson,1955.28,Q2,May,Wednesday,24441.0,False
+2023-05-31,Cloud Platform,17793.0,10,Latin America,David Kim,1423.44,Q2,May,Wednesday,1779.3,False
+2023-05-31,Professional Services,26332.0,2,North America,Sarah Johnson,2106.56,Q2,May,Wednesday,13166.0,False
+2023-06-01,Professional Services,11987.0,4,North America,James Wilson,958.96,Q2,June,Thursday,2996.75,False
+2023-06-01,Analytics Suite,31193.0,2,Asia Pacific,David Kim,2495.44,Q2,June,Thursday,15596.5,True
+2023-06-01,Enterprise Software,47327.0,1,Europe,Emily Rodriguez,3786.16,Q2,June,Thursday,47327.0,True
+2023-06-01,Mobile App,4671.0,886,Europe,Sarah Johnson,373.68,Q2,June,Thursday,5.272009029345372,False
+2023-06-01,Enterprise Software,52969.0,1,Latin America,James Wilson,4237.52,Q2,June,Thursday,52969.0,True
+2023-06-02,Analytics Suite,35004.0,5,North America,James Wilson,2800.32,Q2,June,Friday,7000.8,True
+2023-06-02,Enterprise Software,45510.0,2,Latin America,Lisa Thompson,3640.8,Q2,June,Friday,22755.0,True
+2023-06-03,Cloud Platform,11747.0,6,Latin America,Sarah Johnson,939.76,Q2,June,Saturday,1957.8333333333333,False
+2023-06-03,Cloud Platform,6020.0,9,Europe,Lisa Thompson,481.6,Q2,June,Saturday,668.8888888888889,False
+2023-06-03,Professional Services,22577.0,2,Asia Pacific,Mike Chen,1806.16,Q2,June,Saturday,11288.5,False
+2023-06-03,Enterprise Software,42492.0,2,North America,James Wilson,3399.36,Q2,June,Saturday,21246.0,True
+2023-06-03,Enterprise Software,43258.0,2,Asia Pacific,David Kim,3460.64,Q2,June,Saturday,21629.0,True
+2023-06-03,Mobile App,2467.0,235,Latin America,David Kim,197.36,Q2,June,Saturday,10.497872340425532,False
+2023-06-03,Mobile App,2702.0,198,Latin America,James Wilson,216.16,Q2,June,Saturday,13.646464646464647,False
+2023-06-04,Mobile App,5263.0,496,Europe,Emily Rodriguez,421.04,Q2,June,Sunday,10.610887096774194,False
+2023-06-04,Cloud Platform,11857.0,4,Asia Pacific,Sarah Johnson,948.56,Q2,June,Sunday,2964.25,False
+2023-06-04,Enterprise Software,48178.0,2,Asia Pacific,Sarah Johnson,3854.24,Q2,June,Sunday,24089.0,True
+2023-06-04,Cloud Platform,12101.0,4,Asia Pacific,Emily Rodriguez,968.08,Q2,June,Sunday,3025.25,False
+2023-06-05,Cloud Platform,12107.0,2,Europe,James Wilson,968.56,Q2,June,Monday,6053.5,False
+2023-06-05,Analytics Suite,35881.0,1,Asia Pacific,Lisa Thompson,2870.48,Q2,June,Monday,35881.0,True
+2023-06-06,Mobile App,3380.0,515,Europe,James Wilson,270.4,Q2,June,Tuesday,6.563106796116505,False
+2023-06-06,Professional Services,20576.0,6,Latin America,Lisa Thompson,1646.08,Q2,June,Tuesday,3429.3333333333335,False
+2023-06-06,Analytics Suite,24116.0,3,Europe,Sarah Johnson,1929.28,Q2,June,Tuesday,8038.666666666667,False
+2023-06-06,Professional Services,17393.0,10,Asia Pacific,Emily Rodriguez,1391.44,Q2,June,Tuesday,1739.3,False
+2023-06-06,Cloud Platform,10886.0,9,Latin America,Lisa Thompson,870.88,Q2,June,Tuesday,1209.5555555555557,False
+2023-06-07,Mobile App,4266.0,563,Europe,Lisa Thompson,341.28,Q2,June,Wednesday,7.577264653641207,False
+2023-06-07,Cloud Platform,10276.0,4,Latin America,David Kim,822.08,Q2,June,Wednesday,2569.0,False
+2023-06-07,Professional Services,27534.0,6,Latin America,David Kim,2202.72,Q2,June,Wednesday,4589.0,False
+2023-06-07,Cloud Platform,8779.0,10,Europe,Mike Chen,702.32,Q2,June,Wednesday,877.9,False
+2023-06-07,Enterprise Software,37757.0,4,Europe,James Wilson,3020.56,Q2,June,Wednesday,9439.25,True
+2023-06-08,Mobile App,3472.0,512,Asia Pacific,Mike Chen,277.76,Q2,June,Thursday,6.78125,False
+2023-06-08,Professional Services,28681.0,7,Asia Pacific,Emily Rodriguez,2294.48,Q2,June,Thursday,4097.285714285715,False
+2023-06-08,Cloud Platform,12707.0,8,Latin America,David Kim,1016.56,Q2,June,Thursday,1588.375,False
+2023-06-08,Cloud Platform,15714.0,1,Asia Pacific,Lisa Thompson,1257.12,Q2,June,Thursday,15714.0,False
+2023-06-08,Analytics Suite,15521.0,2,North America,James Wilson,1241.68,Q2,June,Thursday,7760.5,False
+2023-06-08,Enterprise Software,43204.0,2,Asia Pacific,Lisa Thompson,3456.32,Q2,June,Thursday,21602.0,True
+2023-06-08,Mobile App,5067.0,513,Asia Pacific,James Wilson,405.36,Q2,June,Thursday,9.87719298245614,False
+2023-06-08,Analytics Suite,28691.0,3,Asia Pacific,David Kim,2295.28,Q2,June,Thursday,9563.666666666666,False
+2023-06-09,Enterprise Software,52785.0,1,Europe,Lisa Thompson,4222.8,Q2,June,Friday,52785.0,True
+2023-06-09,Analytics Suite,23654.0,3,Latin America,Mike Chen,1892.32,Q2,June,Friday,7884.666666666667,False
+2023-06-09,Mobile App,5691.0,417,North America,James Wilson,455.28,Q2,June,Friday,13.647482014388489,False
+2023-06-09,Cloud Platform,20276.0,9,North America,Sarah Johnson,1622.08,Q2,June,Friday,2252.8888888888887,False
+2023-06-09,Analytics Suite,24952.0,1,Europe,David Kim,1996.16,Q2,June,Friday,24952.0,False
+2023-06-09,Cloud Platform,10396.0,4,Europe,Lisa Thompson,831.68,Q2,June,Friday,2599.0,False
+2023-06-09,Mobile App,5744.0,651,Latin America,James Wilson,459.52,Q2,June,Friday,8.823348694316437,False
+2023-06-09,Analytics Suite,41268.0,5,Latin America,James Wilson,3301.44,Q2,June,Friday,8253.6,True
+2023-06-10,Enterprise Software,33725.0,2,Latin America,Emily Rodriguez,2698.0,Q2,June,Saturday,16862.5,True
+2023-06-10,Mobile App,3495.0,985,North America,Mike Chen,279.6,Q2,June,Saturday,3.548223350253807,False
+2023-06-10,Professional Services,18309.0,9,Europe,Mike Chen,1464.72,Q2,June,Saturday,2034.3333333333333,False
+2023-06-10,Enterprise Software,23866.0,3,Europe,Lisa Thompson,1909.28,Q2,June,Saturday,7955.333333333333,False
+2023-06-10,Analytics Suite,20283.0,2,Latin America,Mike Chen,1622.64,Q2,June,Saturday,10141.5,False
+2023-06-10,Cloud Platform,8385.0,1,North America,Emily Rodriguez,670.8,Q2,June,Saturday,8385.0,False
+2023-06-11,Cloud Platform,9235.0,4,Latin America,Emily Rodriguez,738.8,Q2,June,Sunday,2308.75,False
+2023-06-11,Professional Services,19791.0,7,Latin America,Sarah Johnson,1583.28,Q2,June,Sunday,2827.285714285714,False
+2023-06-12,Cloud Platform,12843.0,7,North America,Lisa Thompson,1027.44,Q2,June,Monday,1834.7142857142858,False
+2023-06-12,Mobile App,5860.0,980,Europe,Sarah Johnson,468.8,Q2,June,Monday,5.979591836734694,False
+2023-06-12,Cloud Platform,8405.0,8,Asia Pacific,Lisa Thompson,672.4,Q2,June,Monday,1050.625,False
+2023-06-13,Professional Services,25905.0,4,Europe,Mike Chen,2072.4,Q2,June,Tuesday,6476.25,False
+2023-06-13,Analytics Suite,26202.0,1,Latin America,James Wilson,2096.16,Q2,June,Tuesday,26202.0,False
+2023-06-13,Enterprise Software,39406.0,4,North America,David Kim,3152.48,Q2,June,Tuesday,9851.5,True
+2023-06-13,Analytics Suite,33668.0,5,Latin America,James Wilson,2693.44,Q2,June,Tuesday,6733.6,True
+2023-06-14,Enterprise Software,26527.0,5,Latin America,Emily Rodriguez,2122.16,Q2,June,Wednesday,5305.4,False
+2023-06-14,Mobile App,4458.0,855,North America,Emily Rodriguez,356.64,Q2,June,Wednesday,5.2140350877192985,False
+2023-06-14,Professional Services,20998.0,1,Europe,James Wilson,1679.84,Q2,June,Wednesday,20998.0,False
+2023-06-14,Analytics Suite,32136.0,1,North America,Lisa Thompson,2570.88,Q2,June,Wednesday,32136.0,True
+2023-06-14,Analytics Suite,30429.0,1,Europe,Mike Chen,2434.32,Q2,June,Wednesday,30429.0,True
+2023-06-14,Enterprise Software,69463.0,5,Latin America,David Kim,5557.04,Q2,June,Wednesday,13892.6,True
+2023-06-14,Professional Services,16173.0,10,Asia Pacific,Mike Chen,1293.84,Q2,June,Wednesday,1617.3,False
+2023-06-15,Cloud Platform,10088.0,2,Europe,James Wilson,807.04,Q2,June,Thursday,5044.0,False
+2023-06-15,Mobile App,3252.0,209,Asia Pacific,Emily Rodriguez,260.16,Q2,June,Thursday,15.559808612440191,False
+2023-06-15,Enterprise Software,33334.0,1,Latin America,James Wilson,2666.72,Q2,June,Thursday,33334.0,True
+2023-06-15,Analytics Suite,22645.0,1,Europe,David Kim,1811.6,Q2,June,Thursday,22645.0,False
+2023-06-15,Cloud Platform,16280.0,5,Latin America,David Kim,1302.4,Q2,June,Thursday,3256.0,False
+2023-06-15,Enterprise Software,57046.0,5,North America,Mike Chen,4563.68,Q2,June,Thursday,11409.2,True
+2023-06-15,Analytics Suite,23205.0,3,North America,Mike Chen,1856.4,Q2,June,Thursday,7735.0,False
+2023-06-16,Analytics Suite,21008.0,4,North America,Sarah Johnson,1680.64,Q2,June,Friday,5252.0,False
+2023-06-16,Analytics Suite,31959.0,1,Asia Pacific,Sarah Johnson,2556.72,Q2,June,Friday,31959.0,True
+2023-06-16,Cloud Platform,10011.0,9,Asia Pacific,Lisa Thompson,800.88,Q2,June,Friday,1112.3333333333333,False
+2023-06-16,Enterprise Software,47595.0,3,Europe,Sarah Johnson,3807.6,Q2,June,Friday,15865.0,True
+2023-06-16,Enterprise Software,42435.0,1,Latin America,David Kim,3394.8,Q2,June,Friday,42435.0,True
+2023-06-16,Enterprise Software,21811.0,5,Europe,Emily Rodriguez,1744.88,Q2,June,Friday,4362.2,False
+2023-06-16,Professional Services,29285.0,4,Asia Pacific,Sarah Johnson,2342.8,Q2,June,Friday,7321.25,False
+2023-06-17,Mobile App,6155.0,826,Europe,Mike Chen,492.4,Q2,June,Saturday,7.451573849878935,False
+2023-06-17,Cloud Platform,9793.0,2,North America,Sarah Johnson,783.44,Q2,June,Saturday,4896.5,False
+2023-06-18,Enterprise Software,35347.0,3,Latin America,Sarah Johnson,2827.76,Q2,June,Sunday,11782.333333333334,True
+2023-06-18,Mobile App,4343.0,215,Latin America,David Kim,347.44,Q2,June,Sunday,20.2,False
+2023-06-18,Professional Services,22006.0,8,North America,Emily Rodriguez,1760.48,Q2,June,Sunday,2750.75,False
+2023-06-18,Mobile App,4790.0,618,Europe,Lisa Thompson,383.2,Q2,June,Sunday,7.750809061488673,False
+2023-06-19,Mobile App,6412.0,730,Latin America,Mike Chen,512.96,Q2,June,Monday,8.783561643835617,False
+2023-06-19,Professional Services,18938.0,9,Europe,James Wilson,1515.04,Q2,June,Monday,2104.222222222222,False
+2023-06-19,Cloud Platform,9126.0,1,Europe,David Kim,730.08,Q2,June,Monday,9126.0,False
+2023-06-19,Mobile App,2344.0,814,North America,James Wilson,187.52,Q2,June,Monday,2.8796068796068797,False
+2023-06-19,Professional Services,15614.0,3,Europe,David Kim,1249.12,Q2,June,Monday,5204.666666666667,False
+2023-06-19,Professional Services,19801.0,1,North America,Sarah Johnson,1584.08,Q2,June,Monday,19801.0,False
+2023-06-19,Analytics Suite,43074.0,5,Europe,Mike Chen,3445.92,Q2,June,Monday,8614.8,True
+2023-06-20,Enterprise Software,33788.0,3,North America,David Kim,2703.04,Q2,June,Tuesday,11262.666666666666,True
+2023-06-20,Enterprise Software,42685.0,5,Europe,Sarah Johnson,3414.8,Q2,June,Tuesday,8537.0,True
+2023-06-21,Professional Services,19901.0,5,Europe,Mike Chen,1592.08,Q2,June,Wednesday,3980.2,False
+2023-06-21,Professional Services,27130.0,10,Europe,James Wilson,2170.4,Q2,June,Wednesday,2713.0,False
+2023-06-22,Professional Services,35161.0,5,North America,Lisa Thompson,2812.88,Q2,June,Thursday,7032.2,True
+2023-06-22,Analytics Suite,23540.0,4,Asia Pacific,Mike Chen,1883.2,Q2,June,Thursday,5885.0,False
+2023-06-22,Enterprise Software,34126.0,3,Latin America,Mike Chen,2730.08,Q2,June,Thursday,11375.333333333334,True
+2023-06-22,Cloud Platform,15758.0,7,Europe,Lisa Thompson,1260.64,Q2,June,Thursday,2251.1428571428573,False
+2023-06-23,Cloud Platform,14454.0,10,Latin America,James Wilson,1156.32,Q2,June,Friday,1445.4,False
+2023-06-23,Cloud Platform,18648.0,2,North America,Emily Rodriguez,1491.84,Q2,June,Friday,9324.0,False
+2023-06-23,Enterprise Software,47007.0,3,North America,Sarah Johnson,3760.56,Q2,June,Friday,15669.0,True
+2023-06-23,Analytics Suite,24981.0,1,Latin America,Mike Chen,1998.48,Q2,June,Friday,24981.0,False
+2023-06-23,Enterprise Software,47087.0,4,Europe,Lisa Thompson,3766.96,Q2,June,Friday,11771.75,True
+2023-06-23,Analytics Suite,37313.0,2,North America,David Kim,2985.04,Q2,June,Friday,18656.5,True
+2023-06-23,Cloud Platform,14953.0,7,Europe,David Kim,1196.24,Q2,June,Friday,2136.1428571428573,False
+2023-06-24,Analytics Suite,32261.0,5,North America,James Wilson,2580.88,Q2,June,Saturday,6452.2,True
+2023-06-24,Professional Services,26400.0,3,North America,Lisa Thompson,2112.0,Q2,June,Saturday,8800.0,False
+2023-06-24,Professional Services,27015.0,3,North America,David Kim,2161.2,Q2,June,Saturday,9005.0,False
+2023-06-24,Analytics Suite,39610.0,1,Latin America,Mike Chen,3168.8,Q2,June,Saturday,39610.0,True
+2023-06-25,Professional Services,23892.0,4,Asia Pacific,Emily Rodriguez,1911.36,Q2,June,Sunday,5973.0,False
+2023-06-25,Cloud Platform,11398.0,4,Asia Pacific,James Wilson,911.84,Q2,June,Sunday,2849.5,False
+2023-06-25,Analytics Suite,29232.0,4,Asia Pacific,David Kim,2338.56,Q2,June,Sunday,7308.0,False
+2023-06-25,Mobile App,5447.0,538,Latin America,Emily Rodriguez,435.76,Q2,June,Sunday,10.12453531598513,False
+2023-06-25,Enterprise Software,30196.0,4,Asia Pacific,James Wilson,2415.68,Q2,June,Sunday,7549.0,True
+2023-06-25,Enterprise Software,44424.0,1,Asia Pacific,Emily Rodriguez,3553.92,Q2,June,Sunday,44424.0,True
+2023-06-25,Cloud Platform,10583.0,4,Europe,Sarah Johnson,846.64,Q2,June,Sunday,2645.75,False
+2023-06-25,Enterprise Software,40344.0,2,Europe,Lisa Thompson,3227.52,Q2,June,Sunday,20172.0,True
+2023-06-26,Enterprise Software,55341.0,4,North America,David Kim,4427.28,Q2,June,Monday,13835.25,True
+2023-06-26,Mobile App,4229.0,897,Asia Pacific,Mike Chen,338.32,Q2,June,Monday,4.714604236343367,False
+2023-06-26,Professional Services,20278.0,9,Europe,James Wilson,1622.24,Q2,June,Monday,2253.1111111111113,False
+2023-06-26,Professional Services,11840.0,6,Asia Pacific,Lisa Thompson,947.2,Q2,June,Monday,1973.3333333333333,False
+2023-06-26,Mobile App,4895.0,492,Asia Pacific,Sarah Johnson,391.6,Q2,June,Monday,9.949186991869919,False
+2023-06-27,Analytics Suite,33422.0,3,Asia Pacific,Lisa Thompson,2673.76,Q2,June,Tuesday,11140.666666666666,True
+2023-06-27,Enterprise Software,65959.0,2,Latin America,Sarah Johnson,5276.72,Q2,June,Tuesday,32979.5,True
+2023-06-28,Analytics Suite,25414.0,3,Asia Pacific,Mike Chen,2033.12,Q2,June,Wednesday,8471.333333333334,False
+2023-06-28,Professional Services,21314.0,9,Asia Pacific,Emily Rodriguez,1705.12,Q2,June,Wednesday,2368.222222222222,False
+2023-06-29,Enterprise Software,42992.0,5,North America,Lisa Thompson,3439.36,Q2,June,Thursday,8598.4,True
+2023-06-29,Mobile App,5892.0,551,Asia Pacific,Sarah Johnson,471.36,Q2,June,Thursday,10.69328493647913,False
+2023-06-29,Cloud Platform,11656.0,1,North America,Lisa Thompson,932.48,Q2,June,Thursday,11656.0,False
+2023-06-29,Professional Services,21674.0,8,Europe,James Wilson,1733.92,Q2,June,Thursday,2709.25,False
+2023-06-29,Professional Services,23647.0,3,Latin America,David Kim,1891.76,Q2,June,Thursday,7882.333333333333,False
+2023-06-29,Analytics Suite,29567.0,1,Latin America,Sarah Johnson,2365.36,Q2,June,Thursday,29567.0,False
+2023-06-29,Mobile App,3464.0,848,Europe,James Wilson,277.12,Q2,June,Thursday,4.084905660377358,False
+2023-06-29,Mobile App,4232.0,953,Latin America,Sarah Johnson,338.56,Q2,June,Thursday,4.440713536201469,False
+2023-06-30,Professional Services,26441.0,8,North America,David Kim,2115.28,Q2,June,Friday,3305.125,False
+2023-06-30,Mobile App,2768.0,385,Europe,James Wilson,221.44,Q2,June,Friday,7.189610389610389,False
+2023-07-01,Cloud Platform,12478.0,8,Europe,Lisa Thompson,998.24,Q3,July,Saturday,1559.75,False
+2023-07-01,Analytics Suite,22118.0,4,Europe,Emily Rodriguez,1769.44,Q3,July,Saturday,5529.5,False
+2023-07-01,Professional Services,27170.0,1,Latin America,James Wilson,2173.6,Q3,July,Saturday,27170.0,False
+2023-07-01,Professional Services,10860.0,7,Latin America,Lisa Thompson,868.8,Q3,July,Saturday,1551.4285714285713,False
+2023-07-01,Professional Services,16646.0,3,Latin America,Mike Chen,1331.68,Q3,July,Saturday,5548.666666666667,False
+2023-07-01,Cloud Platform,13357.0,7,North America,James Wilson,1068.56,Q3,July,Saturday,1908.142857142857,False
+2023-07-01,Professional Services,29393.0,4,Latin America,David Kim,2351.44,Q3,July,Saturday,7348.25,False
+2023-07-01,Professional Services,19605.0,7,Asia Pacific,Emily Rodriguez,1568.4,Q3,July,Saturday,2800.714285714286,False
+2023-07-02,Mobile App,3333.0,555,Asia Pacific,James Wilson,266.64,Q3,July,Sunday,6.005405405405406,False
+2023-07-02,Cloud Platform,18772.0,3,Latin America,David Kim,1501.76,Q3,July,Sunday,6257.333333333333,False
+2023-07-02,Professional Services,11311.0,3,Asia Pacific,James Wilson,904.88,Q3,July,Sunday,3770.3333333333335,False
+2023-07-02,Analytics Suite,10500.0,4,North America,Emily Rodriguez,840.0,Q3,July,Sunday,2625.0,False
+2023-07-02,Professional Services,22640.0,8,Europe,James Wilson,1811.2,Q3,July,Sunday,2830.0,False
+2023-07-02,Enterprise Software,33975.0,5,Asia Pacific,James Wilson,2718.0,Q3,July,Sunday,6795.0,True
+2023-07-02,Analytics Suite,19421.0,1,Latin America,Emily Rodriguez,1553.68,Q3,July,Sunday,19421.0,False
+2023-07-03,Analytics Suite,33950.0,1,North America,Lisa Thompson,2716.0,Q3,July,Monday,33950.0,True
+2023-07-03,Mobile App,4292.0,764,Europe,James Wilson,343.36,Q3,July,Monday,5.617801047120419,False
+2023-07-03,Mobile App,3323.0,700,Asia Pacific,Sarah Johnson,265.84,Q3,July,Monday,4.747142857142857,False
+2023-07-04,Professional Services,12318.0,6,Europe,David Kim,985.44,Q3,July,Tuesday,2053.0,False
+2023-07-04,Cloud Platform,15140.0,7,Latin America,James Wilson,1211.2,Q3,July,Tuesday,2162.8571428571427,False
+2023-07-04,Professional Services,23901.0,4,North America,Sarah Johnson,1912.08,Q3,July,Tuesday,5975.25,False
+2023-07-04,Enterprise Software,38809.0,1,Europe,James Wilson,3104.72,Q3,July,Tuesday,38809.0,True
+2023-07-04,Mobile App,6215.0,742,Europe,Lisa Thompson,497.2,Q3,July,Tuesday,8.376010781671159,False
+2023-07-04,Enterprise Software,27158.0,3,North America,Lisa Thompson,2172.64,Q3,July,Tuesday,9052.666666666666,False
+2023-07-04,Professional Services,10846.0,5,Europe,Sarah Johnson,867.68,Q3,July,Tuesday,2169.2,False
+2023-07-04,Analytics Suite,22187.0,1,Latin America,Emily Rodriguez,1774.96,Q3,July,Tuesday,22187.0,False
+2023-07-05,Mobile App,3945.0,288,Latin America,James Wilson,315.6,Q3,July,Wednesday,13.697916666666666,False
+2023-07-05,Cloud Platform,12876.0,3,North America,Emily Rodriguez,1030.08,Q3,July,Wednesday,4292.0,False
+2023-07-05,Enterprise Software,37105.0,5,Europe,Lisa Thompson,2968.4,Q3,July,Wednesday,7421.0,True
+2023-07-06,Analytics Suite,30957.0,5,Europe,James Wilson,2476.56,Q3,July,Thursday,6191.4,True
+2023-07-06,Professional Services,12490.0,9,Europe,Sarah Johnson,999.2,Q3,July,Thursday,1387.7777777777778,False
+2023-07-07,Analytics Suite,40127.0,2,Latin America,Emily Rodriguez,3210.16,Q3,July,Friday,20063.5,True
+2023-07-07,Cloud Platform,11704.0,6,Asia Pacific,David Kim,936.32,Q3,July,Friday,1950.6666666666667,False
+2023-07-07,Analytics Suite,37385.0,5,Europe,David Kim,2990.8,Q3,July,Friday,7477.0,True
+2023-07-07,Enterprise Software,44112.0,3,Latin America,Lisa Thompson,3528.96,Q3,July,Friday,14704.0,True
+2023-07-07,Cloud Platform,13644.0,3,Asia Pacific,Mike Chen,1091.52,Q3,July,Friday,4548.0,False
+2023-07-08,Cloud Platform,14051.0,3,Latin America,Emily Rodriguez,1124.08,Q3,July,Saturday,4683.666666666667,False
+2023-07-08,Enterprise Software,45372.0,4,Asia Pacific,David Kim,3629.76,Q3,July,Saturday,11343.0,True
+2023-07-08,Enterprise Software,47712.0,3,Latin America,James Wilson,3816.96,Q3,July,Saturday,15904.0,True
+2023-07-08,Cloud Platform,16784.0,6,Asia Pacific,James Wilson,1342.72,Q3,July,Saturday,2797.3333333333335,False
+2023-07-09,Mobile App,4235.0,309,North America,Mike Chen,338.8,Q3,July,Sunday,13.705501618122977,False
+2023-07-09,Enterprise Software,48508.0,2,North America,David Kim,3880.64,Q3,July,Sunday,24254.0,True
+2023-07-09,Professional Services,19461.0,8,North America,Emily Rodriguez,1556.88,Q3,July,Sunday,2432.625,False
+2023-07-09,Mobile App,5728.0,968,Europe,David Kim,458.24,Q3,July,Sunday,5.917355371900826,False
+2023-07-09,Enterprise Software,31883.0,5,Europe,David Kim,2550.64,Q3,July,Sunday,6376.6,True
+2023-07-09,Analytics Suite,43127.0,4,Europe,James Wilson,3450.16,Q3,July,Sunday,10781.75,True
+2023-07-09,Professional Services,19759.0,8,Europe,Mike Chen,1580.72,Q3,July,Sunday,2469.875,False
+2023-07-09,Cloud Platform,6849.0,8,Europe,Mike Chen,547.92,Q3,July,Sunday,856.125,False
+2023-07-10,Enterprise Software,41537.0,5,North America,Lisa Thompson,3322.96,Q3,July,Monday,8307.4,True
+2023-07-10,Mobile App,3182.0,932,Europe,Mike Chen,254.56,Q3,July,Monday,3.4141630901287554,False
+2023-07-10,Enterprise Software,50087.0,3,Asia Pacific,Mike Chen,4006.96,Q3,July,Monday,16695.666666666668,True
+2023-07-10,Analytics Suite,22517.0,5,Asia Pacific,Sarah Johnson,1801.36,Q3,July,Monday,4503.4,False
+2023-07-10,Enterprise Software,34645.0,5,North America,Mike Chen,2771.6,Q3,July,Monday,6929.0,True
+2023-07-10,Cloud Platform,5197.0,8,Asia Pacific,Sarah Johnson,415.76,Q3,July,Monday,649.625,False
+2023-07-10,Professional Services,17286.0,10,Latin America,Lisa Thompson,1382.88,Q3,July,Monday,1728.6,False
+2023-07-10,Analytics Suite,10500.0,3,Europe,Sarah Johnson,840.0,Q3,July,Monday,3500.0,False
+2023-07-11,Cloud Platform,6297.0,10,Asia Pacific,Mike Chen,503.76,Q3,July,Tuesday,629.7,False
+2023-07-11,Cloud Platform,14737.0,6,North America,James Wilson,1178.96,Q3,July,Tuesday,2456.1666666666665,False
+2023-07-11,Mobile App,4942.0,483,Asia Pacific,Lisa Thompson,395.36,Q3,July,Tuesday,10.231884057971014,False
+2023-07-11,Professional Services,22552.0,10,Europe,David Kim,1804.16,Q3,July,Tuesday,2255.2,False
+2023-07-12,Enterprise Software,28396.0,2,Asia Pacific,Mike Chen,2271.68,Q3,July,Wednesday,14198.0,False
+2023-07-12,Mobile App,3942.0,435,North America,Sarah Johnson,315.36,Q3,July,Wednesday,9.062068965517241,False
+2023-07-12,Enterprise Software,39956.0,1,Latin America,Emily Rodriguez,3196.48,Q3,July,Wednesday,39956.0,True
+2023-07-12,Professional Services,13049.0,5,North America,Sarah Johnson,1043.92,Q3,July,Wednesday,2609.8,False
+2023-07-12,Cloud Platform,17412.0,2,North America,Sarah Johnson,1392.96,Q3,July,Wednesday,8706.0,False
+2023-07-12,Cloud Platform,15158.0,3,Latin America,David Kim,1212.64,Q3,July,Wednesday,5052.666666666667,False
+2023-07-13,Mobile App,3734.0,847,North America,Mike Chen,298.72,Q3,July,Thursday,4.408500590318772,False
+2023-07-13,Mobile App,4032.0,336,North America,Lisa Thompson,322.56,Q3,July,Thursday,12.0,False
+2023-07-13,Professional Services,21250.0,8,Latin America,Emily Rodriguez,1700.0,Q3,July,Thursday,2656.25,False
+2023-07-13,Cloud Platform,4649.0,2,Asia Pacific,Sarah Johnson,371.92,Q3,July,Thursday,2324.5,False
+2023-07-13,Enterprise Software,37033.0,1,North America,David Kim,2962.64,Q3,July,Thursday,37033.0,True
+2023-07-14,Professional Services,15908.0,3,Europe,Sarah Johnson,1272.64,Q3,July,Friday,5302.666666666667,False
+2023-07-14,Professional Services,13990.0,4,Europe,Sarah Johnson,1119.2,Q3,July,Friday,3497.5,False
+2023-07-14,Analytics Suite,25638.0,2,North America,Lisa Thompson,2051.04,Q3,July,Friday,12819.0,False
+2023-07-14,Professional Services,30786.0,1,Latin America,Sarah Johnson,2462.88,Q3,July,Friday,30786.0,True
+2023-07-14,Mobile App,4769.0,691,Latin America,Lisa Thompson,381.52,Q3,July,Friday,6.901591895803183,False
+2023-07-14,Cloud Platform,9943.0,10,Europe,David Kim,795.44,Q3,July,Friday,994.3,False
+2023-07-14,Professional Services,23435.0,9,North America,Mike Chen,1874.8,Q3,July,Friday,2603.8888888888887,False
+2023-07-15,Mobile App,5679.0,852,Latin America,Sarah Johnson,454.32,Q3,July,Saturday,6.665492957746479,False
+2023-07-15,Professional Services,25547.0,1,North America,Emily Rodriguez,2043.76,Q3,July,Saturday,25547.0,False
+2023-07-15,Mobile App,4071.0,597,North America,David Kim,325.68,Q3,July,Saturday,6.819095477386934,False
+2023-07-16,Enterprise Software,32236.0,1,Asia Pacific,James Wilson,2578.88,Q3,July,Sunday,32236.0,True
+2023-07-16,Enterprise Software,48378.0,4,Europe,Lisa Thompson,3870.24,Q3,July,Sunday,12094.5,True
+2023-07-17,Analytics Suite,31305.0,3,Asia Pacific,David Kim,2504.4,Q3,July,Monday,10435.0,True
+2023-07-17,Cloud Platform,15222.0,9,Asia Pacific,Sarah Johnson,1217.76,Q3,July,Monday,1691.3333333333333,False
+2023-07-18,Cloud Platform,14286.0,9,Europe,Sarah Johnson,1142.88,Q3,July,Tuesday,1587.3333333333333,False
+2023-07-18,Mobile App,5259.0,253,Latin America,David Kim,420.72,Q3,July,Tuesday,20.786561264822133,False
+2023-07-18,Professional Services,16788.0,2,Asia Pacific,David Kim,1343.04,Q3,July,Tuesday,8394.0,False
+2023-07-18,Mobile App,5580.0,465,Europe,Lisa Thompson,446.4,Q3,July,Tuesday,12.0,False
+2023-07-18,Enterprise Software,42371.0,1,North America,Mike Chen,3389.68,Q3,July,Tuesday,42371.0,True
+2023-07-19,Enterprise Software,64903.0,4,Asia Pacific,Mike Chen,5192.24,Q3,July,Wednesday,16225.75,True
+2023-07-19,Analytics Suite,22210.0,1,Europe,David Kim,1776.8,Q3,July,Wednesday,22210.0,False
+2023-07-19,Cloud Platform,18249.0,1,Latin America,Emily Rodriguez,1459.92,Q3,July,Wednesday,18249.0,False
+2023-07-19,Professional Services,21187.0,2,Europe,James Wilson,1694.96,Q3,July,Wednesday,10593.5,False
+2023-07-20,Mobile App,3218.0,209,Europe,Mike Chen,257.44,Q3,July,Thursday,15.397129186602871,False
+2023-07-20,Professional Services,17096.0,10,Europe,Emily Rodriguez,1367.68,Q3,July,Thursday,1709.6,False
+2023-07-20,Professional Services,18077.0,7,Latin America,Mike Chen,1446.16,Q3,July,Thursday,2582.4285714285716,False
+2023-07-20,Cloud Platform,13526.0,9,North America,David Kim,1082.08,Q3,July,Thursday,1502.888888888889,False
+2023-07-20,Mobile App,4627.0,193,North America,Lisa Thompson,370.16,Q3,July,Thursday,23.974093264248705,False
+2023-07-20,Mobile App,3311.0,127,Europe,Emily Rodriguez,264.88,Q3,July,Thursday,26.070866141732285,False
+2023-07-20,Analytics Suite,27795.0,5,Asia Pacific,Sarah Johnson,2223.6,Q3,July,Thursday,5559.0,False
+2023-07-21,Enterprise Software,65707.0,5,Asia Pacific,Sarah Johnson,5256.56,Q3,July,Friday,13141.4,True
+2023-07-21,Professional Services,30365.0,7,Latin America,Lisa Thompson,2429.2,Q3,July,Friday,4337.857142857143,True
+2023-07-22,Enterprise Software,45235.0,5,North America,David Kim,3618.8,Q3,July,Saturday,9047.0,True
+2023-07-22,Mobile App,4045.0,946,North America,Lisa Thompson,323.6,Q3,July,Saturday,4.275898520084566,False
+2023-07-22,Professional Services,20720.0,9,Asia Pacific,James Wilson,1657.6,Q3,July,Saturday,2302.222222222222,False
+2023-07-22,Mobile App,4736.0,782,Latin America,Emily Rodriguez,378.88,Q3,July,Saturday,6.056265984654732,False
+2023-07-22,Professional Services,13863.0,1,North America,James Wilson,1109.04,Q3,July,Saturday,13863.0,False
+2023-07-22,Enterprise Software,36911.0,2,Asia Pacific,Lisa Thompson,2952.88,Q3,July,Saturday,18455.5,True
+2023-07-22,Enterprise Software,19976.0,1,North America,Emily Rodriguez,1598.08,Q3,July,Saturday,19976.0,False
+2023-07-22,Analytics Suite,31353.0,3,Latin America,David Kim,2508.24,Q3,July,Saturday,10451.0,True
+2023-07-23,Analytics Suite,33436.0,5,Latin America,Emily Rodriguez,2674.88,Q3,July,Sunday,6687.2,True
+2023-07-23,Professional Services,17100.0,2,North America,Mike Chen,1368.0,Q3,July,Sunday,8550.0,False
+2023-07-23,Mobile App,5888.0,843,Latin America,Lisa Thompson,471.04,Q3,July,Sunday,6.9845788849347565,False
+2023-07-23,Analytics Suite,17703.0,3,Europe,Mike Chen,1416.24,Q3,July,Sunday,5901.0,False
+2023-07-24,Enterprise Software,22427.0,2,Latin America,Sarah Johnson,1794.16,Q3,July,Monday,11213.5,False
+2023-07-24,Professional Services,21346.0,7,North America,Mike Chen,1707.68,Q3,July,Monday,3049.4285714285716,False
+2023-07-24,Enterprise Software,52565.0,5,North America,David Kim,4205.2,Q3,July,Monday,10513.0,True
+2023-07-24,Professional Services,30103.0,5,Europe,Emily Rodriguez,2408.24,Q3,July,Monday,6020.6,True
+2023-07-25,Mobile App,3449.0,406,North America,Emily Rodriguez,275.92,Q3,July,Tuesday,8.495073891625616,False
+2023-07-25,Enterprise Software,52944.0,1,Europe,David Kim,4235.52,Q3,July,Tuesday,52944.0,True
+2023-07-25,Mobile App,3953.0,686,Asia Pacific,James Wilson,316.24,Q3,July,Tuesday,5.762390670553936,False
+2023-07-25,Mobile App,3792.0,917,Latin America,Mike Chen,303.36,Q3,July,Tuesday,4.135223555070883,False
+2023-07-25,Professional Services,25301.0,1,Asia Pacific,Sarah Johnson,2024.08,Q3,July,Tuesday,25301.0,False
+2023-07-26,Professional Services,23913.0,7,Europe,Lisa Thompson,1913.04,Q3,July,Wednesday,3416.1428571428573,False
+2023-07-26,Mobile App,2108.0,273,Asia Pacific,Lisa Thompson,168.64,Q3,July,Wednesday,7.721611721611722,False
+2023-07-26,Enterprise Software,57718.0,1,Asia Pacific,Emily Rodriguez,4617.44,Q3,July,Wednesday,57718.0,True
+2023-07-26,Analytics Suite,39592.0,1,Latin America,Emily Rodriguez,3167.36,Q3,July,Wednesday,39592.0,True
+2023-07-26,Analytics Suite,22745.0,1,Latin America,James Wilson,1819.6,Q3,July,Wednesday,22745.0,False
+2023-07-26,Analytics Suite,31324.0,2,Asia Pacific,Emily Rodriguez,2505.92,Q3,July,Wednesday,15662.0,True
+2023-07-27,Analytics Suite,32149.0,5,Latin America,Emily Rodriguez,2571.92,Q3,July,Thursday,6429.8,True
+2023-07-27,Professional Services,21564.0,4,Asia Pacific,David Kim,1725.12,Q3,July,Thursday,5391.0,False
+2023-07-27,Professional Services,16698.0,4,Europe,Lisa Thompson,1335.84,Q3,July,Thursday,4174.5,False
+2023-07-27,Analytics Suite,22358.0,3,Europe,James Wilson,1788.64,Q3,July,Thursday,7452.666666666667,False
+2023-07-27,Cloud Platform,11908.0,4,Europe,Emily Rodriguez,952.64,Q3,July,Thursday,2977.0,False
+2023-07-27,Analytics Suite,37850.0,4,Latin America,Lisa Thompson,3028.0,Q3,July,Thursday,9462.5,True
+2023-07-28,Analytics Suite,32566.0,5,Europe,David Kim,2605.28,Q3,July,Friday,6513.2,True
+2023-07-28,Analytics Suite,24886.0,5,Asia Pacific,James Wilson,1990.88,Q3,July,Friday,4977.2,False
+2023-07-28,Enterprise Software,49260.0,4,Asia Pacific,Emily Rodriguez,3940.8,Q3,July,Friday,12315.0,True
+2023-07-28,Professional Services,7500.0,7,North America,David Kim,600.0,Q3,July,Friday,1071.4285714285713,False
+2023-07-28,Analytics Suite,37649.0,5,Latin America,David Kim,3011.92,Q3,July,Friday,7529.8,True
+2023-07-28,Cloud Platform,5737.0,6,Latin America,David Kim,458.96,Q3,July,Friday,956.1666666666666,False
+2023-07-28,Cloud Platform,10695.0,10,Asia Pacific,David Kim,855.6,Q3,July,Friday,1069.5,False
+2023-07-28,Enterprise Software,26563.0,4,North America,James Wilson,2125.04,Q3,July,Friday,6640.75,False
+2023-07-29,Mobile App,2446.0,329,North America,Emily Rodriguez,195.68,Q3,July,Saturday,7.434650455927052,False
+2023-07-29,Mobile App,5392.0,693,Asia Pacific,Emily Rodriguez,431.36,Q3,July,Saturday,7.78066378066378,False
+2023-07-30,Analytics Suite,24071.0,4,Latin America,James Wilson,1925.68,Q3,July,Sunday,6017.75,False
+2023-07-30,Cloud Platform,13247.0,9,Europe,David Kim,1059.76,Q3,July,Sunday,1471.888888888889,False
+2023-07-30,Enterprise Software,39436.0,4,Europe,Mike Chen,3154.88,Q3,July,Sunday,9859.0,True
+2023-07-30,Mobile App,4572.0,497,North America,Lisa Thompson,365.76,Q3,July,Sunday,9.199195171026156,False
+2023-07-30,Mobile App,4092.0,398,Europe,Sarah Johnson,327.36,Q3,July,Sunday,10.28140703517588,False
+2023-07-30,Professional Services,12302.0,4,Asia Pacific,Mike Chen,984.16,Q3,July,Sunday,3075.5,False
+2023-07-30,Professional Services,25977.0,9,Europe,David Kim,2078.16,Q3,July,Sunday,2886.3333333333335,False
+2023-07-30,Analytics Suite,23852.0,3,Latin America,James Wilson,1908.16,Q3,July,Sunday,7950.666666666667,False
+2023-07-31,Enterprise Software,21321.0,3,Asia Pacific,Lisa Thompson,1705.68,Q3,July,Monday,7107.0,False
+2023-07-31,Mobile App,3486.0,702,Latin America,David Kim,278.88,Q3,July,Monday,4.965811965811966,False
+2023-07-31,Enterprise Software,58009.0,4,Latin America,Mike Chen,4640.72,Q3,July,Monday,14502.25,True
+2023-07-31,Mobile App,5020.0,479,North America,Sarah Johnson,401.6,Q3,July,Monday,10.480167014613778,False
+2023-07-31,Analytics Suite,25071.0,5,Asia Pacific,Sarah Johnson,2005.68,Q3,July,Monday,5014.2,False
+2023-07-31,Cloud Platform,10742.0,10,Latin America,David Kim,859.36,Q3,July,Monday,1074.2,False
+2023-07-31,Analytics Suite,25298.0,3,North America,Lisa Thompson,2023.84,Q3,July,Monday,8432.666666666666,False
+2023-07-31,Enterprise Software,64920.0,4,North America,James Wilson,5193.6,Q3,July,Monday,16230.0,True
+2023-08-01,Mobile App,4458.0,518,Europe,Emily Rodriguez,356.64,Q3,August,Tuesday,8.606177606177607,False
+2023-08-01,Mobile App,4516.0,919,North America,Sarah Johnson,361.28,Q3,August,Tuesday,4.914036996735582,False
+2023-08-01,Enterprise Software,52363.0,3,Europe,Mike Chen,4189.04,Q3,August,Tuesday,17454.333333333332,True
+2023-08-01,Cloud Platform,12859.0,8,North America,Mike Chen,1028.72,Q3,August,Tuesday,1607.375,False
+2023-08-01,Professional Services,18445.0,10,Latin America,Mike Chen,1475.6,Q3,August,Tuesday,1844.5,False
+2023-08-01,Analytics Suite,26350.0,1,Latin America,Emily Rodriguez,2108.0,Q3,August,Tuesday,26350.0,False
+2023-08-01,Analytics Suite,27398.0,4,North America,Sarah Johnson,2191.84,Q3,August,Tuesday,6849.5,False
+2023-08-02,Mobile App,3955.0,348,Latin America,Sarah Johnson,316.4,Q3,August,Wednesday,11.364942528735632,False
+2023-08-02,Professional Services,24365.0,7,North America,David Kim,1949.2,Q3,August,Wednesday,3480.714285714286,False
+2023-08-02,Mobile App,4062.0,830,North America,Emily Rodriguez,324.96,Q3,August,Wednesday,4.893975903614458,False
+2023-08-02,Enterprise Software,48791.0,3,Europe,Mike Chen,3903.28,Q3,August,Wednesday,16263.666666666666,True
+2023-08-02,Mobile App,3903.0,985,North America,David Kim,312.24,Q3,August,Wednesday,3.96243654822335,False
+2023-08-02,Cloud Platform,12283.0,3,Europe,James Wilson,982.64,Q3,August,Wednesday,4094.3333333333335,False
+2023-08-03,Analytics Suite,11215.0,3,Europe,James Wilson,897.2,Q3,August,Thursday,3738.3333333333335,False
+2023-08-03,Mobile App,5099.0,768,Europe,Emily Rodriguez,407.92,Q3,August,Thursday,6.639322916666667,False
+2023-08-03,Mobile App,4415.0,753,Latin America,Sarah Johnson,353.2,Q3,August,Thursday,5.863213811420983,False
+2023-08-04,Analytics Suite,36383.0,3,Latin America,David Kim,2910.64,Q3,August,Friday,12127.666666666666,True
+2023-08-04,Cloud Platform,4500.0,8,North America,Emily Rodriguez,360.0,Q3,August,Friday,562.5,False
+2023-08-04,Enterprise Software,65060.0,2,Latin America,Lisa Thompson,5204.8,Q3,August,Friday,32530.0,True
+2023-08-04,Cloud Platform,11497.0,7,North America,Sarah Johnson,919.76,Q3,August,Friday,1642.4285714285713,False
+2023-08-04,Analytics Suite,37308.0,1,Asia Pacific,Emily Rodriguez,2984.64,Q3,August,Friday,37308.0,True
+2023-08-04,Mobile App,2752.0,731,Asia Pacific,James Wilson,220.16,Q3,August,Friday,3.764705882352941,False
+2023-08-04,Cloud Platform,14205.0,5,Europe,David Kim,1136.4,Q3,August,Friday,2841.0,False
+2023-08-05,Professional Services,13679.0,5,Europe,Sarah Johnson,1094.32,Q3,August,Saturday,2735.8,False
+2023-08-05,Analytics Suite,22760.0,1,North America,Lisa Thompson,1820.8,Q3,August,Saturday,22760.0,False
+2023-08-05,Analytics Suite,44077.0,3,Europe,David Kim,3526.16,Q3,August,Saturday,14692.333333333334,True
+2023-08-05,Cloud Platform,11313.0,7,North America,Emily Rodriguez,905.04,Q3,August,Saturday,1616.142857142857,False
+2023-08-05,Cloud Platform,12782.0,2,Europe,Mike Chen,1022.56,Q3,August,Saturday,6391.0,False
+2023-08-05,Professional Services,25220.0,3,North America,Lisa Thompson,2017.6,Q3,August,Saturday,8406.666666666666,False
+2023-08-06,Analytics Suite,32163.0,3,Europe,Emily Rodriguez,2573.04,Q3,August,Sunday,10721.0,True
+2023-08-06,Mobile App,4180.0,694,Asia Pacific,James Wilson,334.4,Q3,August,Sunday,6.023054755043228,False
+2023-08-06,Professional Services,22189.0,6,Latin America,David Kim,1775.12,Q3,August,Sunday,3698.1666666666665,False
+2023-08-06,Professional Services,34420.0,3,Asia Pacific,Sarah Johnson,2753.6,Q3,August,Sunday,11473.333333333334,True
+2023-08-06,Cloud Platform,11792.0,9,North America,James Wilson,943.36,Q3,August,Sunday,1310.2222222222222,False
+2023-08-06,Analytics Suite,29689.0,2,Europe,James Wilson,2375.12,Q3,August,Sunday,14844.5,False
+2023-08-07,Professional Services,26303.0,4,Latin America,Emily Rodriguez,2104.24,Q3,August,Monday,6575.75,False
+2023-08-07,Cloud Platform,15979.0,9,Latin America,James Wilson,1278.32,Q3,August,Monday,1775.4444444444443,False
+2023-08-07,Professional Services,27122.0,7,Asia Pacific,Sarah Johnson,2169.76,Q3,August,Monday,3874.5714285714284,False
+2023-08-07,Enterprise Software,47664.0,1,Asia Pacific,Sarah Johnson,3813.12,Q3,August,Monday,47664.0,True
+2023-08-07,Professional Services,13141.0,2,Latin America,James Wilson,1051.28,Q3,August,Monday,6570.5,False
+2023-08-08,Professional Services,29800.0,5,Asia Pacific,James Wilson,2384.0,Q3,August,Tuesday,5960.0,False
+2023-08-08,Enterprise Software,26243.0,3,North America,David Kim,2099.44,Q3,August,Tuesday,8747.666666666666,False
+2023-08-08,Mobile App,4363.0,797,Latin America,James Wilson,349.04,Q3,August,Tuesday,5.474278544542033,False
+2023-08-09,Analytics Suite,21664.0,4,Asia Pacific,Emily Rodriguez,1733.12,Q3,August,Wednesday,5416.0,False
+2023-08-09,Professional Services,19615.0,5,Europe,James Wilson,1569.2,Q3,August,Wednesday,3923.0,False
+2023-08-09,Mobile App,4394.0,131,Europe,Mike Chen,351.52,Q3,August,Wednesday,33.541984732824424,False
+2023-08-10,Enterprise Software,43856.0,2,North America,James Wilson,3508.48,Q3,August,Thursday,21928.0,True
+2023-08-10,Mobile App,4506.0,912,Europe,David Kim,360.48,Q3,August,Thursday,4.940789473684211,False
+2023-08-11,Mobile App,5936.0,583,Asia Pacific,Lisa Thompson,474.88,Q3,August,Friday,10.181818181818182,False
+2023-08-11,Enterprise Software,45442.0,2,North America,Emily Rodriguez,3635.36,Q3,August,Friday,22721.0,True
+2023-08-11,Analytics Suite,25949.0,2,Europe,Lisa Thompson,2075.92,Q3,August,Friday,12974.5,False
+2023-08-11,Mobile App,5156.0,805,Latin America,James Wilson,412.48,Q3,August,Friday,6.4049689440993784,False
+2023-08-11,Enterprise Software,54273.0,1,Latin America,Lisa Thompson,4341.84,Q3,August,Friday,54273.0,True
+2023-08-12,Cloud Platform,7580.0,2,North America,Sarah Johnson,606.4,Q3,August,Saturday,3790.0,False
+2023-08-12,Cloud Platform,14150.0,1,Asia Pacific,David Kim,1132.0,Q3,August,Saturday,14150.0,False
+2023-08-12,Mobile App,4841.0,225,Europe,Lisa Thompson,387.28,Q3,August,Saturday,21.515555555555554,False
+2023-08-12,Enterprise Software,36429.0,3,Europe,James Wilson,2914.32,Q3,August,Saturday,12143.0,True
+2023-08-12,Mobile App,5650.0,245,North America,David Kim,452.0,Q3,August,Saturday,23.06122448979592,False
+2023-08-12,Analytics Suite,26739.0,5,Latin America,James Wilson,2139.12,Q3,August,Saturday,5347.8,False
+2023-08-13,Professional Services,20753.0,9,North America,Mike Chen,1660.24,Q3,August,Sunday,2305.8888888888887,False
+2023-08-13,Professional Services,18961.0,3,Europe,Sarah Johnson,1516.88,Q3,August,Sunday,6320.333333333333,False
+2023-08-14,Analytics Suite,28130.0,3,Asia Pacific,Mike Chen,2250.4,Q3,August,Monday,9376.666666666666,False
+2023-08-14,Professional Services,13422.0,7,Latin America,Sarah Johnson,1073.76,Q3,August,Monday,1917.4285714285713,False
+2023-08-15,Enterprise Software,22719.0,3,Asia Pacific,James Wilson,1817.52,Q3,August,Tuesday,7573.0,False
+2023-08-15,Mobile App,5913.0,758,North America,Sarah Johnson,473.04,Q3,August,Tuesday,7.800791556728232,False
+2023-08-15,Enterprise Software,29836.0,4,Latin America,Mike Chen,2386.88,Q3,August,Tuesday,7459.0,False
+2023-08-15,Analytics Suite,19672.0,5,Latin America,Lisa Thompson,1573.76,Q3,August,Tuesday,3934.4,False
+2023-08-15,Professional Services,7500.0,3,Europe,James Wilson,600.0,Q3,August,Tuesday,2500.0,False
+2023-08-15,Mobile App,3233.0,645,North America,James Wilson,258.64,Q3,August,Tuesday,5.0124031007751935,False
+2023-08-16,Analytics Suite,16886.0,1,Asia Pacific,David Kim,1350.88,Q3,August,Wednesday,16886.0,False
+2023-08-16,Professional Services,29852.0,3,Europe,Sarah Johnson,2388.16,Q3,August,Wednesday,9950.666666666666,False
+2023-08-16,Professional Services,26058.0,10,Asia Pacific,Emily Rodriguez,2084.64,Q3,August,Wednesday,2605.8,False
+2023-08-16,Professional Services,15871.0,8,Asia Pacific,Sarah Johnson,1269.68,Q3,August,Wednesday,1983.875,False
+2023-08-16,Mobile App,6702.0,327,Latin America,Emily Rodriguez,536.16,Q3,August,Wednesday,20.495412844036696,False
+2023-08-16,Analytics Suite,36246.0,1,Asia Pacific,Sarah Johnson,2899.68,Q3,August,Wednesday,36246.0,True
+2023-08-17,Mobile App,3610.0,244,Europe,Lisa Thompson,288.8,Q3,August,Thursday,14.795081967213115,False
+2023-08-17,Professional Services,7500.0,7,Europe,Lisa Thompson,600.0,Q3,August,Thursday,1071.4285714285713,False
+2023-08-17,Enterprise Software,67491.0,1,North America,Sarah Johnson,5399.28,Q3,August,Thursday,67491.0,True
+2023-08-17,Professional Services,11662.0,9,North America,Sarah Johnson,932.96,Q3,August,Thursday,1295.7777777777778,False
+2023-08-18,Enterprise Software,20255.0,2,Europe,Mike Chen,1620.4,Q3,August,Friday,10127.5,False
+2023-08-18,Professional Services,26135.0,5,Europe,Lisa Thompson,2090.8,Q3,August,Friday,5227.0,False
+2023-08-18,Cloud Platform,20783.0,9,Asia Pacific,Lisa Thompson,1662.64,Q3,August,Friday,2309.222222222222,False
+2023-08-18,Analytics Suite,39627.0,2,North America,Lisa Thompson,3170.16,Q3,August,Friday,19813.5,True
+2023-08-18,Professional Services,23383.0,6,North America,David Kim,1870.64,Q3,August,Friday,3897.1666666666665,False
+2023-08-18,Professional Services,23568.0,4,North America,Mike Chen,1885.44,Q3,August,Friday,5892.0,False
+2023-08-19,Analytics Suite,35168.0,1,North America,Sarah Johnson,2813.44,Q3,August,Saturday,35168.0,True
+2023-08-19,Analytics Suite,34375.0,3,Latin America,Emily Rodriguez,2750.0,Q3,August,Saturday,11458.333333333334,True
+2023-08-19,Mobile App,4337.0,299,Europe,David Kim,346.96,Q3,August,Saturday,14.505016722408026,False
+2023-08-19,Mobile App,4125.0,210,Europe,James Wilson,330.0,Q3,August,Saturday,19.642857142857142,False
+2023-08-20,Analytics Suite,27474.0,5,Asia Pacific,Sarah Johnson,2197.92,Q3,August,Sunday,5494.8,False
+2023-08-20,Professional Services,15476.0,4,Latin America,Emily Rodriguez,1238.08,Q3,August,Sunday,3869.0,False
+2023-08-20,Analytics Suite,25642.0,2,North America,Mike Chen,2051.36,Q3,August,Sunday,12821.0,False
+2023-08-20,Professional Services,9842.0,6,Asia Pacific,James Wilson,787.36,Q3,August,Sunday,1640.3333333333333,False
+2023-08-20,Analytics Suite,27173.0,1,Asia Pacific,James Wilson,2173.84,Q3,August,Sunday,27173.0,False
+2023-08-20,Analytics Suite,19695.0,3,Latin America,Sarah Johnson,1575.6,Q3,August,Sunday,6565.0,False
+2023-08-20,Professional Services,13378.0,1,Latin America,James Wilson,1070.24,Q3,August,Sunday,13378.0,False
+2023-08-21,Cloud Platform,12647.0,5,North America,Sarah Johnson,1011.76,Q3,August,Monday,2529.4,False
+2023-08-21,Mobile App,5670.0,122,Asia Pacific,Sarah Johnson,453.6,Q3,August,Monday,46.47540983606557,False
+2023-08-22,Analytics Suite,35713.0,3,Europe,Emily Rodriguez,2857.04,Q3,August,Tuesday,11904.333333333334,True
+2023-08-22,Professional Services,10576.0,1,North America,James Wilson,846.08,Q3,August,Tuesday,10576.0,False
+2023-08-22,Analytics Suite,19687.0,2,Europe,David Kim,1574.96,Q3,August,Tuesday,9843.5,False
+2023-08-22,Analytics Suite,35902.0,5,Europe,James Wilson,2872.16,Q3,August,Tuesday,7180.4,True
+2023-08-23,Enterprise Software,28210.0,3,Latin America,Emily Rodriguez,2256.8,Q3,August,Wednesday,9403.333333333334,False
+2023-08-23,Professional Services,18652.0,7,Latin America,Lisa Thompson,1492.16,Q3,August,Wednesday,2664.5714285714284,False
+2023-08-24,Enterprise Software,46600.0,4,North America,Lisa Thompson,3728.0,Q3,August,Thursday,11650.0,True
+2023-08-24,Analytics Suite,19865.0,1,Europe,James Wilson,1589.2,Q3,August,Thursday,19865.0,False
+2023-08-24,Enterprise Software,41264.0,5,North America,David Kim,3301.12,Q3,August,Thursday,8252.8,True
+2023-08-24,Cloud Platform,7197.0,2,North America,Lisa Thompson,575.76,Q3,August,Thursday,3598.5,False
+2023-08-24,Enterprise Software,32783.0,3,Latin America,Sarah Johnson,2622.64,Q3,August,Thursday,10927.666666666666,True
+2023-08-24,Mobile App,4383.0,498,North America,Emily Rodriguez,350.64,Q3,August,Thursday,8.801204819277109,False
+2023-08-24,Cloud Platform,6265.0,1,Latin America,Mike Chen,501.2,Q3,August,Thursday,6265.0,False
+2023-08-24,Mobile App,4528.0,857,Asia Pacific,James Wilson,362.24,Q3,August,Thursday,5.283547257876313,False
+2023-08-25,Cloud Platform,11929.0,4,Latin America,David Kim,954.32,Q3,August,Friday,2982.25,False
+2023-08-25,Analytics Suite,32640.0,5,Europe,Emily Rodriguez,2611.2,Q3,August,Friday,6528.0,True
+2023-08-25,Enterprise Software,42686.0,5,Asia Pacific,James Wilson,3414.88,Q3,August,Friday,8537.2,True
+2023-08-26,Mobile App,5636.0,345,Europe,Sarah Johnson,450.88,Q3,August,Saturday,16.33623188405797,False
+2023-08-26,Cloud Platform,12450.0,5,North America,David Kim,996.0,Q3,August,Saturday,2490.0,False
+2023-08-27,Cloud Platform,10454.0,3,North America,Sarah Johnson,836.32,Q3,August,Sunday,3484.6666666666665,False
+2023-08-27,Enterprise Software,41467.0,2,North America,Emily Rodriguez,3317.36,Q3,August,Sunday,20733.5,True
+2023-08-28,Enterprise Software,46519.0,1,North America,James Wilson,3721.52,Q3,August,Monday,46519.0,True
+2023-08-28,Cloud Platform,12175.0,9,Asia Pacific,Lisa Thompson,974.0,Q3,August,Monday,1352.7777777777778,False
+2023-08-28,Professional Services,20243.0,9,Europe,James Wilson,1619.44,Q3,August,Monday,2249.222222222222,False
+2023-08-28,Analytics Suite,22103.0,4,North America,Mike Chen,1768.24,Q3,August,Monday,5525.75,False
+2023-08-28,Analytics Suite,22431.0,2,Asia Pacific,Emily Rodriguez,1794.48,Q3,August,Monday,11215.5,False
+2023-08-28,Analytics Suite,16218.0,3,North America,David Kim,1297.44,Q3,August,Monday,5406.0,False
+2023-08-28,Cloud Platform,18298.0,4,Latin America,Emily Rodriguez,1463.84,Q3,August,Monday,4574.5,False
+2023-08-29,Analytics Suite,17551.0,3,Latin America,James Wilson,1404.08,Q3,August,Tuesday,5850.333333333333,False
+2023-08-29,Cloud Platform,9505.0,10,Europe,David Kim,760.4,Q3,August,Tuesday,950.5,False
+2023-08-29,Mobile App,3137.0,423,Latin America,Emily Rodriguez,250.96,Q3,August,Tuesday,7.416075650118203,False
+2023-08-29,Mobile App,5073.0,282,Latin America,David Kim,405.84,Q3,August,Tuesday,17.98936170212766,False
+2023-08-30,Cloud Platform,10938.0,2,Asia Pacific,Lisa Thompson,875.04,Q3,August,Wednesday,5469.0,False
+2023-08-30,Enterprise Software,54972.0,4,North America,Sarah Johnson,4397.76,Q3,August,Wednesday,13743.0,True
+2023-08-30,Analytics Suite,22342.0,4,Europe,Emily Rodriguez,1787.36,Q3,August,Wednesday,5585.5,False
+2023-08-30,Cloud Platform,13004.0,1,Asia Pacific,Mike Chen,1040.32,Q3,August,Wednesday,13004.0,False
+2023-08-31,Cloud Platform,8992.0,5,Europe,Emily Rodriguez,719.36,Q3,August,Thursday,1798.4,False
+2023-08-31,Cloud Platform,19722.0,9,North America,Mike Chen,1577.76,Q3,August,Thursday,2191.3333333333335,False
+2023-08-31,Mobile App,2574.0,886,Europe,David Kim,205.92,Q3,August,Thursday,2.905191873589165,False
+2023-08-31,Cloud Platform,13115.0,10,Asia Pacific,Lisa Thompson,1049.2,Q3,August,Thursday,1311.5,False
+2023-08-31,Analytics Suite,33323.0,3,North America,David Kim,2665.84,Q3,August,Thursday,11107.666666666666,True
+2023-08-31,Mobile App,4496.0,207,North America,James Wilson,359.68,Q3,August,Thursday,21.719806763285025,False
+2023-09-01,Enterprise Software,47220.0,4,Latin America,Mike Chen,3777.6,Q3,September,Friday,11805.0,True
+2023-09-01,Enterprise Software,48052.0,2,North America,Sarah Johnson,3844.16,Q3,September,Friday,24026.0,True
+2023-09-02,Cloud Platform,15197.0,6,Latin America,Sarah Johnson,1215.76,Q3,September,Saturday,2532.8333333333335,False
+2023-09-02,Professional Services,23897.0,6,Europe,Lisa Thompson,1911.76,Q3,September,Saturday,3982.8333333333335,False
+2023-09-02,Cloud Platform,19337.0,9,Europe,Emily Rodriguez,1546.96,Q3,September,Saturday,2148.5555555555557,False
+2023-09-03,Cloud Platform,24947.0,5,Europe,Emily Rodriguez,1995.76,Q3,September,Sunday,4989.4,False
+2023-09-03,Mobile App,4163.0,835,Latin America,Sarah Johnson,333.04,Q3,September,Sunday,4.98562874251497,False
+2023-09-03,Enterprise Software,29452.0,3,Latin America,Emily Rodriguez,2356.16,Q3,September,Sunday,9817.333333333334,False
+2023-09-03,Cloud Platform,14602.0,5,Europe,James Wilson,1168.16,Q3,September,Sunday,2920.4,False
+2023-09-03,Professional Services,44347.0,9,North America,James Wilson,3547.76,Q3,September,Sunday,4927.444444444444,True
+2023-09-03,Enterprise Software,37944.0,5,Latin America,James Wilson,3035.52,Q3,September,Sunday,7588.8,True
+2023-09-03,Mobile App,7458.0,961,Europe,Emily Rodriguez,596.64,Q3,September,Sunday,7.7606659729448495,False
+2023-09-03,Mobile App,7516.0,231,Latin America,Emily Rodriguez,601.28,Q3,September,Sunday,32.53679653679654,False
+2023-09-04,Cloud Platform,12508.0,2,North America,James Wilson,1000.64,Q3,September,Monday,6254.0,False
+2023-09-04,Cloud Platform,17560.0,1,Latin America,James Wilson,1404.8,Q3,September,Monday,17560.0,False
+2023-09-04,Cloud Platform,22327.0,8,Europe,Emily Rodriguez,1786.16,Q3,September,Monday,2790.875,False
+2023-09-04,Mobile App,4431.0,751,Latin America,Lisa Thompson,354.48,Q3,September,Monday,5.900133155792277,False
+2023-09-04,Mobile App,4694.0,187,Asia Pacific,Lisa Thompson,375.52,Q3,September,Monday,25.101604278074866,False
+2023-09-04,Enterprise Software,41274.0,1,Latin America,David Kim,3301.92,Q3,September,Monday,41274.0,True
+2023-09-05,Cloud Platform,10433.0,2,Europe,James Wilson,834.64,Q3,September,Tuesday,5216.5,False
+2023-09-05,Professional Services,20130.0,2,Europe,Sarah Johnson,1610.4,Q3,September,Tuesday,10065.0,False
+2023-09-05,Professional Services,15820.0,10,Europe,David Kim,1265.6,Q3,September,Tuesday,1582.0,False
+2023-09-05,Professional Services,25255.0,2,Europe,Lisa Thompson,2020.4,Q3,September,Tuesday,12627.5,False
+2023-09-05,Enterprise Software,38450.0,4,Europe,Mike Chen,3076.0,Q3,September,Tuesday,9612.5,True
+2023-09-05,Mobile App,5350.0,809,Latin America,Emily Rodriguez,428.0,Q3,September,Tuesday,6.61310259579728,False
+2023-09-05,Analytics Suite,18663.0,5,Europe,Lisa Thompson,1493.04,Q3,September,Tuesday,3732.6,False
+2023-09-06,Enterprise Software,54963.0,5,Latin America,Lisa Thompson,4397.04,Q3,September,Wednesday,10992.6,True
+2023-09-06,Enterprise Software,62502.0,5,Latin America,David Kim,5000.16,Q3,September,Wednesday,12500.4,True
+2023-09-06,Professional Services,10046.0,10,Latin America,Sarah Johnson,803.68,Q3,September,Wednesday,1004.6,False
+2023-09-06,Mobile App,5561.0,930,North America,James Wilson,444.88,Q3,September,Wednesday,5.979569892473118,False
+2023-09-06,Mobile App,6841.0,538,North America,David Kim,547.28,Q3,September,Wednesday,12.715613382899628,False
+2023-09-06,Enterprise Software,31855.0,3,North America,James Wilson,2548.4,Q3,September,Wednesday,10618.333333333334,True
+2023-09-07,Analytics Suite,52562.0,4,Asia Pacific,David Kim,4204.96,Q3,September,Thursday,13140.5,True
+2023-09-07,Mobile App,5628.0,423,Europe,Emily Rodriguez,450.24,Q3,September,Thursday,13.304964539007091,False
+2023-09-07,Mobile App,3942.0,799,North America,Mike Chen,315.36,Q3,September,Thursday,4.933667083854819,False
+2023-09-07,Enterprise Software,49163.0,3,Europe,James Wilson,3933.04,Q3,September,Thursday,16387.666666666668,True
+2023-09-07,Analytics Suite,40862.0,4,North America,Lisa Thompson,3268.96,Q3,September,Thursday,10215.5,True
+2023-09-07,Mobile App,5114.0,203,North America,David Kim,409.12,Q3,September,Thursday,25.192118226600986,False
+2023-09-08,Cloud Platform,17424.0,1,Europe,David Kim,1393.92,Q3,September,Friday,17424.0,False
+2023-09-08,Mobile App,3618.0,858,Latin America,James Wilson,289.44,Q3,September,Friday,4.216783216783217,False
+2023-09-08,Analytics Suite,36778.0,5,Europe,Sarah Johnson,2942.24,Q3,September,Friday,7355.6,True
+2023-09-09,Analytics Suite,20155.0,1,Latin America,Mike Chen,1612.4,Q3,September,Saturday,20155.0,False
+2023-09-09,Cloud Platform,14499.0,4,North America,David Kim,1159.92,Q3,September,Saturday,3624.75,False
+2023-09-09,Analytics Suite,25508.0,4,North America,David Kim,2040.64,Q3,September,Saturday,6377.0,False
+2023-09-09,Analytics Suite,27276.0,3,Europe,David Kim,2182.08,Q3,September,Saturday,9092.0,False
+2023-09-09,Cloud Platform,20562.0,7,Asia Pacific,Sarah Johnson,1644.96,Q3,September,Saturday,2937.4285714285716,False
+2023-09-09,Cloud Platform,19910.0,2,Europe,Lisa Thompson,1592.8,Q3,September,Saturday,9955.0,False
+2023-09-09,Cloud Platform,17741.0,7,Europe,Sarah Johnson,1419.28,Q3,September,Saturday,2534.4285714285716,False
+2023-09-10,Analytics Suite,23530.0,5,North America,Lisa Thompson,1882.4,Q3,September,Sunday,4706.0,False
+2023-09-10,Enterprise Software,45253.0,5,Latin America,Mike Chen,3620.24,Q3,September,Sunday,9050.6,True
+2023-09-10,Enterprise Software,68196.0,1,Latin America,Lisa Thompson,5455.68,Q3,September,Sunday,68196.0,True
+2023-09-10,Enterprise Software,52125.0,2,Latin America,David Kim,4170.0,Q3,September,Sunday,26062.5,True
+2023-09-10,Professional Services,42394.0,3,Europe,David Kim,3391.52,Q3,September,Sunday,14131.333333333334,True
+2023-09-10,Mobile App,5589.0,309,Latin America,David Kim,447.12,Q3,September,Sunday,18.0873786407767,False
+2023-09-11,Enterprise Software,52880.0,3,Latin America,Lisa Thompson,4230.4,Q3,September,Monday,17626.666666666668,True
+2023-09-11,Cloud Platform,13608.0,6,Asia Pacific,James Wilson,1088.64,Q3,September,Monday,2268.0,False
+2023-09-11,Cloud Platform,15600.0,2,Latin America,James Wilson,1248.0,Q3,September,Monday,7800.0,False
+2023-09-11,Cloud Platform,14313.0,4,Europe,Lisa Thompson,1145.04,Q3,September,Monday,3578.25,False
+2023-09-12,Professional Services,30310.0,1,Europe,Emily Rodriguez,2424.8,Q3,September,Tuesday,30310.0,True
+2023-09-12,Cloud Platform,19305.0,10,North America,James Wilson,1544.4,Q3,September,Tuesday,1930.5,False
+2023-09-13,Professional Services,19105.0,8,Asia Pacific,James Wilson,1528.4,Q3,September,Wednesday,2388.125,False
+2023-09-13,Professional Services,15015.0,1,Europe,Lisa Thompson,1201.2,Q3,September,Wednesday,15015.0,False
+2023-09-13,Cloud Platform,6737.0,8,North America,Emily Rodriguez,538.96,Q3,September,Wednesday,842.125,False
+2023-09-13,Cloud Platform,17285.0,8,Latin America,Lisa Thompson,1382.8,Q3,September,Wednesday,2160.625,False
+2023-09-13,Analytics Suite,23414.0,5,North America,Sarah Johnson,1873.12,Q3,September,Wednesday,4682.8,False
+2023-09-13,Professional Services,8853.0,4,North America,David Kim,708.24,Q3,September,Wednesday,2213.25,False
+2023-09-14,Cloud Platform,16748.0,8,Europe,Lisa Thompson,1339.84,Q3,September,Thursday,2093.5,False
+2023-09-14,Enterprise Software,87394.0,4,North America,Lisa Thompson,6991.52,Q3,September,Thursday,21848.5,True
+2023-09-14,Cloud Platform,14972.0,10,North America,David Kim,1197.76,Q3,September,Thursday,1497.2,False
+2023-09-15,Cloud Platform,18773.0,10,Europe,Mike Chen,1501.84,Q3,September,Friday,1877.3,False
+2023-09-15,Professional Services,25613.0,2,Europe,Lisa Thompson,2049.04,Q3,September,Friday,12806.5,False
+2023-09-15,Mobile App,4851.0,660,Latin America,James Wilson,388.08,Q3,September,Friday,7.35,False
+2023-09-16,Analytics Suite,44650.0,2,Latin America,James Wilson,3572.0,Q3,September,Saturday,22325.0,True
+2023-09-16,Analytics Suite,31952.0,2,Latin America,Mike Chen,2556.16,Q3,September,Saturday,15976.0,True
+2023-09-16,Mobile App,5401.0,855,Asia Pacific,Lisa Thompson,432.08,Q3,September,Saturday,6.316959064327485,False
+2023-09-16,Analytics Suite,38377.0,4,Asia Pacific,James Wilson,3070.16,Q3,September,Saturday,9594.25,True
+2023-09-17,Cloud Platform,11993.0,7,North America,David Kim,959.44,Q3,September,Sunday,1713.2857142857142,False
+2023-09-17,Analytics Suite,45416.0,2,North America,Emily Rodriguez,3633.28,Q3,September,Sunday,22708.0,True
+2023-09-17,Mobile App,4737.0,247,Asia Pacific,James Wilson,378.96,Q3,September,Sunday,19.178137651821864,False
+2023-09-17,Cloud Platform,11599.0,8,Latin America,Lisa Thompson,927.92,Q3,September,Sunday,1449.875,False
+2023-09-17,Mobile App,5804.0,922,Europe,Mike Chen,464.32,Q3,September,Sunday,6.295010845986985,False
+2023-09-17,Cloud Platform,10956.0,9,Latin America,Sarah Johnson,876.48,Q3,September,Sunday,1217.3333333333333,False
+2023-09-18,Mobile App,5042.0,753,Europe,Sarah Johnson,403.36,Q3,September,Monday,6.695883134130146,False
+2023-09-18,Professional Services,24931.0,3,North America,Mike Chen,1994.48,Q3,September,Monday,8310.333333333334,False
+2023-09-18,Enterprise Software,66288.0,5,Europe,Emily Rodriguez,5303.04,Q3,September,Monday,13257.6,True
+2023-09-18,Enterprise Software,57120.0,2,Europe,Sarah Johnson,4569.6,Q3,September,Monday,28560.0,True
+2023-09-19,Professional Services,24812.0,7,North America,James Wilson,1984.96,Q3,September,Tuesday,3544.5714285714284,False
+2023-09-19,Professional Services,31133.0,4,Latin America,David Kim,2490.64,Q3,September,Tuesday,7783.25,True
+2023-09-19,Professional Services,35426.0,5,Latin America,Lisa Thompson,2834.08,Q3,September,Tuesday,7085.2,True
+2023-09-19,Cloud Platform,17510.0,3,North America,Emily Rodriguez,1400.8,Q3,September,Tuesday,5836.666666666667,False
+2023-09-19,Professional Services,25077.0,7,Asia Pacific,James Wilson,2006.16,Q3,September,Tuesday,3582.4285714285716,False
+2023-09-19,Mobile App,3032.0,583,North America,Emily Rodriguez,242.56,Q3,September,Tuesday,5.200686106346484,False
+2023-09-20,Analytics Suite,23816.0,2,Europe,Sarah Johnson,1905.28,Q3,September,Wednesday,11908.0,False
+2023-09-20,Enterprise Software,45421.0,5,Europe,Sarah Johnson,3633.68,Q3,September,Wednesday,9084.2,True
+2023-09-20,Cloud Platform,12257.0,5,Latin America,David Kim,980.56,Q3,September,Wednesday,2451.4,False
+2023-09-20,Mobile App,4719.0,342,Latin America,Mike Chen,377.52,Q3,September,Wednesday,13.798245614035087,False
+2023-09-21,Analytics Suite,35594.0,2,North America,David Kim,2847.52,Q3,September,Thursday,17797.0,True
+2023-09-21,Mobile App,5794.0,962,Europe,Sarah Johnson,463.52,Q3,September,Thursday,6.022869022869023,False
+2023-09-21,Enterprise Software,48942.0,2,Latin America,David Kim,3915.36,Q3,September,Thursday,24471.0,True
+2023-09-21,Professional Services,28648.0,9,North America,David Kim,2291.84,Q3,September,Thursday,3183.1111111111113,False
+2023-09-21,Cloud Platform,15290.0,7,Latin America,James Wilson,1223.2,Q3,September,Thursday,2184.285714285714,False
+2023-09-21,Professional Services,10184.0,4,North America,Lisa Thompson,814.72,Q3,September,Thursday,2546.0,False
+2023-09-21,Analytics Suite,25136.0,3,Europe,Mike Chen,2010.88,Q3,September,Thursday,8378.666666666666,False
+2023-09-22,Analytics Suite,33487.0,1,North America,Mike Chen,2678.96,Q3,September,Friday,33487.0,True
+2023-09-22,Professional Services,15927.0,2,Asia Pacific,Sarah Johnson,1274.16,Q3,September,Friday,7963.5,False
+2023-09-22,Analytics Suite,41299.0,4,Europe,David Kim,3303.92,Q3,September,Friday,10324.75,True
+2023-09-22,Analytics Suite,51072.0,5,Asia Pacific,Mike Chen,4085.76,Q3,September,Friday,10214.4,True
+2023-09-22,Mobile App,6828.0,745,Asia Pacific,Sarah Johnson,546.24,Q3,September,Friday,9.165100671140939,False
+2023-09-22,Analytics Suite,32758.0,5,Latin America,Mike Chen,2620.64,Q3,September,Friday,6551.6,True
+2023-09-23,Professional Services,36180.0,6,Asia Pacific,Lisa Thompson,2894.4,Q3,September,Saturday,6030.0,True
+2023-09-23,Analytics Suite,36561.0,4,North America,Mike Chen,2924.88,Q3,September,Saturday,9140.25,True
+2023-09-23,Cloud Platform,13483.0,4,Europe,Sarah Johnson,1078.64,Q3,September,Saturday,3370.75,False
+2023-09-23,Mobile App,4079.0,997,Latin America,David Kim,326.32,Q3,September,Saturday,4.091273821464394,False
+2023-09-23,Professional Services,22731.0,6,North America,Mike Chen,1818.48,Q3,September,Saturday,3788.5,False
+2023-09-23,Mobile App,4417.0,114,North America,Lisa Thompson,353.36,Q3,September,Saturday,38.74561403508772,False
+2023-09-23,Cloud Platform,15766.0,7,Asia Pacific,Sarah Johnson,1261.28,Q3,September,Saturday,2252.285714285714,False
+2023-09-24,Mobile App,5240.0,261,Europe,David Kim,419.2,Q3,September,Sunday,20.07662835249042,False
+2023-09-24,Analytics Suite,35031.0,5,Europe,James Wilson,2802.48,Q3,September,Sunday,7006.2,True
+2023-09-24,Professional Services,28277.0,2,Europe,Mike Chen,2262.16,Q3,September,Sunday,14138.5,False
+2023-09-24,Analytics Suite,47501.0,4,North America,Lisa Thompson,3800.08,Q3,September,Sunday,11875.25,True
+2023-09-24,Cloud Platform,19272.0,8,North America,Sarah Johnson,1541.76,Q3,September,Sunday,2409.0,False
+2023-09-24,Mobile App,2772.0,344,North America,Emily Rodriguez,221.76,Q3,September,Sunday,8.05813953488372,False
+2023-09-24,Analytics Suite,10500.0,2,Europe,David Kim,840.0,Q3,September,Sunday,5250.0,False
+2023-09-24,Cloud Platform,19204.0,4,Europe,Emily Rodriguez,1536.32,Q3,September,Sunday,4801.0,False
+2023-09-25,Cloud Platform,8849.0,10,Asia Pacific,Mike Chen,707.92,Q3,September,Monday,884.9,False
+2023-09-25,Enterprise Software,46628.0,4,Latin America,James Wilson,3730.24,Q3,September,Monday,11657.0,True
+2023-09-25,Cloud Platform,9734.0,7,Europe,Mike Chen,778.72,Q3,September,Monday,1390.5714285714287,False
+2023-09-25,Cloud Platform,6891.0,7,Europe,Sarah Johnson,551.28,Q3,September,Monday,984.4285714285714,False
+2023-09-25,Professional Services,29060.0,10,Latin America,David Kim,2324.8,Q3,September,Monday,2906.0,False
+2023-09-26,Analytics Suite,42971.0,2,Latin America,Mike Chen,3437.68,Q3,September,Tuesday,21485.5,True
+2023-09-26,Cloud Platform,12405.0,4,North America,Sarah Johnson,992.4,Q3,September,Tuesday,3101.25,False
+2023-09-26,Cloud Platform,4500.0,1,Latin America,James Wilson,360.0,Q3,September,Tuesday,4500.0,False
+2023-09-26,Cloud Platform,12541.0,7,Latin America,Emily Rodriguez,1003.28,Q3,September,Tuesday,1791.5714285714287,False
+2023-09-26,Professional Services,27938.0,2,North America,Emily Rodriguez,2235.04,Q3,September,Tuesday,13969.0,False
+2023-09-26,Mobile App,2781.0,762,Europe,Lisa Thompson,222.48,Q3,September,Tuesday,3.6496062992125986,False
+2023-09-26,Enterprise Software,52750.0,3,North America,Sarah Johnson,4220.0,Q3,September,Tuesday,17583.333333333332,True
+2023-09-27,Enterprise Software,49770.0,4,Latin America,James Wilson,3981.6,Q3,September,Wednesday,12442.5,True
+2023-09-27,Enterprise Software,58689.0,2,Latin America,David Kim,4695.12,Q3,September,Wednesday,29344.5,True
+2023-09-27,Enterprise Software,51793.0,5,North America,James Wilson,4143.44,Q3,September,Wednesday,10358.6,True
+2023-09-27,Analytics Suite,24782.0,3,North America,Emily Rodriguez,1982.56,Q3,September,Wednesday,8260.666666666666,False
+2023-09-28,Enterprise Software,67948.0,1,North America,Emily Rodriguez,5435.84,Q3,September,Thursday,67948.0,True
+2023-09-28,Analytics Suite,33335.0,2,Latin America,Sarah Johnson,2666.8,Q3,September,Thursday,16667.5,True
+2023-09-28,Enterprise Software,49590.0,4,Europe,James Wilson,3967.2,Q3,September,Thursday,12397.5,True
+2023-09-28,Enterprise Software,36000.0,3,Asia Pacific,Emily Rodriguez,2880.0,Q3,September,Thursday,12000.0,True
+2023-09-28,Mobile App,4335.0,379,North America,Mike Chen,346.8,Q3,September,Thursday,11.437994722955144,False
+2023-09-28,Professional Services,18363.0,1,Europe,James Wilson,1469.04,Q3,September,Thursday,18363.0,False
+2023-09-28,Cloud Platform,14221.0,3,Asia Pacific,Sarah Johnson,1137.68,Q3,September,Thursday,4740.333333333333,False
+2023-09-28,Professional Services,37837.0,9,Latin America,Sarah Johnson,3026.96,Q3,September,Thursday,4204.111111111111,True
+2023-09-29,Mobile App,2942.0,188,Europe,David Kim,235.36,Q3,September,Friday,15.648936170212766,False
+2023-09-29,Professional Services,12898.0,5,Asia Pacific,David Kim,1031.84,Q3,September,Friday,2579.6,False
+2023-09-29,Analytics Suite,50447.0,5,Latin America,Lisa Thompson,4035.76,Q3,September,Friday,10089.4,True
+2023-09-29,Professional Services,23430.0,7,North America,Mike Chen,1874.4,Q3,September,Friday,3347.1428571428573,False
+2023-09-29,Enterprise Software,39963.0,5,Asia Pacific,David Kim,3197.04,Q3,September,Friday,7992.6,True
+2023-09-30,Mobile App,6559.0,866,North America,Lisa Thompson,524.72,Q3,September,Saturday,7.573903002309469,False
+2023-09-30,Analytics Suite,28641.0,2,Latin America,Mike Chen,2291.28,Q3,September,Saturday,14320.5,False
+2023-09-30,Cloud Platform,23217.0,3,Asia Pacific,Emily Rodriguez,1857.36,Q3,September,Saturday,7739.0,False
+2023-09-30,Analytics Suite,42118.0,3,Latin America,Emily Rodriguez,3369.44,Q3,September,Saturday,14039.333333333334,True
+2023-09-30,Cloud Platform,12804.0,3,North America,David Kim,1024.32,Q3,September,Saturday,4268.0,False
+2023-10-01,Mobile App,8235.0,423,North America,James Wilson,658.8,Q4,October,Sunday,19.46808510638298,False
+2023-10-01,Mobile App,4091.0,728,Europe,James Wilson,327.28,Q4,October,Sunday,5.6195054945054945,False
+2023-10-01,Professional Services,30565.0,1,Europe,James Wilson,2445.2,Q4,October,Sunday,30565.0,True
+2023-10-01,Cloud Platform,16346.0,1,North America,Emily Rodriguez,1307.68,Q4,October,Sunday,16346.0,False
+2023-10-01,Cloud Platform,20857.0,5,North America,Emily Rodriguez,1668.56,Q4,October,Sunday,4171.4,False
+2023-10-02,Mobile App,7342.0,238,Asia Pacific,Lisa Thompson,587.36,Q4,October,Monday,30.84873949579832,False
+2023-10-02,Cloud Platform,15144.0,6,Europe,Emily Rodriguez,1211.52,Q4,October,Monday,2524.0,False
+2023-10-02,Mobile App,3869.0,471,Europe,Emily Rodriguez,309.52,Q4,October,Monday,8.21443736730361,False
+2023-10-03,Cloud Platform,17069.0,7,Latin America,Sarah Johnson,1365.52,Q4,October,Tuesday,2438.4285714285716,False
+2023-10-03,Cloud Platform,11950.0,4,Asia Pacific,Mike Chen,956.0,Q4,October,Tuesday,2987.5,False
+2023-10-04,Cloud Platform,24060.0,8,Asia Pacific,James Wilson,1924.8,Q4,October,Wednesday,3007.5,False
+2023-10-04,Mobile App,5204.0,669,Asia Pacific,Sarah Johnson,416.32,Q4,October,Wednesday,7.778774289985052,False
+2023-10-04,Enterprise Software,44520.0,1,Asia Pacific,James Wilson,3561.6,Q4,October,Wednesday,44520.0,True
+2023-10-05,Mobile App,5277.0,610,Latin America,Lisa Thompson,422.16,Q4,October,Thursday,8.650819672131147,False
+2023-10-05,Enterprise Software,29793.0,5,North America,James Wilson,2383.44,Q4,October,Thursday,5958.6,False
+2023-10-05,Analytics Suite,24798.0,3,Asia Pacific,Lisa Thompson,1983.84,Q4,October,Thursday,8266.0,False
+2023-10-06,Mobile App,6800.0,285,Asia Pacific,Lisa Thompson,544.0,Q4,October,Friday,23.859649122807017,False
+2023-10-06,Enterprise Software,40146.0,4,North America,Mike Chen,3211.68,Q4,October,Friday,10036.5,True
+2023-10-06,Enterprise Software,34296.0,5,North America,Sarah Johnson,2743.68,Q4,October,Friday,6859.2,True
+2023-10-06,Analytics Suite,40634.0,1,North America,Sarah Johnson,3250.72,Q4,October,Friday,40634.0,True
+2023-10-06,Enterprise Software,67785.0,4,North America,Mike Chen,5422.8,Q4,October,Friday,16946.25,True
+2023-10-06,Mobile App,6078.0,662,Latin America,Emily Rodriguez,486.24,Q4,October,Friday,9.181268882175226,False
+2023-10-06,Analytics Suite,45458.0,3,Latin America,Lisa Thompson,3636.64,Q4,October,Friday,15152.666666666666,True
+2023-10-07,Mobile App,3864.0,213,Asia Pacific,David Kim,309.12,Q4,October,Saturday,18.140845070422536,False
+2023-10-07,Enterprise Software,28672.0,2,Asia Pacific,David Kim,2293.76,Q4,October,Saturday,14336.0,False
+2023-10-07,Cloud Platform,21756.0,7,North America,Lisa Thompson,1740.48,Q4,October,Saturday,3108.0,False
+2023-10-07,Cloud Platform,13547.0,3,Europe,James Wilson,1083.76,Q4,October,Saturday,4515.666666666667,False
+2023-10-07,Professional Services,23118.0,5,Asia Pacific,Lisa Thompson,1849.44,Q4,October,Saturday,4623.6,False
+2023-10-08,Analytics Suite,48946.0,4,Latin America,Emily Rodriguez,3915.68,Q4,October,Sunday,12236.5,True
+2023-10-08,Enterprise Software,58343.0,4,North America,David Kim,4667.44,Q4,October,Sunday,14585.75,True
+2023-10-09,Cloud Platform,17051.0,2,North America,David Kim,1364.08,Q4,October,Monday,8525.5,False
+2023-10-09,Mobile App,8247.0,131,North America,Sarah Johnson,659.76,Q4,October,Monday,62.954198473282446,False
+2023-10-09,Enterprise Software,40347.0,3,Europe,David Kim,3227.76,Q4,October,Monday,13449.0,True
+2023-10-09,Cloud Platform,19175.0,10,Asia Pacific,Sarah Johnson,1534.0,Q4,October,Monday,1917.5,False
+2023-10-10,Enterprise Software,50855.0,1,Latin America,Emily Rodriguez,4068.4,Q4,October,Tuesday,50855.0,True
+2023-10-10,Mobile App,5402.0,841,North America,Mike Chen,432.16,Q4,October,Tuesday,6.423305588585018,False
+2023-10-10,Professional Services,36463.0,4,Asia Pacific,Mike Chen,2917.04,Q4,October,Tuesday,9115.75,True
+2023-10-10,Enterprise Software,57617.0,4,Asia Pacific,David Kim,4609.36,Q4,October,Tuesday,14404.25,True
+2023-10-10,Cloud Platform,17422.0,6,Europe,Lisa Thompson,1393.76,Q4,October,Tuesday,2903.6666666666665,False
+2023-10-10,Enterprise Software,66087.0,3,North America,Emily Rodriguez,5286.96,Q4,October,Tuesday,22029.0,True
+2023-10-10,Mobile App,4452.0,661,North America,James Wilson,356.16,Q4,October,Tuesday,6.735249621785174,False
+2023-10-11,Professional Services,18705.0,1,North America,James Wilson,1496.4,Q4,October,Wednesday,18705.0,False
+2023-10-11,Mobile App,3432.0,508,North America,James Wilson,274.56,Q4,October,Wednesday,6.755905511811024,False
+2023-10-11,Enterprise Software,20504.0,1,Asia Pacific,Mike Chen,1640.32,Q4,October,Wednesday,20504.0,False
+2023-10-11,Enterprise Software,80843.0,3,Latin America,David Kim,6467.44,Q4,October,Wednesday,26947.666666666668,True
+2023-10-11,Enterprise Software,33451.0,4,Asia Pacific,Lisa Thompson,2676.08,Q4,October,Wednesday,8362.75,True
+2023-10-11,Analytics Suite,32676.0,1,Asia Pacific,James Wilson,2614.08,Q4,October,Wednesday,32676.0,True
+2023-10-12,Cloud Platform,13754.0,7,North America,David Kim,1100.32,Q4,October,Thursday,1964.857142857143,False
+2023-10-12,Enterprise Software,54611.0,2,Europe,Emily Rodriguez,4368.88,Q4,October,Thursday,27305.5,True
+2023-10-12,Mobile App,6223.0,928,Latin America,Sarah Johnson,497.84,Q4,October,Thursday,6.705818965517241,False
+2023-10-12,Professional Services,31453.0,7,Europe,Mike Chen,2516.24,Q4,October,Thursday,4493.285714285715,True
+2023-10-12,Mobile App,4125.0,205,Latin America,Lisa Thompson,330.0,Q4,October,Thursday,20.121951219512194,False
+2023-10-12,Professional Services,23746.0,5,North America,James Wilson,1899.68,Q4,October,Thursday,4749.2,False
+2023-10-13,Professional Services,27119.0,2,Latin America,James Wilson,2169.52,Q4,October,Friday,13559.5,False
+2023-10-13,Mobile App,4626.0,508,Asia Pacific,Emily Rodriguez,370.08,Q4,October,Friday,9.106299212598426,False
+2023-10-13,Analytics Suite,51877.0,2,Latin America,David Kim,4150.16,Q4,October,Friday,25938.5,True
+2023-10-14,Enterprise Software,57364.0,5,North America,Sarah Johnson,4589.12,Q4,October,Saturday,11472.8,True
+2023-10-14,Professional Services,30511.0,2,North America,Mike Chen,2440.88,Q4,October,Saturday,15255.5,True
+2023-10-14,Cloud Platform,17982.0,5,Europe,Sarah Johnson,1438.56,Q4,October,Saturday,3596.4,False
+2023-10-15,Cloud Platform,20280.0,10,Europe,Lisa Thompson,1622.4,Q4,October,Sunday,2028.0,False
+2023-10-15,Mobile App,5271.0,536,Latin America,David Kim,421.68,Q4,October,Sunday,9.833955223880597,False
+2023-10-16,Enterprise Software,30547.0,1,North America,David Kim,2443.76,Q4,October,Monday,30547.0,True
+2023-10-16,Enterprise Software,55995.0,4,Europe,Mike Chen,4479.6,Q4,October,Monday,13998.75,True
+2023-10-16,Professional Services,20114.0,8,North America,Sarah Johnson,1609.12,Q4,October,Monday,2514.25,False
+2023-10-16,Analytics Suite,29449.0,5,Europe,Lisa Thompson,2355.92,Q4,October,Monday,5889.8,False
+2023-10-16,Cloud Platform,17638.0,5,Europe,James Wilson,1411.04,Q4,October,Monday,3527.6,False
+2023-10-16,Analytics Suite,48001.0,5,North America,Sarah Johnson,3840.08,Q4,October,Monday,9600.2,True
+2023-10-17,Enterprise Software,50319.0,4,Latin America,Lisa Thompson,4025.52,Q4,October,Tuesday,12579.75,True
+2023-10-17,Cloud Platform,16389.0,5,Europe,David Kim,1311.12,Q4,October,Tuesday,3277.8,False
+2023-10-17,Professional Services,37766.0,7,Asia Pacific,Lisa Thompson,3021.28,Q4,October,Tuesday,5395.142857142857,True
+2023-10-17,Professional Services,26805.0,4,North America,Emily Rodriguez,2144.4,Q4,October,Tuesday,6701.25,False
+2023-10-17,Professional Services,44512.0,7,North America,Lisa Thompson,3560.96,Q4,October,Tuesday,6358.857142857143,True
+2023-10-17,Mobile App,5848.0,858,North America,James Wilson,467.84,Q4,October,Tuesday,6.8158508158508155,False
+2023-10-17,Analytics Suite,16511.0,3,Latin America,David Kim,1320.88,Q4,October,Tuesday,5503.666666666667,False
+2023-10-18,Professional Services,30650.0,4,Latin America,Mike Chen,2452.0,Q4,October,Wednesday,7662.5,True
+2023-10-18,Cloud Platform,16715.0,8,North America,Sarah Johnson,1337.2,Q4,October,Wednesday,2089.375,False
+2023-10-19,Cloud Platform,20803.0,1,Latin America,Mike Chen,1664.24,Q4,October,Thursday,20803.0,False
+2023-10-19,Professional Services,30048.0,2,Asia Pacific,David Kim,2403.84,Q4,October,Thursday,15024.0,True
+2023-10-19,Mobile App,4792.0,149,Asia Pacific,Emily Rodriguez,383.36,Q4,October,Thursday,32.16107382550336,False
+2023-10-20,Analytics Suite,22144.0,3,Asia Pacific,Emily Rodriguez,1771.52,Q4,October,Friday,7381.333333333333,False
+2023-10-20,Professional Services,23432.0,5,Asia Pacific,Lisa Thompson,1874.56,Q4,October,Friday,4686.4,False
+2023-10-20,Enterprise Software,37242.0,4,Europe,Emily Rodriguez,2979.36,Q4,October,Friday,9310.5,True
+2023-10-20,Mobile App,4129.0,834,North America,Mike Chen,330.32,Q4,October,Friday,4.95083932853717,False
+2023-10-21,Cloud Platform,17648.0,6,Latin America,David Kim,1411.84,Q4,October,Saturday,2941.3333333333335,False
+2023-10-21,Analytics Suite,52533.0,5,Asia Pacific,David Kim,4202.64,Q4,October,Saturday,10506.6,True
+2023-10-21,Cloud Platform,16776.0,2,Europe,David Kim,1342.08,Q4,October,Saturday,8388.0,False
+2023-10-21,Enterprise Software,32061.0,5,North America,Mike Chen,2564.88,Q4,October,Saturday,6412.2,True
+2023-10-22,Analytics Suite,39668.0,4,Europe,David Kim,3173.44,Q4,October,Sunday,9917.0,True
+2023-10-22,Professional Services,33974.0,4,Asia Pacific,Lisa Thompson,2717.92,Q4,October,Sunday,8493.5,True
+2023-10-22,Enterprise Software,40853.0,1,Europe,James Wilson,3268.24,Q4,October,Sunday,40853.0,True
+2023-10-22,Analytics Suite,33592.0,3,North America,Sarah Johnson,2687.36,Q4,October,Sunday,11197.333333333334,True
+2023-10-22,Mobile App,5022.0,905,North America,Mike Chen,401.76,Q4,October,Sunday,5.549171270718232,False
+2023-10-23,Enterprise Software,38226.0,1,Asia Pacific,Sarah Johnson,3058.08,Q4,October,Monday,38226.0,True
+2023-10-23,Professional Services,29862.0,2,Asia Pacific,David Kim,2388.96,Q4,October,Monday,14931.0,False
+2023-10-23,Cloud Platform,14455.0,2,North America,Emily Rodriguez,1156.4,Q4,October,Monday,7227.5,False
+2023-10-23,Analytics Suite,39405.0,2,Europe,David Kim,3152.4,Q4,October,Monday,19702.5,True
+2023-10-24,Professional Services,18343.0,6,Asia Pacific,James Wilson,1467.44,Q4,October,Tuesday,3057.1666666666665,False
+2023-10-24,Professional Services,21719.0,10,Latin America,James Wilson,1737.52,Q4,October,Tuesday,2171.9,False
+2023-10-24,Analytics Suite,42585.0,3,Latin America,James Wilson,3406.8,Q4,October,Tuesday,14195.0,True
+2023-10-25,Cloud Platform,13322.0,1,Europe,Mike Chen,1065.76,Q4,October,Wednesday,13322.0,False
+2023-10-25,Cloud Platform,22771.0,10,North America,Lisa Thompson,1821.68,Q4,October,Wednesday,2277.1,False
+2023-10-25,Cloud Platform,13201.0,10,Asia Pacific,Lisa Thompson,1056.08,Q4,October,Wednesday,1320.1,False
+2023-10-25,Professional Services,26685.0,4,North America,David Kim,2134.8,Q4,October,Wednesday,6671.25,False
+2023-10-25,Enterprise Software,63988.0,2,Asia Pacific,Mike Chen,5119.04,Q4,October,Wednesday,31994.0,True
+2023-10-25,Enterprise Software,28724.0,1,North America,Lisa Thompson,2297.92,Q4,October,Wednesday,28724.0,False
+2023-10-25,Cloud Platform,7076.0,10,Asia Pacific,James Wilson,566.08,Q4,October,Wednesday,707.6,False
+2023-10-26,Analytics Suite,18980.0,1,Latin America,Mike Chen,1518.4,Q4,October,Thursday,18980.0,False
+2023-10-26,Professional Services,34469.0,2,Asia Pacific,David Kim,2757.52,Q4,October,Thursday,17234.5,True
+2023-10-26,Mobile App,4172.0,607,Europe,James Wilson,333.76,Q4,October,Thursday,6.873146622734761,False
+2023-10-26,Analytics Suite,61861.0,5,Latin America,Emily Rodriguez,4948.88,Q4,October,Thursday,12372.2,True
+2023-10-26,Analytics Suite,29075.0,3,North America,Sarah Johnson,2326.0,Q4,October,Thursday,9691.666666666666,False
+2023-10-27,Enterprise Software,52768.0,2,North America,Sarah Johnson,4221.44,Q4,October,Friday,26384.0,True
+2023-10-27,Analytics Suite,51192.0,2,Latin America,David Kim,4095.36,Q4,October,Friday,25596.0,True
+2023-10-27,Professional Services,40045.0,10,North America,Emily Rodriguez,3203.6,Q4,October,Friday,4004.5,True
+2023-10-27,Cloud Platform,24276.0,2,Latin America,Mike Chen,1942.08,Q4,October,Friday,12138.0,False
+2023-10-28,Enterprise Software,68125.0,3,North America,James Wilson,5450.0,Q4,October,Saturday,22708.333333333332,True
+2023-10-28,Analytics Suite,45752.0,3,Europe,Lisa Thompson,3660.16,Q4,October,Saturday,15250.666666666666,True
+2023-10-28,Professional Services,29443.0,10,Asia Pacific,Emily Rodriguez,2355.44,Q4,October,Saturday,2944.3,False
+2023-10-28,Enterprise Software,61675.0,5,Europe,Sarah Johnson,4934.0,Q4,October,Saturday,12335.0,True
+2023-10-28,Cloud Platform,12519.0,2,Latin America,James Wilson,1001.52,Q4,October,Saturday,6259.5,False
+2023-10-29,Mobile App,3772.0,513,Latin America,James Wilson,301.76,Q4,October,Sunday,7.352826510721248,False
+2023-10-29,Cloud Platform,14984.0,6,Asia Pacific,Emily Rodriguez,1198.72,Q4,October,Sunday,2497.3333333333335,False
+2023-10-29,Mobile App,4744.0,521,Latin America,James Wilson,379.52,Q4,October,Sunday,9.105566218809981,False
+2023-10-30,Mobile App,4320.0,897,North America,Lisa Thompson,345.6,Q4,October,Monday,4.816053511705686,False
+2023-10-30,Cloud Platform,18133.0,8,Europe,Sarah Johnson,1450.64,Q4,October,Monday,2266.625,False
+2023-10-30,Mobile App,6432.0,685,Europe,Lisa Thompson,514.56,Q4,October,Monday,9.38978102189781,False
+2023-10-30,Cloud Platform,15397.0,2,Europe,James Wilson,1231.76,Q4,October,Monday,7698.5,False
+2023-10-30,Enterprise Software,72162.0,4,North America,Sarah Johnson,5772.96,Q4,October,Monday,18040.5,True
+2023-10-30,Analytics Suite,23012.0,5,Europe,James Wilson,1840.96,Q4,October,Monday,4602.4,False
+2023-10-31,Analytics Suite,32966.0,2,Latin America,James Wilson,2637.28,Q4,October,Tuesday,16483.0,True
+2023-10-31,Enterprise Software,39247.0,5,Europe,Lisa Thompson,3139.76,Q4,October,Tuesday,7849.4,True
+2023-10-31,Enterprise Software,22001.0,1,Europe,Sarah Johnson,1760.08,Q4,October,Tuesday,22001.0,False
+2023-10-31,Cloud Platform,14627.0,4,Asia Pacific,Emily Rodriguez,1170.16,Q4,October,Tuesday,3656.75,False
+2023-10-31,Mobile App,4817.0,120,Europe,James Wilson,385.36,Q4,October,Tuesday,40.141666666666666,False
+2023-11-01,Mobile App,10178.0,139,Europe,Mike Chen,814.24,Q4,November,Wednesday,73.22302158273381,False
+2023-11-01,Cloud Platform,24974.0,5,Europe,David Kim,1997.92,Q4,November,Wednesday,4994.8,False
+2023-11-01,Professional Services,24246.0,3,North America,Lisa Thompson,1939.68,Q4,November,Wednesday,8082.0,False
+2023-11-01,Analytics Suite,76255.0,4,North America,Sarah Johnson,6100.4,Q4,November,Wednesday,19063.75,True
+2023-11-01,Professional Services,47820.0,6,Latin America,Mike Chen,3825.6,Q4,November,Wednesday,7970.0,True
+2023-11-01,Mobile App,8222.0,644,North America,Sarah Johnson,657.76,Q4,November,Wednesday,12.767080745341614,False
+2023-11-01,Cloud Platform,19573.0,6,North America,Sarah Johnson,1565.84,Q4,November,Wednesday,3262.1666666666665,False
+2023-11-02,Analytics Suite,34896.0,5,North America,David Kim,2791.68,Q4,November,Thursday,6979.2,True
+2023-11-02,Enterprise Software,62183.0,1,Asia Pacific,David Kim,4974.64,Q4,November,Thursday,62183.0,True
+2023-11-02,Mobile App,9286.0,655,Asia Pacific,Emily Rodriguez,742.88,Q4,November,Thursday,14.17709923664122,False
+2023-11-02,Analytics Suite,76703.0,3,Latin America,James Wilson,6136.24,Q4,November,Thursday,25567.666666666668,True
+2023-11-02,Cloud Platform,30722.0,3,Latin America,Mike Chen,2457.76,Q4,November,Thursday,10240.666666666666,True
+2023-11-02,Professional Services,29867.0,1,North America,David Kim,2389.36,Q4,November,Thursday,29867.0,False
+2023-11-02,Analytics Suite,32541.0,1,Europe,James Wilson,2603.28,Q4,November,Thursday,32541.0,True
+2023-11-03,Enterprise Software,72958.0,1,North America,Mike Chen,5836.64,Q4,November,Friday,72958.0,True
+2023-11-03,Mobile App,3286.0,613,Asia Pacific,David Kim,262.88,Q4,November,Friday,5.3605220228384995,False
+2023-11-03,Analytics Suite,53750.0,2,Europe,Mike Chen,4300.0,Q4,November,Friday,26875.0,True
+2023-11-03,Mobile App,6690.0,453,Asia Pacific,Sarah Johnson,535.2,Q4,November,Friday,14.7682119205298,False
+2023-11-03,Enterprise Software,60213.0,5,Europe,David Kim,4817.04,Q4,November,Friday,12042.6,True
+2023-11-03,Enterprise Software,36511.0,4,Asia Pacific,David Kim,2920.88,Q4,November,Friday,9127.75,True
+2023-11-03,Cloud Platform,24235.0,5,North America,James Wilson,1938.8,Q4,November,Friday,4847.0,False
+2023-11-03,Cloud Platform,17643.0,6,Asia Pacific,James Wilson,1411.44,Q4,November,Friday,2940.5,False
+2023-11-04,Analytics Suite,31802.0,1,Europe,Lisa Thompson,2544.16,Q4,November,Saturday,31802.0,True
+2023-11-04,Enterprise Software,15000.0,2,Latin America,Emily Rodriguez,1200.0,Q4,November,Saturday,7500.0,False
+2023-11-04,Cloud Platform,20826.0,3,Europe,David Kim,1666.08,Q4,November,Saturday,6942.0,False
+2023-11-04,Analytics Suite,75052.0,4,Europe,James Wilson,6004.16,Q4,November,Saturday,18763.0,True
+2023-11-05,Cloud Platform,31465.0,7,North America,David Kim,2517.2,Q4,November,Sunday,4495.0,True
+2023-11-05,Mobile App,6040.0,857,Latin America,Mike Chen,483.2,Q4,November,Sunday,7.0478413068844805,False
+2023-11-05,Analytics Suite,40147.0,2,Europe,Sarah Johnson,3211.76,Q4,November,Sunday,20073.5,True
+2023-11-05,Professional Services,39922.0,1,North America,Mike Chen,3193.76,Q4,November,Sunday,39922.0,True
+2023-11-05,Mobile App,4903.0,210,North America,David Kim,392.24,Q4,November,Sunday,23.347619047619048,False
+2023-11-06,Enterprise Software,76337.0,3,Europe,Mike Chen,6106.96,Q4,November,Monday,25445.666666666668,True
+2023-11-06,Analytics Suite,60261.0,5,Latin America,Emily Rodriguez,4820.88,Q4,November,Monday,12052.2,True
+2023-11-06,Enterprise Software,95765.0,3,Europe,James Wilson,7661.2,Q4,November,Monday,31921.666666666668,True
+2023-11-06,Analytics Suite,47527.0,3,Asia Pacific,Lisa Thompson,3802.16,Q4,November,Monday,15842.333333333334,True
+2023-11-06,Mobile App,6572.0,792,Asia Pacific,Emily Rodriguez,525.76,Q4,November,Monday,8.297979797979798,False
+2023-11-06,Cloud Platform,15468.0,5,Europe,Lisa Thompson,1237.44,Q4,November,Monday,3093.6,False
+2023-11-06,Analytics Suite,36844.0,3,North America,Lisa Thompson,2947.52,Q4,November,Monday,12281.333333333334,True
+2023-11-06,Professional Services,32621.0,2,Europe,Lisa Thompson,2609.68,Q4,November,Monday,16310.5,True
+2023-11-07,Professional Services,38857.0,6,North America,Sarah Johnson,3108.56,Q4,November,Tuesday,6476.166666666667,True
+2023-11-07,Cloud Platform,26755.0,7,Asia Pacific,Emily Rodriguez,2140.4,Q4,November,Tuesday,3822.1428571428573,False
+2023-11-07,Mobile App,5313.0,247,Latin America,Emily Rodriguez,425.04,Q4,November,Tuesday,21.510121457489877,False
+2023-11-08,Cloud Platform,30403.0,7,Latin America,Emily Rodriguez,2432.24,Q4,November,Wednesday,4343.285714285715,True
+2023-11-08,Professional Services,32153.0,5,Asia Pacific,Lisa Thompson,2572.24,Q4,November,Wednesday,6430.6,True
+2023-11-09,Enterprise Software,69551.0,1,North America,David Kim,5564.08,Q4,November,Thursday,69551.0,True
+2023-11-09,Analytics Suite,38015.0,2,Europe,Sarah Johnson,3041.2,Q4,November,Thursday,19007.5,True
+2023-11-10,Analytics Suite,13363.0,2,North America,David Kim,1069.04,Q4,November,Friday,6681.5,False
+2023-11-10,Mobile App,8856.0,902,Europe,Mike Chen,708.48,Q4,November,Friday,9.818181818181818,False
+2023-11-10,Cloud Platform,25642.0,1,Latin America,Sarah Johnson,2051.36,Q4,November,Friday,25642.0,False
+2023-11-10,Analytics Suite,44864.0,2,Europe,David Kim,3589.12,Q4,November,Friday,22432.0,True
+2023-11-10,Cloud Platform,21422.0,3,Latin America,James Wilson,1713.76,Q4,November,Friday,7140.666666666667,False
+2023-11-11,Professional Services,40417.0,4,Asia Pacific,Mike Chen,3233.36,Q4,November,Saturday,10104.25,True
+2023-11-11,Mobile App,3718.0,806,Latin America,Emily Rodriguez,297.44,Q4,November,Saturday,4.612903225806452,False
+2023-11-11,Cloud Platform,17666.0,8,North America,Emily Rodriguez,1413.28,Q4,November,Saturday,2208.25,False
+2023-11-11,Mobile App,8667.0,575,Asia Pacific,James Wilson,693.36,Q4,November,Saturday,15.07304347826087,False
+2023-11-11,Enterprise Software,43659.0,4,North America,Sarah Johnson,3492.72,Q4,November,Saturday,10914.75,True
+2023-11-11,Mobile App,7616.0,970,Asia Pacific,David Kim,609.28,Q4,November,Saturday,7.851546391752577,False
+2023-11-11,Analytics Suite,29058.0,1,North America,David Kim,2324.64,Q4,November,Saturday,29058.0,False
+2023-11-11,Mobile App,7979.0,756,Europe,Sarah Johnson,638.32,Q4,November,Saturday,10.554232804232804,False
+2023-11-12,Mobile App,6925.0,450,Latin America,James Wilson,554.0,Q4,November,Sunday,15.38888888888889,False
+2023-11-12,Mobile App,3608.0,768,North America,James Wilson,288.64,Q4,November,Sunday,4.697916666666667,False
+2023-11-12,Professional Services,47229.0,8,Asia Pacific,Emily Rodriguez,3778.32,Q4,November,Sunday,5903.625,True
+2023-11-12,Cloud Platform,16372.0,10,Latin America,Emily Rodriguez,1309.76,Q4,November,Sunday,1637.2,False
+2023-11-13,Analytics Suite,37089.0,1,Asia Pacific,Mike Chen,2967.12,Q4,November,Monday,37089.0,True
+2023-11-13,Enterprise Software,74211.0,2,North America,Mike Chen,5936.88,Q4,November,Monday,37105.5,True
+2023-11-13,Professional Services,47060.0,8,Europe,Sarah Johnson,3764.8,Q4,November,Monday,5882.5,True
+2023-11-13,Enterprise Software,48667.0,2,Asia Pacific,Sarah Johnson,3893.36,Q4,November,Monday,24333.5,True
+2023-11-13,Analytics Suite,49906.0,5,Asia Pacific,Mike Chen,3992.48,Q4,November,Monday,9981.2,True
+2023-11-14,Enterprise Software,79005.0,3,Latin America,Emily Rodriguez,6320.4,Q4,November,Tuesday,26335.0,True
+2023-11-14,Enterprise Software,84555.0,3,Asia Pacific,Sarah Johnson,6764.4,Q4,November,Tuesday,28185.0,True
+2023-11-14,Analytics Suite,51593.0,5,Latin America,David Kim,4127.44,Q4,November,Tuesday,10318.6,True
+2023-11-14,Mobile App,6229.0,182,Europe,Sarah Johnson,498.32,Q4,November,Tuesday,34.22527472527472,False
+2023-11-15,Cloud Platform,15786.0,1,North America,David Kim,1262.88,Q4,November,Wednesday,15786.0,False
+2023-11-15,Mobile App,7180.0,554,North America,James Wilson,574.4,Q4,November,Wednesday,12.96028880866426,False
+2023-11-15,Cloud Platform,14245.0,6,Europe,James Wilson,1139.6,Q4,November,Wednesday,2374.1666666666665,False
+2023-11-15,Professional Services,7500.0,1,Europe,James Wilson,600.0,Q4,November,Wednesday,7500.0,False
+2023-11-15,Mobile App,7916.0,137,Latin America,James Wilson,633.28,Q4,November,Wednesday,57.78102189781022,False
+2023-11-15,Analytics Suite,62287.0,4,Latin America,Lisa Thompson,4982.96,Q4,November,Wednesday,15571.75,True
+2023-11-16,Enterprise Software,20378.0,4,North America,Mike Chen,1630.24,Q4,November,Thursday,5094.5,False
+2023-11-16,Cloud Platform,14638.0,6,Asia Pacific,James Wilson,1171.04,Q4,November,Thursday,2439.6666666666665,False
+2023-11-16,Analytics Suite,58101.0,3,Latin America,James Wilson,4648.08,Q4,November,Thursday,19367.0,True
+2023-11-16,Professional Services,56603.0,2,Latin America,James Wilson,4528.24,Q4,November,Thursday,28301.5,True
+2023-11-16,Professional Services,35218.0,6,Asia Pacific,James Wilson,2817.44,Q4,November,Thursday,5869.666666666667,True
+2023-11-16,Professional Services,27355.0,9,Asia Pacific,Lisa Thompson,2188.4,Q4,November,Thursday,3039.4444444444443,False
+2023-11-16,Mobile App,6615.0,957,North America,James Wilson,529.2,Q4,November,Thursday,6.912225705329154,False
+2023-11-17,Analytics Suite,69210.0,4,Europe,Mike Chen,5536.8,Q4,November,Friday,17302.5,True
+2023-11-17,Mobile App,5643.0,209,Asia Pacific,Lisa Thompson,451.44,Q4,November,Friday,27.0,False
+2023-11-17,Analytics Suite,37251.0,4,Europe,David Kim,2980.08,Q4,November,Friday,9312.75,True
+2023-11-17,Mobile App,5986.0,278,Europe,Mike Chen,478.88,Q4,November,Friday,21.532374100719423,False
+2023-11-18,Enterprise Software,49980.0,5,Europe,Lisa Thompson,3998.4,Q4,November,Saturday,9996.0,True
+2023-11-18,Analytics Suite,50803.0,3,Europe,David Kim,4064.24,Q4,November,Saturday,16934.333333333332,True
+2023-11-18,Analytics Suite,72882.0,4,Asia Pacific,Lisa Thompson,5830.56,Q4,November,Saturday,18220.5,True
+2023-11-18,Professional Services,38392.0,2,Latin America,Emily Rodriguez,3071.36,Q4,November,Saturday,19196.0,True
+2023-11-19,Professional Services,32350.0,1,Europe,Sarah Johnson,2588.0,Q4,November,Sunday,32350.0,True
+2023-11-19,Cloud Platform,19161.0,3,Europe,Lisa Thompson,1532.88,Q4,November,Sunday,6387.0,False
+2023-11-19,Professional Services,18586.0,10,Europe,Lisa Thompson,1486.88,Q4,November,Sunday,1858.6,False
+2023-11-19,Enterprise Software,88545.0,1,Asia Pacific,James Wilson,7083.6,Q4,November,Sunday,88545.0,True
+2023-11-20,Cloud Platform,20509.0,9,Asia Pacific,James Wilson,1640.72,Q4,November,Monday,2278.777777777778,False
+2023-11-20,Analytics Suite,46346.0,2,Latin America,James Wilson,3707.68,Q4,November,Monday,23173.0,True
+2023-11-21,Mobile App,13705.0,143,Asia Pacific,Sarah Johnson,1096.4,Q4,November,Tuesday,95.83916083916084,False
+2023-11-21,Mobile App,7627.0,200,Asia Pacific,Emily Rodriguez,610.16,Q4,November,Tuesday,38.135,False
+2023-11-21,Mobile App,5421.0,953,Asia Pacific,James Wilson,433.68,Q4,November,Tuesday,5.688352570828961,False
+2023-11-21,Professional Services,30523.0,4,North America,Sarah Johnson,2441.84,Q4,November,Tuesday,7630.75,True
+2023-11-21,Professional Services,47058.0,5,Latin America,Emily Rodriguez,3764.64,Q4,November,Tuesday,9411.6,True
+2023-11-21,Mobile App,7237.0,314,Europe,Sarah Johnson,578.96,Q4,November,Tuesday,23.047770700636942,False
+2023-11-22,Cloud Platform,11938.0,1,Asia Pacific,Emily Rodriguez,955.04,Q4,November,Wednesday,11938.0,False
+2023-11-22,Enterprise Software,89303.0,3,North America,Sarah Johnson,7144.24,Q4,November,Wednesday,29767.666666666668,True
+2023-11-22,Enterprise Software,55968.0,4,Asia Pacific,Lisa Thompson,4477.44,Q4,November,Wednesday,13992.0,True
+2023-11-22,Enterprise Software,109339.0,3,Europe,Emily Rodriguez,8747.12,Q4,November,Wednesday,36446.333333333336,True
+2023-11-22,Analytics Suite,64876.0,3,Europe,Emily Rodriguez,5190.08,Q4,November,Wednesday,21625.333333333332,True
+2023-11-22,Professional Services,30303.0,6,Europe,Lisa Thompson,2424.24,Q4,November,Wednesday,5050.5,True
+2023-11-22,Analytics Suite,67830.0,3,Asia Pacific,Lisa Thompson,5426.4,Q4,November,Wednesday,22610.0,True
+2023-11-23,Mobile App,7142.0,224,North America,Lisa Thompson,571.36,Q4,November,Thursday,31.883928571428573,False
+2023-11-23,Analytics Suite,61535.0,5,Asia Pacific,James Wilson,4922.8,Q4,November,Thursday,12307.0,True
+2023-11-23,Enterprise Software,80179.0,2,North America,Sarah Johnson,6414.32,Q4,November,Thursday,40089.5,True
+2023-11-23,Mobile App,5222.0,595,North America,Emily Rodriguez,417.76,Q4,November,Thursday,8.776470588235295,False
+2023-11-23,Analytics Suite,39539.0,5,Latin America,Emily Rodriguez,3163.12,Q4,November,Thursday,7907.8,True
+2023-11-23,Cloud Platform,27488.0,5,Latin America,Sarah Johnson,2199.04,Q4,November,Thursday,5497.6,False
+2023-11-24,Enterprise Software,62969.0,1,Europe,Mike Chen,5037.52,Q4,November,Friday,62969.0,True
+2023-11-24,Enterprise Software,61523.0,1,North America,James Wilson,4921.84,Q4,November,Friday,61523.0,True
+2023-11-24,Analytics Suite,34959.0,4,Asia Pacific,James Wilson,2796.72,Q4,November,Friday,8739.75,True
+2023-11-24,Cloud Platform,23668.0,9,Europe,Emily Rodriguez,1893.44,Q4,November,Friday,2629.777777777778,False
+2023-11-24,Cloud Platform,33993.0,1,Latin America,David Kim,2719.44,Q4,November,Friday,33993.0,True
+2023-11-24,Cloud Platform,14274.0,9,North America,David Kim,1141.92,Q4,November,Friday,1586.0,False
+2023-11-25,Mobile App,7050.0,525,Asia Pacific,David Kim,564.0,Q4,November,Saturday,13.428571428571429,False
+2023-11-25,Mobile App,9965.0,616,Latin America,James Wilson,797.2,Q4,November,Saturday,16.176948051948052,False
+2023-11-25,Analytics Suite,47829.0,3,Europe,Lisa Thompson,3826.32,Q4,November,Saturday,15943.0,True
+2023-11-25,Analytics Suite,55649.0,5,Asia Pacific,James Wilson,4451.92,Q4,November,Saturday,11129.8,True
+2023-11-25,Enterprise Software,47689.0,3,Latin America,Mike Chen,3815.12,Q4,November,Saturday,15896.333333333334,True
+2023-11-26,Analytics Suite,55296.0,1,Asia Pacific,James Wilson,4423.68,Q4,November,Sunday,55296.0,True
+2023-11-26,Professional Services,33034.0,1,Latin America,Sarah Johnson,2642.72,Q4,November,Sunday,33034.0,True
+2023-11-26,Analytics Suite,63490.0,3,Asia Pacific,Mike Chen,5079.2,Q4,November,Sunday,21163.333333333332,True
+2023-11-26,Analytics Suite,66454.0,1,Europe,Mike Chen,5316.32,Q4,November,Sunday,66454.0,True
+2023-11-26,Cloud Platform,37314.0,5,North America,David Kim,2985.12,Q4,November,Sunday,7462.8,True
+2023-11-27,Professional Services,41086.0,5,Europe,Emily Rodriguez,3286.88,Q4,November,Monday,8217.2,True
+2023-11-27,Analytics Suite,53789.0,2,North America,Mike Chen,4303.12,Q4,November,Monday,26894.5,True
+2023-11-27,Enterprise Software,74082.0,4,North America,Lisa Thompson,5926.56,Q4,November,Monday,18520.5,True
+2023-11-27,Cloud Platform,18775.0,6,North America,David Kim,1502.0,Q4,November,Monday,3129.1666666666665,False
+2023-11-27,Professional Services,38554.0,6,Asia Pacific,Emily Rodriguez,3084.32,Q4,November,Monday,6425.666666666667,True
+2023-11-27,Professional Services,31898.0,4,Asia Pacific,Mike Chen,2551.84,Q4,November,Monday,7974.5,True
+2023-11-27,Analytics Suite,51476.0,5,North America,Emily Rodriguez,4118.08,Q4,November,Monday,10295.2,True
+2023-11-27,Enterprise Software,97669.0,4,Latin America,Emily Rodriguez,7813.52,Q4,November,Monday,24417.25,True
+2023-11-28,Cloud Platform,14658.0,4,North America,Sarah Johnson,1172.64,Q4,November,Tuesday,3664.5,False
+2023-11-28,Mobile App,9393.0,423,Europe,Lisa Thompson,751.44,Q4,November,Tuesday,22.20567375886525,False
+2023-11-28,Enterprise Software,97659.0,2,Latin America,Lisa Thompson,7812.72,Q4,November,Tuesday,48829.5,True
+2023-11-29,Professional Services,33760.0,3,Asia Pacific,Lisa Thompson,2700.8,Q4,November,Wednesday,11253.333333333334,True
+2023-11-29,Professional Services,12720.0,8,North America,Mike Chen,1017.6,Q4,November,Wednesday,1590.0,False
+2023-11-29,Enterprise Software,57235.0,5,Asia Pacific,James Wilson,4578.8,Q4,November,Wednesday,11447.0,True
+2023-11-29,Professional Services,48618.0,5,Europe,Sarah Johnson,3889.44,Q4,November,Wednesday,9723.6,True
+2023-11-29,Analytics Suite,48663.0,2,North America,Sarah Johnson,3893.04,Q4,November,Wednesday,24331.5,True
+2023-11-29,Analytics Suite,34310.0,5,Latin America,Mike Chen,2744.8,Q4,November,Wednesday,6862.0,True
+2023-11-30,Cloud Platform,17819.0,7,North America,Sarah Johnson,1425.52,Q4,November,Thursday,2545.5714285714284,False
+2023-11-30,Cloud Platform,26295.0,5,Latin America,Sarah Johnson,2103.6,Q4,November,Thursday,5259.0,False
+2023-11-30,Professional Services,40740.0,7,Asia Pacific,Lisa Thompson,3259.2,Q4,November,Thursday,5820.0,True
+2023-11-30,Professional Services,32491.0,5,Latin America,Emily Rodriguez,2599.28,Q4,November,Thursday,6498.2,True
+2023-11-30,Mobile App,6229.0,193,North America,James Wilson,498.32,Q4,November,Thursday,32.27461139896373,False
+2023-12-01,Analytics Suite,43241.0,4,Latin America,David Kim,3459.28,Q4,December,Friday,10810.25,True
+2023-12-01,Analytics Suite,35440.0,5,North America,David Kim,2835.2,Q4,December,Friday,7088.0,True
+2023-12-02,Professional Services,51961.0,5,Asia Pacific,Sarah Johnson,4156.88,Q4,December,Saturday,10392.2,True
+2023-12-02,Mobile App,6323.0,316,Europe,Emily Rodriguez,505.84,Q4,December,Saturday,20.009493670886076,False
+2023-12-03,Mobile App,9556.0,304,North America,Lisa Thompson,764.48,Q4,December,Sunday,31.43421052631579,False
+2023-12-03,Professional Services,50973.0,4,Asia Pacific,Emily Rodriguez,4077.84,Q4,December,Sunday,12743.25,True
+2023-12-03,Professional Services,45482.0,5,Europe,Emily Rodriguez,3638.56,Q4,December,Sunday,9096.4,True
+2023-12-03,Mobile App,6093.0,346,Asia Pacific,Emily Rodriguez,487.44,Q4,December,Sunday,17.609826589595375,False
+2023-12-03,Enterprise Software,78478.0,2,Europe,Sarah Johnson,6278.24,Q4,December,Sunday,39239.0,True
+2023-12-03,Enterprise Software,69491.0,3,Asia Pacific,James Wilson,5559.28,Q4,December,Sunday,23163.666666666668,True
+2023-12-03,Analytics Suite,35715.0,4,Latin America,Lisa Thompson,2857.2,Q4,December,Sunday,8928.75,True
+2023-12-04,Cloud Platform,23043.0,7,Latin America,Mike Chen,1843.44,Q4,December,Monday,3291.8571428571427,False
+2023-12-04,Cloud Platform,13572.0,1,Asia Pacific,Emily Rodriguez,1085.76,Q4,December,Monday,13572.0,False
+2023-12-04,Cloud Platform,28482.0,4,Latin America,David Kim,2278.56,Q4,December,Monday,7120.5,False
+2023-12-04,Mobile App,6024.0,530,Latin America,Emily Rodriguez,481.92,Q4,December,Monday,11.366037735849057,False
+2023-12-04,Enterprise Software,74224.0,1,Latin America,Emily Rodriguez,5937.92,Q4,December,Monday,74224.0,True
+2023-12-04,Analytics Suite,53164.0,2,Latin America,Emily Rodriguez,4253.12,Q4,December,Monday,26582.0,True
+2023-12-04,Analytics Suite,45194.0,1,Asia Pacific,Mike Chen,3615.52,Q4,December,Monday,45194.0,True
+2023-12-05,Cloud Platform,24696.0,5,North America,James Wilson,1975.68,Q4,December,Tuesday,4939.2,False
+2023-12-05,Analytics Suite,42018.0,5,Asia Pacific,Sarah Johnson,3361.44,Q4,December,Tuesday,8403.6,True
+2023-12-05,Analytics Suite,61808.0,4,North America,Emily Rodriguez,4944.64,Q4,December,Tuesday,15452.0,True
+2023-12-05,Professional Services,20867.0,5,Europe,Mike Chen,1669.36,Q4,December,Tuesday,4173.4,False
+2023-12-05,Enterprise Software,72653.0,3,Latin America,Mike Chen,5812.24,Q4,December,Tuesday,24217.666666666668,True
+2023-12-05,Professional Services,55358.0,4,Europe,David Kim,4428.64,Q4,December,Tuesday,13839.5,True
+2023-12-05,Analytics Suite,34295.0,1,Europe,David Kim,2743.6,Q4,December,Tuesday,34295.0,True
+2023-12-05,Cloud Platform,16730.0,3,Latin America,Lisa Thompson,1338.4,Q4,December,Tuesday,5576.666666666667,False
+2023-12-06,Professional Services,40396.0,7,Asia Pacific,Emily Rodriguez,3231.68,Q4,December,Wednesday,5770.857142857143,True
+2023-12-06,Cloud Platform,22131.0,10,Europe,James Wilson,1770.48,Q4,December,Wednesday,2213.1,False
+2023-12-07,Mobile App,7736.0,171,North America,David Kim,618.88,Q4,December,Thursday,45.239766081871345,False
+2023-12-07,Professional Services,40136.0,4,Asia Pacific,Sarah Johnson,3210.88,Q4,December,Thursday,10034.0,True
+2023-12-07,Professional Services,41664.0,9,Latin America,David Kim,3333.12,Q4,December,Thursday,4629.333333333333,True
+2023-12-07,Enterprise Software,93303.0,3,Europe,David Kim,7464.24,Q4,December,Thursday,31101.0,True
+2023-12-07,Enterprise Software,78606.0,2,Asia Pacific,James Wilson,6288.48,Q4,December,Thursday,39303.0,True
+2023-12-08,Enterprise Software,64933.0,2,Europe,Mike Chen,5194.64,Q4,December,Friday,32466.5,True
+2023-12-08,Professional Services,42062.0,8,Europe,Emily Rodriguez,3364.96,Q4,December,Friday,5257.75,True
+2023-12-08,Analytics Suite,76928.0,5,Latin America,Mike Chen,6154.24,Q4,December,Friday,15385.6,True
+2023-12-09,Cloud Platform,20164.0,4,Europe,Sarah Johnson,1613.12,Q4,December,Saturday,5041.0,False
+2023-12-09,Analytics Suite,34674.0,4,Asia Pacific,James Wilson,2773.92,Q4,December,Saturday,8668.5,True
+2023-12-10,Mobile App,9324.0,285,Latin America,James Wilson,745.92,Q4,December,Sunday,32.71578947368421,False
+2023-12-10,Mobile App,6747.0,714,Asia Pacific,David Kim,539.76,Q4,December,Sunday,9.449579831932773,False
+2023-12-10,Cloud Platform,7312.0,5,Asia Pacific,David Kim,584.96,Q4,December,Sunday,1462.4,False
+2023-12-10,Analytics Suite,61457.0,5,Latin America,David Kim,4916.56,Q4,December,Sunday,12291.4,True
+2023-12-10,Professional Services,29379.0,9,Europe,David Kim,2350.32,Q4,December,Sunday,3264.3333333333335,False
+2023-12-10,Professional Services,34049.0,8,North America,Sarah Johnson,2723.92,Q4,December,Sunday,4256.125,True
+2023-12-11,Enterprise Software,76971.0,3,Asia Pacific,Sarah Johnson,6157.68,Q4,December,Monday,25657.0,True
+2023-12-11,Professional Services,37000.0,5,Asia Pacific,David Kim,2960.0,Q4,December,Monday,7400.0,True
+2023-12-11,Professional Services,42449.0,7,Europe,James Wilson,3395.92,Q4,December,Monday,6064.142857142857,True
+2023-12-12,Enterprise Software,60854.0,1,Asia Pacific,James Wilson,4868.32,Q4,December,Tuesday,60854.0,True
+2023-12-12,Analytics Suite,56542.0,1,Europe,James Wilson,4523.36,Q4,December,Tuesday,56542.0,True
+2023-12-12,Analytics Suite,45184.0,4,Asia Pacific,James Wilson,3614.72,Q4,December,Tuesday,11296.0,True
+2023-12-13,Analytics Suite,59860.0,3,Latin America,Lisa Thompson,4788.8,Q4,December,Wednesday,19953.333333333332,True
+2023-12-13,Enterprise Software,82922.0,2,Asia Pacific,Lisa Thompson,6633.76,Q4,December,Wednesday,41461.0,True
+2023-12-14,Cloud Platform,15106.0,6,Asia Pacific,Mike Chen,1208.48,Q4,December,Thursday,2517.6666666666665,False
+2023-12-14,Cloud Platform,27841.0,5,Latin America,David Kim,2227.28,Q4,December,Thursday,5568.2,False
+2023-12-14,Mobile App,5874.0,394,Asia Pacific,Lisa Thompson,469.92,Q4,December,Thursday,14.908629441624365,False
+2023-12-14,Cloud Platform,26090.0,10,Asia Pacific,James Wilson,2087.2,Q4,December,Thursday,2609.0,False
+2023-12-14,Professional Services,38856.0,6,Europe,Sarah Johnson,3108.48,Q4,December,Thursday,6476.0,True
+2023-12-15,Analytics Suite,76021.0,3,Latin America,David Kim,6081.68,Q4,December,Friday,25340.333333333332,True
+2023-12-15,Analytics Suite,45715.0,2,Asia Pacific,Lisa Thompson,3657.2,Q4,December,Friday,22857.5,True
+2023-12-16,Mobile App,6266.0,930,Asia Pacific,Emily Rodriguez,501.28,Q4,December,Saturday,6.73763440860215,False
+2023-12-16,Analytics Suite,48714.0,1,Latin America,David Kim,3897.12,Q4,December,Saturday,48714.0,True
+2023-12-16,Enterprise Software,63633.0,5,Latin America,James Wilson,5090.64,Q4,December,Saturday,12726.6,True
+2023-12-16,Mobile App,8679.0,382,Asia Pacific,Sarah Johnson,694.32,Q4,December,Saturday,22.719895287958114,False
+2023-12-16,Mobile App,3605.0,175,Europe,Lisa Thompson,288.4,Q4,December,Saturday,20.6,False
+2023-12-16,Mobile App,4787.0,888,Europe,Lisa Thompson,382.96,Q4,December,Saturday,5.3907657657657655,False
+2023-12-16,Analytics Suite,33303.0,4,Latin America,James Wilson,2664.24,Q4,December,Saturday,8325.75,True
+2023-12-17,Professional Services,44978.0,1,Asia Pacific,Lisa Thompson,3598.24,Q4,December,Sunday,44978.0,True
+2023-12-17,Professional Services,52961.0,8,Asia Pacific,Sarah Johnson,4236.88,Q4,December,Sunday,6620.125,True
+2023-12-17,Professional Services,33903.0,8,Europe,David Kim,2712.24,Q4,December,Sunday,4237.875,True
+2023-12-17,Professional Services,33227.0,1,North America,James Wilson,2658.16,Q4,December,Sunday,33227.0,True
+2023-12-17,Mobile App,7147.0,375,Latin America,Sarah Johnson,571.76,Q4,December,Sunday,19.058666666666667,False
+2023-12-17,Enterprise Software,94399.0,3,Asia Pacific,David Kim,7551.92,Q4,December,Sunday,31466.333333333332,True
+2023-12-17,Cloud Platform,15157.0,1,Asia Pacific,James Wilson,1212.56,Q4,December,Sunday,15157.0,False
+2023-12-18,Cloud Platform,22501.0,4,North America,Mike Chen,1800.08,Q4,December,Monday,5625.25,False
+2023-12-18,Enterprise Software,90479.0,2,North America,Mike Chen,7238.32,Q4,December,Monday,45239.5,True
+2023-12-18,Mobile App,8052.0,191,Asia Pacific,James Wilson,644.16,Q4,December,Monday,42.15706806282723,False
+2023-12-18,Analytics Suite,51786.0,4,Europe,Lisa Thompson,4142.88,Q4,December,Monday,12946.5,True
+2023-12-18,Enterprise Software,91021.0,4,Europe,David Kim,7281.68,Q4,December,Monday,22755.25,True
+2023-12-18,Professional Services,7500.0,6,Asia Pacific,David Kim,600.0,Q4,December,Monday,1250.0,False
+2023-12-19,Mobile App,8423.0,293,Latin America,Lisa Thompson,673.84,Q4,December,Tuesday,28.747440273037544,False
+2023-12-19,Cloud Platform,16879.0,1,Latin America,Mike Chen,1350.32,Q4,December,Tuesday,16879.0,False
+2023-12-19,Enterprise Software,31556.0,5,Europe,David Kim,2524.48,Q4,December,Tuesday,6311.2,True
+2023-12-19,Cloud Platform,24220.0,7,Europe,James Wilson,1937.6,Q4,December,Tuesday,3460.0,False
+2023-12-19,Professional Services,49423.0,4,Europe,Emily Rodriguez,3953.84,Q4,December,Tuesday,12355.75,True
+2023-12-19,Enterprise Software,67113.0,3,Europe,Sarah Johnson,5369.04,Q4,December,Tuesday,22371.0,True
+2023-12-19,Analytics Suite,63007.0,5,Latin America,David Kim,5040.56,Q4,December,Tuesday,12601.4,True
+2023-12-19,Enterprise Software,103857.0,2,Asia Pacific,David Kim,8308.56,Q4,December,Tuesday,51928.5,True
+2023-12-20,Professional Services,48806.0,5,Asia Pacific,James Wilson,3904.48,Q4,December,Wednesday,9761.2,True
+2023-12-20,Professional Services,52219.0,6,Europe,James Wilson,4177.52,Q4,December,Wednesday,8703.166666666666,True
+2023-12-20,Cloud Platform,25675.0,8,North America,Emily Rodriguez,2054.0,Q4,December,Wednesday,3209.375,False
+2023-12-20,Cloud Platform,21475.0,3,Latin America,Emily Rodriguez,1718.0,Q4,December,Wednesday,7158.333333333333,False
+2023-12-20,Enterprise Software,36358.0,3,North America,Sarah Johnson,2908.64,Q4,December,Wednesday,12119.333333333334,True
+2023-12-20,Enterprise Software,64832.0,3,North America,Emily Rodriguez,5186.56,Q4,December,Wednesday,21610.666666666668,True
+2023-12-21,Cloud Platform,15687.0,7,Latin America,Lisa Thompson,1254.96,Q4,December,Thursday,2241.0,False
+2023-12-21,Professional Services,57794.0,7,Latin America,Lisa Thompson,4623.52,Q4,December,Thursday,8256.285714285714,True
+2023-12-21,Analytics Suite,46414.0,5,Europe,Mike Chen,3713.12,Q4,December,Thursday,9282.8,True
+2023-12-21,Mobile App,7258.0,519,Latin America,David Kim,580.64,Q4,December,Thursday,13.984585741811175,False
+2023-12-22,Analytics Suite,57106.0,2,North America,Emily Rodriguez,4568.48,Q4,December,Friday,28553.0,True
+2023-12-22,Analytics Suite,49640.0,2,Europe,James Wilson,3971.2,Q4,December,Friday,24820.0,True
+2023-12-22,Enterprise Software,105596.0,5,North America,Emily Rodriguez,8447.68,Q4,December,Friday,21119.2,True
+2023-12-22,Professional Services,28462.0,7,North America,Emily Rodriguez,2276.96,Q4,December,Friday,4066.0,False
+2023-12-22,Mobile App,7408.0,355,Latin America,Mike Chen,592.64,Q4,December,Friday,20.867605633802818,False
+2023-12-22,Mobile App,5440.0,842,Europe,Lisa Thompson,435.2,Q4,December,Friday,6.460807600950119,False
+2023-12-23,Enterprise Software,42279.0,4,North America,David Kim,3382.32,Q4,December,Saturday,10569.75,True
+2023-12-23,Mobile App,5715.0,939,Latin America,Lisa Thompson,457.2,Q4,December,Saturday,6.086261980830671,False
+2023-12-23,Cloud Platform,20766.0,1,Latin America,James Wilson,1661.28,Q4,December,Saturday,20766.0,False
+2023-12-23,Enterprise Software,60984.0,3,Asia Pacific,Lisa Thompson,4878.72,Q4,December,Saturday,20328.0,True
+2023-12-23,Cloud Platform,16637.0,4,Europe,David Kim,1330.96,Q4,December,Saturday,4159.25,False
+2023-12-24,Professional Services,20233.0,2,Latin America,David Kim,1618.64,Q4,December,Sunday,10116.5,False
+2023-12-24,Cloud Platform,20476.0,3,Latin America,James Wilson,1638.08,Q4,December,Sunday,6825.333333333333,False
+2023-12-24,Cloud Platform,11520.0,6,North America,James Wilson,921.6,Q4,December,Sunday,1920.0,False
+2023-12-24,Analytics Suite,60172.0,2,North America,Emily Rodriguez,4813.76,Q4,December,Sunday,30086.0,True
+2023-12-24,Cloud Platform,21519.0,2,Europe,Sarah Johnson,1721.52,Q4,December,Sunday,10759.5,False
+2023-12-25,Cloud Platform,11817.0,8,Europe,Emily Rodriguez,945.36,Q4,December,Monday,1477.125,False
+2023-12-25,Professional Services,31753.0,3,Asia Pacific,Mike Chen,2540.24,Q4,December,Monday,10584.333333333334,True
+2023-12-25,Professional Services,27102.0,6,Europe,Sarah Johnson,2168.16,Q4,December,Monday,4517.0,False
+2023-12-25,Cloud Platform,23010.0,7,North America,Sarah Johnson,1840.8,Q4,December,Monday,3287.1428571428573,False
+2023-12-26,Professional Services,49074.0,3,Asia Pacific,Sarah Johnson,3925.92,Q4,December,Tuesday,16358.0,True
+2023-12-26,Enterprise Software,30621.0,5,Asia Pacific,James Wilson,2449.68,Q4,December,Tuesday,6124.2,True
+2023-12-26,Enterprise Software,72415.0,4,North America,James Wilson,5793.2,Q4,December,Tuesday,18103.75,True
+2023-12-26,Analytics Suite,46646.0,4,Asia Pacific,David Kim,3731.68,Q4,December,Tuesday,11661.5,True
+2023-12-26,Enterprise Software,84098.0,1,Europe,Sarah Johnson,6727.84,Q4,December,Tuesday,84098.0,True
+2023-12-26,Mobile App,7447.0,341,Asia Pacific,Sarah Johnson,595.76,Q4,December,Tuesday,21.838709677419356,False
+2023-12-26,Cloud Platform,16262.0,2,Europe,Sarah Johnson,1300.96,Q4,December,Tuesday,8131.0,False
+2023-12-26,Mobile App,6329.0,894,North America,David Kim,506.32,Q4,December,Tuesday,7.0794183445190155,False
+2023-12-27,Enterprise Software,53283.0,5,Latin America,Mike Chen,4262.64,Q4,December,Wednesday,10656.6,True
+2023-12-27,Analytics Suite,64817.0,4,North America,Lisa Thompson,5185.36,Q4,December,Wednesday,16204.25,True
+2023-12-27,Analytics Suite,49313.0,3,Latin America,Mike Chen,3945.04,Q4,December,Wednesday,16437.666666666668,True
+2023-12-27,Enterprise Software,109925.0,4,Latin America,Emily Rodriguez,8794.0,Q4,December,Wednesday,27481.25,True
+2023-12-27,Mobile App,6872.0,492,Asia Pacific,James Wilson,549.76,Q4,December,Wednesday,13.967479674796747,False
+2023-12-27,Enterprise Software,55123.0,2,North America,Sarah Johnson,4409.84,Q4,December,Wednesday,27561.5,True
+2023-12-28,Analytics Suite,26748.0,1,North America,Mike Chen,2139.84,Q4,December,Thursday,26748.0,False
+2023-12-28,Mobile App,3213.0,621,Europe,Emily Rodriguez,257.04,Q4,December,Thursday,5.173913043478261,False
+2023-12-29,Professional Services,18366.0,9,Asia Pacific,David Kim,1469.28,Q4,December,Friday,2040.6666666666667,False
+2023-12-29,Analytics Suite,52926.0,1,North America,James Wilson,4234.08,Q4,December,Friday,52926.0,True
+2023-12-30,Enterprise Software,80683.0,3,Asia Pacific,David Kim,6454.64,Q4,December,Saturday,26894.333333333332,True
+2023-12-30,Cloud Platform,11038.0,5,Asia Pacific,Emily Rodriguez,883.04,Q4,December,Saturday,2207.6,False
+2023-12-30,Cloud Platform,26638.0,5,Europe,David Kim,2131.04,Q4,December,Saturday,5327.6,False
+2023-12-30,Cloud Platform,17956.0,1,Europe,Emily Rodriguez,1436.48,Q4,December,Saturday,17956.0,False
+2023-12-30,Cloud Platform,21924.0,2,North America,David Kim,1753.92,Q4,December,Saturday,10962.0,False
+2023-12-30,Professional Services,51928.0,10,Latin America,Lisa Thompson,4154.24,Q4,December,Saturday,5192.8,True
+2023-12-31,Professional Services,44416.0,6,Europe,Mike Chen,3553.28,Q4,December,Sunday,7402.666666666667,True
+2023-12-31,Enterprise Software,64360.0,5,Europe,Emily Rodriguez,5148.8,Q4,December,Sunday,12872.0,True
+2023-12-31,Professional Services,25642.0,8,Asia Pacific,David Kim,2051.36,Q4,December,Sunday,3205.25,False
